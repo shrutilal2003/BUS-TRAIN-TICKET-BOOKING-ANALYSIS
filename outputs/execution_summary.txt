@@ -1,0 +1,32 @@
+BUS / TRAIN TICKET BOOKING DATA ANALYSIS
+Dataset designation: synthetic educational data; not operator or passenger records.
+
+Cleaning summary:
+Input Rows: 1208
+Exact Duplicates Removed: 8
+Invalid Rows Removed: 0
+Missing Cells Before Cleaning: 35
+Cleaned Rows: 1200
+Rows Removed: 8
+
+Analysis results:
+Dataset Records: 1200
+Total Bookings: 1200
+Completed Bookings: 832
+Confirmed Bookings: 142
+Cancelled Bookings: 152
+Pending Bookings: 74
+Eligible Bookings: 974
+Ticket Count: 3531
+Eligible Ticket Count: 2854
+Recognized Revenue: 3880660.8600000003
+Average Ticket Price: 1363.1681333333331
+Minimum Ticket Price: 292.91
+Maximum Ticket Price: 3416.54
+Most Popular Destination: Varanasi
+Age Mean: 42.78666666666667
+Age Median: 44.0
+Eligible Average Ticket Price: 1358.5169301848052
+
+Revenue rule: per-ticket price multiplied by ticket quantity; Completed and Confirmed statuses count.
+Cancelled and Pending bookings contribute zero recognized revenue. Refund accounting is not modeled.

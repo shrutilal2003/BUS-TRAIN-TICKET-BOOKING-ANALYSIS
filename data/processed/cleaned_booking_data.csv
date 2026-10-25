@@ -1,0 +1,1201 @@
+Booking_ID,Passenger_Name,Age,Gender,Transport_Mode,Source,Destination,Booking_Date,Travel_Date,Ticket_Price,Number_of_Tickets,Booking_Status,Payment_Mode,Revenue,Revenue_Eligible,Recognized_Revenue,Booking_Month,Travel_Route
+BK000001,Kabir Das,10,Male,Bus,Mumbai,Varanasi,2026-03-14,2026-05-13,1072.11,3,Confirmed,Net Banking,3216.33,True,3216.33,2026-03,Mumbai to Varanasi
+BK000002,Rohan Das,46,Male,Train,Jaipur,Kanpur,2026-04-19,2026-04-24,889.62,4,Pending,Card,3558.48,False,0.0,2026-04,Jaipur to Kanpur
+BK000003,Sana Verma,77,Male,Train,Kanpur,Varanasi,2026-03-09,2026-05-22,592.97,2,Completed,UPI,1185.94,True,1185.94,2026-03,Kanpur to Varanasi
+BK000004,Kavya Mishra,16,Female,Bus,Kolkata,Varanasi,2025-08-09,2025-10-13,1849.53,3,Confirmed,Card,5548.59,True,5548.59,2025-08,Kolkata to Varanasi
+BK000005,Ananya Sharma,22,Male,Bus,Patna,Lucknow,2026-05-24,2026-07-26,1149.03,2,Cancelled,UPI,2298.06,False,0.0,2026-05,Patna to Lucknow
+BK000006,Rohan Roy,65,Male,Bus,Lucknow,Kolkata,2025-05-21,2025-06-03,1462.57,1,Completed,Cash,1462.57,True,1462.57,2025-05,Lucknow to Kolkata
+BK000007,Ishaan Roy,44,Female,Train,Delhi,Jaipur,2025-10-18,2025-11-12,982.56,5,Completed,Card,4912.799999999999,True,4912.799999999999,2025-10,Delhi to Jaipur
+BK000008,Ananya Verma,17,Male,Train,Prayagraj,Jaipur,2026-02-13,2026-03-14,1395.82,5,Cancelled,Wallet,6979.099999999999,False,0.0,2026-02,Prayagraj to Jaipur
+BK000009,Sana Khan,39,Male,Bus,Jaipur,Mumbai,2025-01-24,2025-01-26,562.52,3,Completed,Card,1687.56,True,1687.56,2025-01,Jaipur to Mumbai
+BK000010,Meera Joshi,38,Male,Bus,Mumbai,Kolkata,2026-01-29,2026-04-04,903.74,4,Completed,Net Banking,3614.96,True,3614.96,2026-01,Mumbai to Kolkata
+BK000011,Meera Das,49,Male,Bus,Varanasi,Jaipur,2025-09-29,2025-10-27,1271.21,4,Cancelled,Cash,5084.84,False,0.0,2025-09,Varanasi to Jaipur
+BK000012,Neha Singh,36,Female,Bus,Ranchi,Agra,2025-12-19,2026-01-17,843.98,3,Completed,Cash,2531.94,True,2531.94,2025-12,Ranchi to Agra
+BK000013,Ananya Roy,75,Male,Bus,Kanpur,Prayagraj,2025-05-18,2025-07-05,701.42,1,Completed,Cash,701.42,True,701.42,2025-05,Kanpur to Prayagraj
+BK000014,Aditi Patel,50,Female,Train,Ranchi,Varanasi,2026-06-20,2026-08-27,2695.44,1,Completed,Wallet,2695.44,True,2695.44,2026-06,Ranchi to Varanasi
+BK000015,Diya Khan,58,Male,Train,Mumbai,Varanasi,2026-10-08,2027-01-04,2541.03,3,Completed,Card,7623.09,True,7623.09,2026-10,Mumbai to Varanasi
+BK000016,Kavya Gupta,14,Unknown,Bus,Jaipur,Ranchi,2025-03-20,2025-04-02,1317.97,4,Completed,Wallet,5271.88,True,5271.88,2025-03,Jaipur to Ranchi
+BK000017,Zoya Patel,8,Male,Bus,Varanasi,Kolkata,2026-07-06,2026-09-12,373.59,4,Completed,Card,1494.36,True,1494.36,2026-07,Varanasi to Kolkata
+BK000018,Arjun Mishra,6,Female,Train,Agra,Jaipur,2025-06-04,2025-08-08,2283.78,4,Completed,Wallet,9135.12,True,9135.12,2025-06,Agra to Jaipur
+BK000019,Kavya Singh,56,Male,Train,Bhopal,Delhi,2025-02-15,2025-04-08,2904.53,2,Completed,Card,5809.06,True,5809.06,2025-02,Bhopal to Delhi
+BK000020,Ishaan Mishra,25,Male,Bus,Mumbai,Delhi,2025-02-28,2025-04-23,481.93,5,Confirmed,Wallet,2409.65,True,2409.65,2025-02,Mumbai to Delhi
+BK000021,Diya Roy,45,Female,Train,Ranchi,Patna,2025-09-16,2025-12-06,1952.34,1,Completed,Wallet,1952.34,True,1952.34,2025-09,Ranchi to Patna
+BK000022,Vihaan Patel,55,Male,Bus,Patna,Mumbai,2025-06-27,2025-07-11,1259.23,1,Completed,Wallet,1259.23,True,1259.23,2025-06,Patna to Mumbai
+BK000023,Rohan Sharma,74,Female,Bus,Delhi,Varanasi,2026-05-27,2026-07-30,1511.98,2,Pending,UPI,3023.96,False,0.0,2026-05,Delhi to Varanasi
+BK000024,Kabir Sharma,29,Male,Bus,Lucknow,Ranchi,2026-09-12,2026-11-19,516.58,5,Completed,Net Banking,2582.9,True,2582.9,2026-09,Lucknow to Ranchi
+BK000025,Rohan Rao,73,Male,Train,Bhopal,Prayagraj,2026-05-03,2026-05-10,2670.91,5,Completed,UPI,13354.55,True,13354.55,2026-05,Bhopal to Prayagraj
+BK000026,Ananya Verma,74,Male,Train,Mumbai,Kolkata,2026-06-18,2026-07-26,635.22,3,Completed,Wallet,1905.66,True,1905.66,2026-06,Mumbai to Kolkata
+BK000027,Neha Rao,64,Female,Train,Bhopal,Delhi,2026-04-16,2026-06-13,1603.69,2,Completed,Wallet,3207.38,True,3207.38,2026-04,Bhopal to Delhi
+BK000028,Neha Yadav,16,Male,Bus,Mumbai,Patna,2025-08-27,2025-11-20,1120.72,2,Completed,Cash,2241.44,True,2241.44,2025-08,Mumbai to Patna
+BK000029,Ishaan Yadav,32,Male,Bus,Kanpur,Mumbai,2025-10-02,2025-10-12,491.98,5,Confirmed,Card,2459.9,True,2459.9,2025-10,Kanpur to Mumbai
+BK000030,Diya Verma,26,Female,Train,Prayagraj,Jaipur,2026-06-22,2026-08-30,1360.66,1,Completed,Card,1360.66,True,1360.66,2026-06,Prayagraj to Jaipur
+BK000031,Neha Patel,69,Male,Bus,Lucknow,Mumbai,2025-02-09,2025-04-14,2220.82,4,Completed,Net Banking,8883.28,True,8883.28,2025-02,Lucknow to Mumbai
+BK000032,Ananya Singh,65,Female,Bus,Prayagraj,Ranchi,2025-07-07,2025-09-26,915.92,1,Completed,Cash,915.92,True,915.92,2025-07,Prayagraj to Ranchi
+BK000033,Diya Gupta,69,Female,Train,Patna,Jaipur,2026-08-05,2026-09-20,1279.75,1,Completed,Cash,1279.75,True,1279.75,2026-08,Patna to Jaipur
+BK000034,Neha Singh,58,Female,Bus,Ranchi,Prayagraj,2026-05-14,2026-05-27,1820.05,2,Confirmed,Card,3640.1,True,3640.1,2026-05,Ranchi to Prayagraj
+BK000035,Kabir Rao,22,Female,Train,Agra,Bhopal,2025-07-03,2025-08-26,2407.89,1,Completed,Wallet,2407.89,True,2407.89,2025-07,Agra to Bhopal
+BK000036,Kavya Rao,6,Female,Bus,Patna,Agra,2025-07-15,2025-09-09,1223.8,3,Cancelled,Wallet,3671.3999999999996,False,0.0,2025-07,Patna to Agra
+BK000037,Ananya Rao,41,Female,Bus,Kanpur,Bhopal,2025-10-27,2025-12-25,472.53,3,Completed,UPI,1417.59,True,1417.59,2025-10,Kanpur to Bhopal
+BK000038,Meera Sharma,28,Female,Train,Varanasi,Agra,2025-04-11,2025-05-30,851.95,4,Completed,Net Banking,3407.8,True,3407.8,2025-04,Varanasi to Agra
+BK000039,Aarav Rao,70,Male,Train,Mumbai,Varanasi,2025-11-18,2026-01-15,1615.92,1,Completed,UPI,1615.92,True,1615.92,2025-11,Mumbai to Varanasi
+BK000040,Aarav Verma,7,Male,Bus,Jaipur,Kolkata,2026-02-14,2026-04-18,1505.69,2,Cancelled,Card,3011.38,False,0.0,2026-02,Jaipur to Kolkata
+BK000041,Ananya Rao,39,Male,Bus,Prayagraj,Varanasi,2026-07-25,2026-09-09,2142.77,3,Completed,Cash,6428.3099999999995,True,6428.3099999999995,2026-07,Prayagraj to Varanasi
+BK000042,Neha Mishra,27,Male,Bus,Varanasi,Agra,2025-11-18,2025-12-28,679.31,4,Cancelled,Card,2717.24,False,0.0,2025-11,Varanasi to Agra
+BK000043,Vihaan Singh,45,Male,Train,Patna,Delhi,2026-03-02,2026-05-04,2762.89,5,Completed,Cash,13814.449999999999,True,13814.449999999999,2026-03,Patna to Delhi
+BK000044,Kabir Das,5,Male,Train,Patna,Kolkata,2026-03-08,2026-04-22,2405.25,5,Completed,UPI,12026.25,True,12026.25,2026-03,Patna to Kolkata
+BK000045,Sana Das,80,Female,Train,Kolkata,Bhopal,2025-02-09,2025-04-29,1386.82,3,Completed,Card,4160.46,True,4160.46,2025-02,Kolkata to Bhopal
+BK000046,Aarav Singh,46,Male,Train,Prayagraj,Jaipur,2025-04-12,2025-05-02,2088.27,5,Completed,UPI,10441.35,True,10441.35,2025-04,Prayagraj to Jaipur
+BK000047,Kabir Yadav,53,Male,Bus,Varanasi,Patna,2025-03-30,2025-06-03,930.01,5,Confirmed,UPI,4650.05,True,4650.05,2025-03,Varanasi to Patna
+BK000048,Rohan Rao,10,Male,Bus,Delhi,Ranchi,2025-05-30,2025-07-10,1819.33,5,Completed,Cash,9096.65,True,9096.65,2025-05,Delhi to Ranchi
+BK000049,Vihaan Roy,76,Female,Train,Kolkata,Lucknow,2026-04-15,2026-06-03,2788.94,2,Completed,Card,5577.88,True,5577.88,2026-04,Kolkata to Lucknow
+BK000050,Ananya Singh,75,Male,Bus,Prayagraj,Varanasi,2026-04-12,2026-05-09,1324.85,4,Completed,Cash,5299.4,True,5299.4,2026-04,Prayagraj to Varanasi
+BK000051,Zoya Joshi,8,Male,Bus,Varanasi,Lucknow,2026-09-07,2026-11-11,716.95,4,Completed,UPI,2867.8,True,2867.8,2026-09,Varanasi to Lucknow
+BK000052,Zoya Patel,62,Male,Bus,Ranchi,Prayagraj,2025-10-18,2025-12-03,342.04,3,Completed,Net Banking,1026.1200000000001,True,1026.1200000000001,2025-10,Ranchi to Prayagraj
+BK000053,Rohan Khan,27,Female,Train,Jaipur,Bhopal,2025-03-22,2025-05-01,3137.48,4,Cancelled,Wallet,12549.92,False,0.0,2025-03,Jaipur to Bhopal
+BK000054,Ishaan Joshi,75,Female,Train,Kanpur,Patna,2025-09-13,2025-10-15,2078.5,2,Cancelled,Net Banking,4157.0,False,0.0,2025-09,Kanpur to Patna
+BK000055,Ananya Mishra,52,Female,Bus,Varanasi,Delhi,2026-06-14,2026-06-15,918.73,2,Confirmed,Net Banking,1837.46,True,1837.46,2026-06,Varanasi to Delhi
+BK000056,Ananya Roy,17,Male,Train,Kolkata,Prayagraj,2026-08-24,2026-10-24,2082.22,2,Completed,Wallet,4164.44,True,4164.44,2026-08,Kolkata to Prayagraj
+BK000057,Vihaan Singh,74,Male,Bus,Prayagraj,Jaipur,2026-10-07,2026-11-24,652.71,1,Confirmed,Card,652.71,True,652.71,2026-10,Prayagraj to Jaipur
+BK000058,Vihaan Yadav,38,Male,Train,Mumbai,Jaipur,2026-09-05,2026-09-11,799.81,2,Completed,Cash,1599.62,True,1599.62,2026-09,Mumbai to Jaipur
+BK000059,Vihaan Patel,49,Male,Bus,Lucknow,Bhopal,2025-08-07,2025-09-08,2068.57,5,Completed,Wallet,10342.85,True,10342.85,2025-08,Lucknow to Bhopal
+BK000060,Diya Yadav,7,Female,Bus,Ranchi,Prayagraj,2025-06-29,2025-09-23,1486.96,2,Cancelled,Wallet,2973.92,False,0.0,2025-06,Ranchi to Prayagraj
+BK000061,Arjun Gupta,39,Male,Bus,Jaipur,Ranchi,2025-08-31,2025-10-18,1671.07,5,Cancelled,Wallet,8355.35,False,0.0,2025-08,Jaipur to Ranchi
+BK000062,Arjun Singh,49,Male,Train,Mumbai,Jaipur,2025-01-09,2025-01-15,2464.97,2,Completed,Wallet,4929.94,True,4929.94,2025-01,Mumbai to Jaipur
+BK000063,Zoya Roy,74,Female,Train,Kolkata,Ranchi,2026-03-21,2026-04-28,1296.14,2,Completed,Wallet,2592.28,True,2592.28,2026-03,Kolkata to Ranchi
+BK000064,Arjun Mishra,38,Male,Train,Delhi,Patna,2025-07-06,2025-08-28,732.19,2,Completed,Cash,1464.38,True,1464.38,2025-07,Delhi to Patna
+BK000065,Aditi Roy,11,Male,Train,Mumbai,Kolkata,2025-03-09,2025-05-27,981.11,5,Cancelled,Net Banking,4905.55,False,0.0,2025-03,Mumbai to Kolkata
+BK000066,Zoya Khan,10,Female,Bus,Mumbai,Varanasi,2025-04-02,2025-04-09,367.84,4,Completed,Card,1471.36,True,1471.36,2025-04,Mumbai to Varanasi
+BK000067,Diya Sharma,54,Male,Train,Kolkata,Agra,2026-03-04,2026-04-10,1692.75,3,Completed,Wallet,5078.25,True,5078.25,2026-03,Kolkata to Agra
+BK000068,Diya Verma,71,Female,Train,Jaipur,Agra,2025-08-03,2025-09-11,1470.02,1,Completed,Wallet,1470.02,True,1470.02,2025-08,Jaipur to Agra
+BK000069,Rohan Sharma,54,Male,Bus,Mumbai,Patna,2025-08-28,2025-08-29,673.04,5,Confirmed,Wallet,3365.2,True,3365.2,2025-08,Mumbai to Patna
+BK000070,Ananya Das,78,Male,Bus,Delhi,Bhopal,2025-05-23,2025-06-17,2049.72,5,Completed,Card,10248.599999999999,True,10248.599999999999,2025-05,Delhi to Bhopal
+BK000071,Kabir Rao,44,Male,Bus,Lucknow,Varanasi,2025-08-16,2025-11-01,1478.64,3,Completed,Card,4435.92,True,4435.92,2025-08,Lucknow to Varanasi
+BK000072,Zoya Verma,16,Male,Train,Jaipur,Kolkata,2025-09-29,2025-12-12,1707.87,1,Completed,Net Banking,1707.87,True,1707.87,2025-09,Jaipur to Kolkata
+BK000073,Ananya Roy,62,Male,Bus,Prayagraj,Patna,2026-03-19,2026-05-16,581.4,3,Completed,Net Banking,1744.1999999999998,True,1744.1999999999998,2026-03,Prayagraj to Patna
+BK000074,Arjun Rao,54,Male,Bus,Delhi,Ranchi,2025-10-14,2025-11-21,424.26,1,Completed,Net Banking,424.26,True,424.26,2025-10,Delhi to Ranchi
+BK000075,Zoya Singh,48,Female,Bus,Ranchi,Bhopal,2025-07-08,2025-08-27,1748.14,2,Completed,Net Banking,3496.28,True,3496.28,2025-07,Ranchi to Bhopal
+BK000076,Diya Verma,13,Female,Train,Delhi,Bhopal,2026-04-13,2026-05-14,1340.85,2,Completed,Cash,2681.7,True,2681.7,2026-04,Delhi to Bhopal
+BK000077,Ananya Roy,60,Male,Bus,Prayagraj,Delhi,2026-01-13,2026-03-14,809.91,5,Completed,UPI,4049.5499999999997,True,4049.5499999999997,2026-01,Prayagraj to Delhi
+BK000078,Arjun Yadav,76,Other,Train,Delhi,Kolkata,2026-01-10,2026-04-02,518.96,4,Completed,Wallet,2075.84,True,2075.84,2026-01,Delhi to Kolkata
+BK000079,Vihaan Das,18,Female,Train,Varanasi,Prayagraj,2025-03-15,2025-05-17,1841.18,4,Completed,Cash,7364.72,True,7364.72,2025-03,Varanasi to Prayagraj
+BK000080,Ananya Khan,69,Female,Train,Bhopal,Patna,2025-05-17,2025-07-29,1889.38,5,Completed,Wallet,9446.900000000001,True,9446.900000000001,2025-05,Bhopal to Patna
+BK000081,Sana Das,64,Male,Bus,Jaipur,Lucknow,2025-06-11,2025-07-01,679.68,2,Completed,Card,1359.36,True,1359.36,2025-06,Jaipur to Lucknow
+BK000082,Neha Yadav,39,Male,Train,Jaipur,Mumbai,2025-03-22,2025-04-30,1541.17,4,Cancelled,Cash,6164.68,False,0.0,2025-03,Jaipur to Mumbai
+BK000083,Diya Mishra,77,Female,Train,Patna,Mumbai,2026-03-30,2026-06-25,1131.82,3,Confirmed,Cash,3395.46,True,3395.46,2026-03,Patna to Mumbai
+BK000084,Vihaan Mishra,74,Female,Bus,Ranchi,Lucknow,2025-10-30,2025-12-02,510.42,4,Pending,Cash,2041.68,False,0.0,2025-10,Ranchi to Lucknow
+BK000085,Meera Sharma,42,Female,Bus,Lucknow,Agra,2025-01-23,2025-03-05,902.56,5,Completed,Card,4512.799999999999,True,4512.799999999999,2025-01,Lucknow to Agra
+BK000086,Vihaan Yadav,6,Male,Bus,Delhi,Prayagraj,2025-01-29,2025-03-21,1035.22,5,Completed,Cash,5176.1,True,5176.1,2025-01,Delhi to Prayagraj
+BK000087,Vihaan Gupta,69,Female,Train,Varanasi,Mumbai,2025-05-25,2025-08-05,1701.81,5,Confirmed,Net Banking,8509.05,True,8509.05,2025-05,Varanasi to Mumbai
+BK000088,Ishaan Khan,56,Male,Train,Kolkata,Prayagraj,2026-08-02,2026-09-17,1874.17,4,Confirmed,UPI,7496.68,True,7496.68,2026-08,Kolkata to Prayagraj
+BK000089,Ishaan Joshi,11,Male,Bus,Mumbai,Kanpur,2025-11-22,2025-12-31,527.05,3,Completed,Card,1581.1499999999999,True,1581.1499999999999,2025-11,Mumbai to Kanpur
+BK000090,Sana Khan,57,Male,Train,Ranchi,Kolkata,2025-10-01,2025-12-18,1149.34,2,Completed,Wallet,2298.68,True,2298.68,2025-10,Ranchi to Kolkata
+BK000091,Ananya Roy,31,Male,Bus,Bhopal,Kolkata,2025-04-27,2025-05-25,936.88,2,Cancelled,Cash,1873.76,False,0.0,2025-04,Bhopal to Kolkata
+BK000092,Neha Patel,20,Female,Bus,Prayagraj,Kanpur,2025-05-23,2025-06-11,1038.08,5,Cancelled,Card,5190.4,False,0.0,2025-05,Prayagraj to Kanpur
+BK000093,Aditi Verma,9,Female,Train,Varanasi,Delhi,2025-06-08,2025-07-29,813.07,3,Completed,Net Banking,2439.21,True,2439.21,2025-06,Varanasi to Delhi
+BK000094,Vihaan Das,76,Female,Bus,Varanasi,Jaipur,2025-07-09,2025-10-06,682.99,1,Completed,Wallet,682.99,True,682.99,2025-07,Varanasi to Jaipur
+BK000095,Rohan Roy,40,Male,Bus,Delhi,Agra,2026-01-19,2026-03-19,1765.99,2,Completed,Wallet,3531.98,True,3531.98,2026-01,Delhi to Agra
+BK000096,Arjun Sharma,56,Female,Bus,Ranchi,Lucknow,2025-04-18,2025-06-09,1625.03,4,Completed,Wallet,6500.12,True,6500.12,2025-04,Ranchi to Lucknow
+BK000097,Zoya Singh,10,Unknown,Bus,Mumbai,Patna,2026-05-22,2026-08-06,1516.41,3,Completed,Net Banking,4549.2300000000005,True,4549.2300000000005,2026-05,Mumbai to Patna
+BK000098,Zoya Khan,32,Male,Train,Bhopal,Mumbai,2025-08-01,2025-10-05,1783.15,3,Completed,Net Banking,5349.450000000001,True,5349.450000000001,2025-08,Bhopal to Mumbai
+BK000099,Kabir Joshi,79,Male,Train,Prayagraj,Varanasi,2025-11-21,2026-02-18,2586.42,1,Cancelled,Wallet,2586.42,False,0.0,2025-11,Prayagraj to Varanasi
+BK000100,Sana Rao,57,Female,Train,Mumbai,Delhi,2026-06-14,2026-08-15,1350.81,1,Completed,Wallet,1350.81,True,1350.81,2026-06,Mumbai to Delhi
+BK000101,Aarav Khan,26,Male,Train,Varanasi,Kanpur,2026-07-13,2026-10-06,692.65,3,Completed,Net Banking,2077.95,True,2077.95,2026-07,Varanasi to Kanpur
+BK000102,Kavya Singh,8,Male,Train,Bhopal,Mumbai,2025-03-18,2025-04-09,941.28,4,Completed,UPI,3765.12,True,3765.12,2025-03,Bhopal to Mumbai
+BK000103,Zoya Mishra,31,Male,Train,Varanasi,Prayagraj,2026-04-17,2026-04-28,3050.18,1,Confirmed,Cash,3050.18,True,3050.18,2026-04,Varanasi to Prayagraj
+BK000104,Sana Mishra,47,Male,Train,Jaipur,Bhopal,2026-06-15,2026-06-21,3335.83,1,Cancelled,Net Banking,3335.83,False,0.0,2026-06,Jaipur to Bhopal
+BK000105,Ishaan Mishra,61,Male,Train,Lucknow,Patna,2025-01-24,2025-02-15,1732.75,2,Completed,Card,3465.5,True,3465.5,2025-01,Lucknow to Patna
+BK000106,Ananya Khan,12,Male,Train,Ranchi,Kolkata,2025-06-23,2025-07-26,2158.19,3,Completed,Card,6474.57,True,6474.57,2025-06,Ranchi to Kolkata
+BK000107,Zoya Das,78,Female,Train,Ranchi,Bhopal,2026-04-25,2026-05-19,1062.58,3,Completed,Net Banking,3187.74,True,3187.74,2026-04,Ranchi to Bhopal
+BK000108,Aditi Joshi,35,Male,Bus,Mumbai,Lucknow,2026-08-30,2026-11-01,1299.81,1,Cancelled,Cash,1299.81,False,0.0,2026-08,Mumbai to Lucknow
+BK000109,Arjun Khan,62,Female,Bus,Agra,Ranchi,2025-07-17,2025-08-18,1574.32,3,Completed,Wallet,4722.96,True,4722.96,2025-07,Agra to Ranchi
+BK000110,Vihaan Gupta,47,Female,Train,Jaipur,Kanpur,2026-03-09,2026-05-06,516.75,2,Cancelled,UPI,1033.5,False,0.0,2026-03,Jaipur to Kanpur
+BK000111,Kavya Roy,75,Male,Train,Delhi,Prayagraj,2026-03-09,2026-04-09,1222.46,4,Completed,Cash,4889.84,True,4889.84,2026-03,Delhi to Prayagraj
+BK000112,Aarav Joshi,13,Female,Bus,Patna,Jaipur,2026-02-13,2026-03-03,794.03,3,Completed,Cash,2382.09,True,2382.09,2026-02,Patna to Jaipur
+BK000113,Kavya Yadav,78,Female,Bus,Jaipur,Agra,2025-01-13,2025-03-09,908.97,5,Completed,Wallet,4544.85,True,4544.85,2025-01,Jaipur to Agra
+BK000114,Ishaan Das,56,Female,Bus,Jaipur,Prayagraj,2025-05-17,2025-07-05,1043.93,2,Completed,Cash,2087.86,True,2087.86,2025-05,Jaipur to Prayagraj
+BK000115,Kavya Roy,49,Female,Train,Jaipur,Mumbai,2025-01-10,2025-01-28,2427.6,3,Completed,UPI,7282.799999999999,True,7282.799999999999,2025-01,Jaipur to Mumbai
+BK000116,Aditi Gupta,48,Male,Bus,Delhi,Patna,2025-04-19,2025-06-03,705.85,5,Pending,Card,3529.25,False,0.0,2025-04,Delhi to Patna
+BK000117,Arjun Sharma,9,Female,Bus,Patna,Mumbai,2025-05-18,2025-07-09,1439.29,4,Cancelled,Wallet,5757.16,False,0.0,2025-05,Patna to Mumbai
+BK000118,Kavya Khan,55,Male,Train,Kolkata,Bhopal,2025-11-29,2026-02-05,1545.61,1,Pending,UPI,1545.61,False,0.0,2025-11,Kolkata to Bhopal
+BK000119,Arjun Joshi,50,Female,Bus,Prayagraj,Ranchi,2025-03-05,2025-04-30,1263.56,2,Confirmed,Cash,2527.12,True,2527.12,2025-03,Prayagraj to Ranchi
+BK000120,Aditi Gupta,10,Female,Bus,Ranchi,Agra,2025-09-14,2025-11-22,991.81,2,Pending,UPI,1983.62,False,0.0,2025-09,Ranchi to Agra
+BK000121,Ananya Gupta,66,Female,Bus,Mumbai,Ranchi,2025-10-18,2025-11-28,465.09,4,Completed,Cash,1860.36,True,1860.36,2025-10,Mumbai to Ranchi
+BK000122,Sana Rao,11,Male,Bus,Varanasi,Lucknow,2026-05-10,2026-07-26,1485.78,1,Completed,Cash,1485.78,True,1485.78,2026-05,Varanasi to Lucknow
+BK000123,Kavya Mishra,20,Female,Train,Mumbai,Kolkata,2025-11-28,2025-12-27,1906.07,1,Completed,UPI,1906.07,True,1906.07,2025-11,Mumbai to Kolkata
+BK000124,Zoya Singh,57,Female,Bus,Kanpur,Mumbai,2025-12-04,2025-12-25,1025.96,5,Completed,Net Banking,5129.8,True,5129.8,2025-12,Kanpur to Mumbai
+BK000125,Zoya Verma,68,Male,Bus,Kolkata,Patna,2026-08-29,2026-10-02,486.06,2,Completed,Cash,972.12,True,972.12,2026-08,Kolkata to Patna
+BK000126,Aditi Rao,31,Female,Train,Lucknow,Patna,2025-12-03,2025-12-11,3416.54,4,Pending,Cash,13666.16,False,0.0,2025-12,Lucknow to Patna
+BK000127,Meera Mishra,7,Male,Bus,Ranchi,Jaipur,2025-03-19,2025-04-16,987.81,1,Completed,Cash,987.81,True,987.81,2025-03,Ranchi to Jaipur
+BK000128,Diya Khan,38,Male,Bus,Varanasi,Jaipur,2025-02-09,2025-03-21,1283.38,4,Completed,UPI,5133.52,True,5133.52,2025-02,Varanasi to Jaipur
+BK000129,Ananya Singh,44,Male,Train,Patna,Bhopal,2025-07-06,2025-09-27,1699.32,1,Completed,Cash,1699.32,True,1699.32,2025-07,Patna to Bhopal
+BK000130,Ananya Verma,48,Female,Bus,Kanpur,Varanasi,2025-12-19,2026-02-02,759.02,3,Completed,Wallet,2277.06,True,2277.06,2025-12,Kanpur to Varanasi
+BK000131,Vihaan Rao,41,Male,Bus,Kolkata,Varanasi,2025-05-08,2025-06-17,1416.37,2,Confirmed,Cash,2832.74,True,2832.74,2025-05,Kolkata to Varanasi
+BK000132,Aarav Roy,46,Female,Train,Bhopal,Patna,2025-08-03,2025-09-24,1182.02,4,Completed,Net Banking,4728.08,True,4728.08,2025-08,Bhopal to Patna
+BK000133,Aditi Verma,56,Female,Train,Lucknow,Kanpur,2025-07-07,2025-08-23,1871.07,3,Completed,Net Banking,5613.21,True,5613.21,2025-07,Lucknow to Kanpur
+BK000134,Neha Patel,25,Male,Bus,Ranchi,Lucknow,2026-07-03,2026-08-22,720.35,4,Confirmed,UPI,2881.4,True,2881.4,2026-07,Ranchi to Lucknow
+BK000135,Zoya Roy,12,Male,Bus,Lucknow,Agra,2025-11-26,2026-01-19,457.21,1,Completed,Wallet,457.21,True,457.21,2025-11,Lucknow to Agra
+BK000136,Rohan Verma,73,Female,Train,Varanasi,Kanpur,2025-02-11,2025-04-22,1749.67,1,Completed,Net Banking,1749.67,True,1749.67,2025-02,Varanasi to Kanpur
+BK000137,Aarav Verma,72,Male,Train,Bhopal,Agra,2025-05-22,2025-06-30,1707.4,4,Confirmed,Cash,6829.6,True,6829.6,2025-05,Bhopal to Agra
+BK000138,Diya Rao,77,Male,Bus,Delhi,Mumbai,2025-06-26,2025-09-11,1634.09,4,Completed,UPI,6536.36,True,6536.36,2025-06,Delhi to Mumbai
+BK000139,Meera Das,20,Male,Bus,Prayagraj,Patna,2025-09-21,2025-10-02,1659.42,1,Completed,Net Banking,1659.42,True,1659.42,2025-09,Prayagraj to Patna
+BK000140,Ishaan Gupta,15,Female,Bus,Jaipur,Varanasi,2025-01-08,2025-03-09,828.27,4,Confirmed,Cash,3313.08,True,3313.08,2025-01,Jaipur to Varanasi
+BK000141,Zoya Verma,6,Male,Train,Lucknow,Bhopal,2025-08-08,2025-10-21,1033.9,2,Completed,UPI,2067.8,True,2067.8,2025-08,Lucknow to Bhopal
+BK000142,Diya Sharma,9,Male,Train,Delhi,Varanasi,2026-03-03,2026-04-28,1925.92,1,Completed,Cash,1925.92,True,1925.92,2026-03,Delhi to Varanasi
+BK000143,Aditi Das,37,Female,Train,Patna,Prayagraj,2025-11-21,2025-12-01,1814.4,1,Completed,Card,1814.4,True,1814.4,2025-11,Patna to Prayagraj
+BK000144,Kavya Patel,36,Other,Bus,Ranchi,Mumbai,2026-05-25,2026-08-01,1781.94,3,Completed,Cash,5345.82,True,5345.82,2026-05,Ranchi to Mumbai
+BK000145,Arjun Sharma,39,Male,Bus,Jaipur,Lucknow,2025-11-25,2025-12-27,834.09,4,Cancelled,Net Banking,3336.36,False,0.0,2025-11,Jaipur to Lucknow
+BK000146,Aditi Joshi,44,Male,Bus,Prayagraj,Jaipur,2025-04-16,2025-07-10,688.35,1,Cancelled,Wallet,688.35,False,0.0,2025-04,Prayagraj to Jaipur
+BK000147,Diya Yadav,12,Male,Bus,Jaipur,Kanpur,2026-06-18,2026-08-06,2168.5,2,Confirmed,UPI,4337.0,True,4337.0,2026-06,Jaipur to Kanpur
+BK000148,Ananya Joshi,14,Male,Train,Kanpur,Delhi,2026-06-12,2026-08-27,2244.82,5,Cancelled,Wallet,11224.1,False,0.0,2026-06,Kanpur to Delhi
+BK000149,Aditi Sharma,73,Female,Bus,Jaipur,Mumbai,2025-11-13,2026-02-06,1590.52,3,Completed,Wallet,4771.5599999999995,True,4771.5599999999995,2025-11,Jaipur to Mumbai
+BK000150,Kavya Mishra,33,Female,Train,Kanpur,Agra,2026-05-31,2026-07-12,2724.51,3,Completed,Wallet,8173.530000000001,True,8173.530000000001,2026-05,Kanpur to Agra
+BK000151,Arjun Gupta,41,Female,Train,Agra,Ranchi,2026-09-01,2026-09-26,2410.01,3,Completed,Wallet,7230.030000000001,True,7230.030000000001,2026-09,Agra to Ranchi
+BK000152,Aditi Roy,5,Male,Train,Mumbai,Varanasi,2026-05-31,2026-07-13,1507.34,1,Cancelled,Net Banking,1507.34,False,0.0,2026-05,Mumbai to Varanasi
+BK000153,Vihaan Das,80,Female,Train,Mumbai,Ranchi,2025-07-20,2025-09-22,691.06,3,Completed,UPI,2073.18,True,2073.18,2025-07,Mumbai to Ranchi
+BK000154,Kavya Yadav,39,Male,Bus,Mumbai,Kolkata,2025-09-08,2025-11-15,615.88,1,Completed,Cash,615.88,True,615.88,2025-09,Mumbai to Kolkata
+BK000155,Zoya Joshi,12,Male,Train,Patna,Kolkata,2025-08-12,2025-10-14,2067.41,3,Completed,Cash,6202.23,True,6202.23,2025-08,Patna to Kolkata
+BK000156,Zoya Gupta,49,Female,Bus,Mumbai,Kanpur,2025-06-27,2025-07-25,1464.82,2,Completed,Net Banking,2929.64,True,2929.64,2025-06,Mumbai to Kanpur
+BK000157,Neha Gupta,6,Female,Bus,Kolkata,Jaipur,2025-08-09,2025-11-03,1304.63,2,Completed,Cash,2609.26,True,2609.26,2025-08,Kolkata to Jaipur
+BK000158,Aarav Sharma,26,Male,Train,Bhopal,Jaipur,2025-12-04,2026-02-13,735.79,1,Completed,Cash,735.79,True,735.79,2025-12,Bhopal to Jaipur
+BK000159,Sana Roy,54,Male,Bus,Kanpur,Ranchi,2025-09-13,2025-10-13,927.25,4,Pending,Wallet,3709.0,False,0.0,2025-09,Kanpur to Ranchi
+BK000160,Zoya Joshi,37,Female,Train,Mumbai,Kanpur,2025-05-02,2025-07-22,2227.79,1,Cancelled,Card,2227.79,False,0.0,2025-05,Mumbai to Kanpur
+BK000161,Zoya Das,45,Male,Train,Jaipur,Lucknow,2025-12-03,2026-01-17,1778.81,4,Completed,Wallet,7115.24,True,7115.24,2025-12,Jaipur to Lucknow
+BK000162,Kavya Sharma,42,Male,Bus,Lucknow,Agra,2025-09-04,2025-10-24,591.59,2,Completed,Wallet,1183.18,True,1183.18,2025-09,Lucknow to Agra
+BK000163,Ishaan Sharma,48,Female,Train,Ranchi,Prayagraj,2026-08-18,2026-09-24,1093.01,2,Completed,Net Banking,2186.02,True,2186.02,2026-08,Ranchi to Prayagraj
+BK000164,Kabir Mishra,34,Female,Bus,Prayagraj,Kolkata,2026-08-07,2026-10-06,882.01,5,Cancelled,Card,4410.05,False,0.0,2026-08,Prayagraj to Kolkata
+BK000165,Ishaan Rao,44,Female,Bus,Agra,Lucknow,2025-11-07,2026-02-01,1415.94,3,Completed,UPI,4247.82,True,4247.82,2025-11,Agra to Lucknow
+BK000166,Rohan Verma,37,Female,Train,Lucknow,Patna,2025-05-12,2025-08-08,3271.01,3,Confirmed,Card,9813.03,True,9813.03,2025-05,Lucknow to Patna
+BK000167,Sana Yadav,70,Female,Bus,Jaipur,Delhi,2026-04-19,2026-04-23,456.4,2,Completed,Cash,912.8,True,912.8,2026-04,Jaipur to Delhi
+BK000168,Ishaan Singh,58,Female,Bus,Bhopal,Ranchi,2026-08-04,2026-09-24,1263.96,5,Cancelled,Wallet,6319.8,False,0.0,2026-08,Bhopal to Ranchi
+BK000169,Aarav Singh,54,Male,Bus,Kolkata,Bhopal,2025-04-15,2025-05-22,1230.28,4,Completed,Cash,4921.12,True,4921.12,2025-04,Kolkata to Bhopal
+BK000170,Aditi Verma,20,Female,Train,Patna,Prayagraj,2025-03-03,2025-03-24,1408.28,5,Confirmed,Wallet,7041.4,True,7041.4,2025-03,Patna to Prayagraj
+BK000171,Aditi Das,65,Female,Train,Prayagraj,Lucknow,2025-12-31,2026-01-23,1045.88,3,Completed,UPI,3137.6400000000003,True,3137.6400000000003,2025-12,Prayagraj to Lucknow
+BK000172,Zoya Yadav,75,Male,Train,Mumbai,Lucknow,2025-04-30,2025-06-19,2263.22,1,Cancelled,Card,2263.22,False,0.0,2025-04,Mumbai to Lucknow
+BK000173,Ishaan Yadav,55,Male,Train,Kolkata,Delhi,2025-03-13,2025-06-07,1177.48,4,Completed,UPI,4709.92,True,4709.92,2025-03,Kolkata to Delhi
+BK000174,Ananya Gupta,24,Male,Bus,Lucknow,Prayagraj,2025-12-29,2026-01-18,1683.93,1,Completed,Wallet,1683.93,True,1683.93,2025-12,Lucknow to Prayagraj
+BK000175,Ananya Das,7,Female,Bus,Agra,Patna,2026-03-06,2026-05-18,974.59,3,Completed,Card,2923.77,True,2923.77,2026-03,Agra to Patna
+BK000176,Ishaan Patel,69,Male,Bus,Jaipur,Patna,2026-07-20,2026-10-17,1026.44,3,Confirmed,UPI,3079.32,True,3079.32,2026-07,Jaipur to Patna
+BK000177,Aditi Singh,43,Female,Bus,Lucknow,Delhi,2025-04-17,2025-07-04,1607.15,5,Cancelled,Wallet,8035.75,False,0.0,2025-04,Lucknow to Delhi
+BK000178,Meera Sharma,34,Male,Bus,Agra,Delhi,2025-10-26,2026-01-15,396.81,5,Cancelled,UPI,1984.05,False,0.0,2025-10,Agra to Delhi
+BK000179,Zoya Sharma,77,Female,Bus,Delhi,Prayagraj,2026-06-28,2026-08-22,1311.5,3,Pending,Wallet,3934.5,False,0.0,2026-06,Delhi to Prayagraj
+BK000180,Rohan Joshi,63,Male,Train,Agra,Mumbai,2025-08-03,2025-10-11,1718.01,5,Pending,Cash,8590.05,False,0.0,2025-08,Agra to Mumbai
+BK000181,Vihaan Yadav,72,Male,Bus,Kanpur,Delhi,2026-04-15,2026-06-01,1101.13,3,Completed,Wallet,3303.3900000000003,True,3303.3900000000003,2026-04,Kanpur to Delhi
+BK000182,Meera Rao,32,Male,Train,Mumbai,Kanpur,2026-10-10,2026-10-27,2234.32,3,Completed,Wallet,6702.960000000001,True,6702.960000000001,2026-10,Mumbai to Kanpur
+BK000183,Aditi Sharma,53,Female,Bus,Delhi,Ranchi,2025-03-21,2025-04-23,664.13,2,Completed,UPI,1328.26,True,1328.26,2025-03,Delhi to Ranchi
+BK000184,Diya Roy,44,Female,Train,Patna,Ranchi,2026-04-27,2026-05-27,2385.03,1,Completed,Card,2385.03,True,2385.03,2026-04,Patna to Ranchi
+BK000185,Kavya Mishra,18,Male,Train,Patna,Prayagraj,2026-07-03,2026-07-14,1500.82,5,Cancelled,UPI,7504.099999999999,False,0.0,2026-07,Patna to Prayagraj
+BK000186,Diya Verma,19,Female,Train,Bhopal,Kanpur,2025-07-01,2025-08-06,2055.15,1,Completed,Card,2055.15,True,2055.15,2025-07,Bhopal to Kanpur
+BK000187,Kabir Das,19,Male,Train,Lucknow,Varanasi,2025-05-14,2025-07-05,1704.11,1,Completed,Wallet,1704.11,True,1704.11,2025-05,Lucknow to Varanasi
+BK000188,Kavya Yadav,53,Female,Bus,Delhi,Patna,2026-01-10,2026-01-23,546.68,3,Completed,UPI,1640.04,True,1640.04,2026-01,Delhi to Patna
+BK000189,Zoya Rao,10,Female,Train,Delhi,Agra,2026-07-24,2026-09-14,1366.5,4,Completed,Card,5466.0,True,5466.0,2026-07,Delhi to Agra
+BK000190,Kavya Mishra,56,Female,Train,Patna,Ranchi,2026-09-13,2026-11-28,669.23,4,Completed,Cash,2676.92,True,2676.92,2026-09,Patna to Ranchi
+BK000191,Kavya Gupta,14,Male,Train,Jaipur,Agra,2025-09-19,2025-12-06,2024.78,2,Completed,Wallet,4049.56,True,4049.56,2025-09,Jaipur to Agra
+BK000192,Arjun Yadav,8,Female,Train,Jaipur,Ranchi,2026-08-29,2026-08-30,2364.69,3,Completed,Wallet,7094.07,True,7094.07,2026-08,Jaipur to Ranchi
+BK000193,Diya Sharma,51,Female,Bus,Jaipur,Mumbai,2026-08-30,2026-10-22,532.48,5,Cancelled,Wallet,2662.4,False,0.0,2026-08,Jaipur to Mumbai
+BK000194,Rohan Roy,63,Female,Bus,Mumbai,Delhi,2025-02-18,2025-04-26,1318.05,1,Completed,Wallet,1318.05,True,1318.05,2025-02,Mumbai to Delhi
+BK000195,Arjun Singh,63,Male,Bus,Patna,Ranchi,2025-05-10,2025-06-18,752.19,4,Confirmed,UPI,3008.76,True,3008.76,2025-05,Patna to Ranchi
+BK000196,Kabir Singh,21,Male,Train,Mumbai,Delhi,2026-01-27,2026-03-20,2184.7,2,Completed,Cash,4369.4,True,4369.4,2026-01,Mumbai to Delhi
+BK000197,Neha Das,19,Female,Bus,Kanpur,Delhi,2025-12-16,2025-12-31,1401.84,2,Completed,UPI,2803.68,True,2803.68,2025-12,Kanpur to Delhi
+BK000198,Diya Joshi,70,Male,Bus,Delhi,Ranchi,2026-08-15,2026-11-05,1629.47,5,Completed,Card,8147.35,True,8147.35,2026-08,Delhi to Ranchi
+BK000199,Kabir Verma,54,Male,Train,Mumbai,Agra,2026-05-21,2026-08-16,1026.13,3,Completed,Cash,3078.3900000000003,True,3078.3900000000003,2026-05,Mumbai to Agra
+BK000200,Kabir Patel,7,Female,Train,Kanpur,Delhi,2026-08-18,2026-09-20,1082.09,5,Confirmed,Card,5410.45,True,5410.45,2026-08,Kanpur to Delhi
+BK000201,Diya Gupta,30,Female,Bus,Jaipur,Kanpur,2025-09-21,2025-12-13,1303.29,2,Confirmed,Card,2606.58,True,2606.58,2025-09,Jaipur to Kanpur
+BK000202,Aditi Sharma,27,Male,Train,Prayagraj,Jaipur,2025-12-23,2026-02-27,934.75,1,Cancelled,Wallet,934.75,False,0.0,2025-12,Prayagraj to Jaipur
+BK000203,Neha Rao,50,Female,Train,Agra,Jaipur,2025-04-21,2025-06-19,1068.62,5,Completed,UPI,5343.099999999999,True,5343.099999999999,2025-04,Agra to Jaipur
+BK000204,Kavya Rao,37,Female,Bus,Patna,Ranchi,2025-07-08,2025-08-30,1083.48,1,Completed,Card,1083.48,True,1083.48,2025-07,Patna to Ranchi
+BK000205,Kabir Joshi,57,Male,Bus,Varanasi,Prayagraj,2025-08-26,2025-11-07,1147.5,2,Pending,Net Banking,2295.0,False,0.0,2025-08,Varanasi to Prayagraj
+BK000206,Kabir Das,51,Male,Bus,Ranchi,Patna,2025-10-18,2025-10-25,616.47,4,Completed,Wallet,2465.88,True,2465.88,2025-10,Ranchi to Patna
+BK000207,Diya Das,45,Male,Bus,Delhi,Varanasi,2026-06-30,2026-09-04,1250.86,2,Completed,Cash,2501.72,True,2501.72,2026-06,Delhi to Varanasi
+BK000208,Rohan Gupta,24,Male,Train,Delhi,Varanasi,2025-03-03,2025-05-04,1273.52,2,Completed,Cash,2547.04,True,2547.04,2025-03,Delhi to Varanasi
+BK000209,Ananya Sharma,63,Male,Bus,Prayagraj,Patna,2025-08-15,2025-09-26,1442.41,1,Completed,UPI,1442.41,True,1442.41,2025-08,Prayagraj to Patna
+BK000210,Aditi Yadav,27,Female,Bus,Kolkata,Jaipur,2025-10-08,2025-10-18,572.64,4,Completed,Net Banking,2290.56,True,2290.56,2025-10,Kolkata to Jaipur
+BK000211,Aditi Das,73,Female,Bus,Delhi,Jaipur,2026-01-17,2026-03-12,544.11,2,Pending,Wallet,1088.22,False,0.0,2026-01,Delhi to Jaipur
+BK000212,Aarav Singh,59,Male,Train,Ranchi,Bhopal,2026-06-06,2026-06-26,574.51,2,Completed,UPI,1149.02,True,1149.02,2026-06,Ranchi to Bhopal
+BK000213,Aarav Sharma,38,Female,Bus,Bhopal,Varanasi,2026-05-28,2026-07-07,990.13,3,Completed,Net Banking,2970.39,True,2970.39,2026-05,Bhopal to Varanasi
+BK000214,Vihaan Verma,32,Female,Bus,Jaipur,Varanasi,2025-02-09,2025-03-13,529.46,1,Completed,Card,529.46,True,529.46,2025-02,Jaipur to Varanasi
+BK000215,Kavya Rao,62,Female,Train,Patna,Varanasi,2025-08-13,2025-08-19,2474.24,1,Completed,Unknown,2474.24,True,2474.24,2025-08,Patna to Varanasi
+BK000216,Kavya Singh,55,Male,Train,Jaipur,Patna,2026-06-05,2026-08-13,1155.36,1,Completed,UPI,1155.36,True,1155.36,2026-06,Jaipur to Patna
+BK000217,Aditi Das,8,Male,Bus,Mumbai,Lucknow,2026-03-06,2026-03-21,1578.39,3,Completed,Wallet,4735.17,True,4735.17,2026-03,Mumbai to Lucknow
+BK000218,Ananya Roy,35,Male,Train,Bhopal,Varanasi,2025-05-27,2025-06-02,1392.27,2,Cancelled,Card,2784.54,False,0.0,2025-05,Bhopal to Varanasi
+BK000219,Sana Joshi,80,Female,Train,Ranchi,Kanpur,2026-06-02,2026-07-03,813.97,4,Cancelled,Wallet,3255.88,False,0.0,2026-06,Ranchi to Kanpur
+BK000220,Ananya Joshi,5,Male,Bus,Ranchi,Agra,2026-08-08,2026-09-21,658.41,2,Completed,Net Banking,1316.82,True,1316.82,2026-08,Ranchi to Agra
+BK000221,Aditi Sharma,36,Unknown,Bus,Agra,Jaipur,2026-02-03,2026-04-25,1518.77,4,Completed,Card,6075.08,True,6075.08,2026-02,Agra to Jaipur
+BK000222,Diya Joshi,59,Female,Train,Patna,Agra,2026-01-12,2026-02-12,2303.79,1,Confirmed,UPI,2303.79,True,2303.79,2026-01,Patna to Agra
+BK000223,Meera Sharma,13,Male,Bus,Kanpur,Lucknow,2026-02-11,2026-04-10,1222.93,5,Completed,Card,6114.650000000001,True,6114.650000000001,2026-02,Kanpur to Lucknow
+BK000224,Rohan Rao,38,Male,Train,Mumbai,Bhopal,2025-01-18,2025-04-12,765.57,5,Completed,Cash,3827.8500000000004,True,3827.8500000000004,2025-01,Mumbai to Bhopal
+BK000225,Zoya Mishra,44,Unknown,Bus,Mumbai,Bhopal,2025-07-08,2025-09-22,2196.45,3,Confirmed,Cash,6589.349999999999,True,6589.349999999999,2025-07,Mumbai to Bhopal
+BK000226,Aarav Gupta,44,Female,Train,Ranchi,Lucknow,2025-03-03,2025-04-10,590.05,4,Completed,Net Banking,2360.2,True,2360.2,2025-03,Ranchi to Lucknow
+BK000227,Kabir Yadav,67,Male,Bus,Delhi,Kolkata,2026-09-20,2026-09-22,989.36,3,Completed,UPI,2968.08,True,2968.08,2026-09,Delhi to Kolkata
+BK000228,Zoya Joshi,46,Male,Bus,Kolkata,Jaipur,2026-06-26,2026-07-24,769.79,4,Completed,Wallet,3079.16,True,3079.16,2026-06,Kolkata to Jaipur
+BK000229,Kavya Das,32,Other,Bus,Varanasi,Lucknow,2026-05-27,2026-07-04,1463.44,1,Completed,Card,1463.44,True,1463.44,2026-05,Varanasi to Lucknow
+BK000230,Sana Sharma,57,Female,Train,Delhi,Ranchi,2026-06-03,2026-08-16,2833.21,4,Completed,UPI,11332.84,True,11332.84,2026-06,Delhi to Ranchi
+BK000231,Vihaan Mishra,77,Male,Train,Ranchi,Agra,2025-07-09,2025-10-03,1904.98,5,Completed,UPI,9524.9,True,9524.9,2025-07,Ranchi to Agra
+BK000232,Neha Rao,75,Male,Bus,Kolkata,Varanasi,2026-01-10,2026-02-25,1789.75,2,Completed,Wallet,3579.5,True,3579.5,2026-01,Kolkata to Varanasi
+BK000233,Sana Das,78,Female,Bus,Bhopal,Jaipur,2026-04-25,2026-07-05,1106.32,3,Completed,Card,3318.96,True,3318.96,2026-04,Bhopal to Jaipur
+BK000234,Rohan Mishra,7,Other,Train,Patna,Delhi,2026-05-24,2026-08-19,1494.57,4,Completed,Net Banking,5978.28,True,5978.28,2026-05,Patna to Delhi
+BK000235,Sana Khan,20,Female,Train,Jaipur,Bhopal,2025-01-29,2025-03-23,3187.04,5,Completed,Card,15935.2,True,15935.2,2025-01,Jaipur to Bhopal
+BK000236,Aditi Roy,22,Female,Bus,Agra,Patna,2025-06-29,2025-09-18,845.89,4,Completed,Cash,3383.56,True,3383.56,2025-06,Agra to Patna
+BK000237,Kabir Singh,32,Female,Train,Jaipur,Prayagraj,2026-08-08,2026-09-20,1373.77,5,Cancelled,Net Banking,6868.85,False,0.0,2026-08,Jaipur to Prayagraj
+BK000238,Sana Singh,69,Female,Bus,Lucknow,Varanasi,2026-07-05,2026-09-06,1271.97,1,Completed,Wallet,1271.97,True,1271.97,2026-07,Lucknow to Varanasi
+BK000239,Diya Khan,25,Male,Bus,Bhopal,Agra,2025-11-28,2026-01-15,522.31,1,Completed,Card,522.31,True,522.31,2025-11,Bhopal to Agra
+BK000240,Vihaan Sharma,46,Female,Train,Patna,Delhi,2025-03-09,2025-03-21,2359.79,3,Confirmed,Card,7079.37,True,7079.37,2025-03,Patna to Delhi
+BK000241,Ananya Yadav,60,Female,Train,Patna,Kanpur,2025-07-22,2025-08-30,2001.85,5,Completed,Net Banking,10009.25,True,10009.25,2025-07,Patna to Kanpur
+BK000242,Vihaan Patel,46,Female,Bus,Prayagraj,Agra,2026-10-02,2026-11-29,1178.92,5,Completed,Wallet,5894.6,True,5894.6,2026-10,Prayagraj to Agra
+BK000243,Aarav Rao,56,Male,Train,Prayagraj,Patna,2025-02-04,2025-04-09,637.89,4,Completed,Cash,2551.56,True,2551.56,2025-02,Prayagraj to Patna
+BK000244,Kabir Roy,43,Male,Bus,Jaipur,Lucknow,2025-07-07,2025-08-20,1939.74,2,Completed,Card,3879.48,True,3879.48,2025-07,Jaipur to Lucknow
+BK000245,Ananya Verma,28,Female,Bus,Patna,Kanpur,2026-04-21,2026-05-23,1779.21,1,Completed,Cash,1779.21,True,1779.21,2026-04,Patna to Kanpur
+BK000246,Vihaan Rao,48,Male,Bus,Lucknow,Bhopal,2025-10-06,2025-11-17,1610.24,3,Completed,Card,4830.72,True,4830.72,2025-10,Lucknow to Bhopal
+BK000247,Diya Singh,68,Female,Train,Delhi,Lucknow,2026-03-25,2026-04-23,1047.7,2,Completed,Net Banking,2095.4,True,2095.4,2026-03,Delhi to Lucknow
+BK000248,Vihaan Das,40,Female,Bus,Kanpur,Bhopal,2025-07-14,2025-09-26,1491.55,2,Completed,Wallet,2983.1,True,2983.1,2025-07,Kanpur to Bhopal
+BK000249,Kabir Das,39,Female,Bus,Kanpur,Agra,2025-01-03,2025-02-19,781.56,5,Completed,UPI,3907.7999999999997,True,3907.7999999999997,2025-01,Kanpur to Agra
+BK000250,Kabir Singh,65,Male,Bus,Bhopal,Varanasi,2025-10-05,2025-10-31,1738.33,1,Completed,Unknown,1738.33,True,1738.33,2025-10,Bhopal to Varanasi
+BK000251,Aarav Das,22,Male,Bus,Lucknow,Kolkata,2025-01-11,2025-03-22,1016.99,5,Completed,Net Banking,5084.95,True,5084.95,2025-01,Lucknow to Kolkata
+BK000252,Rohan Yadav,73,Female,Bus,Varanasi,Ranchi,2025-06-12,2025-07-06,2202.39,2,Cancelled,Cash,4404.78,False,0.0,2025-06,Varanasi to Ranchi
+BK000253,Sana Patel,71,Male,Train,Agra,Mumbai,2025-08-31,2025-09-27,1880.23,4,Completed,UPI,7520.92,True,7520.92,2025-08,Agra to Mumbai
+BK000254,Ananya Roy,49,Male,Train,Jaipur,Prayagraj,2025-03-07,2025-05-11,1831.25,5,Confirmed,Cash,9156.25,True,9156.25,2025-03,Jaipur to Prayagraj
+BK000255,Aarav Joshi,22,Female,Train,Agra,Varanasi,2025-04-09,2025-06-08,698.5,2,Completed,Card,1397.0,True,1397.0,2025-04,Agra to Varanasi
+BK000256,Rohan Das,25,Female,Train,Bhopal,Ranchi,2026-02-11,2026-05-02,640.17,4,Confirmed,Net Banking,2560.68,True,2560.68,2026-02,Bhopal to Ranchi
+BK000257,Aarav Yadav,73,Male,Bus,Prayagraj,Varanasi,2025-11-18,2025-11-23,579.48,2,Completed,Wallet,1158.96,True,1158.96,2025-11,Prayagraj to Varanasi
+BK000258,Kavya Khan,38,Female,Bus,Ranchi,Delhi,2026-02-04,2026-04-03,1355.04,3,Completed,UPI,4065.12,True,4065.12,2026-02,Ranchi to Delhi
+BK000259,Sana Sharma,51,Male,Bus,Jaipur,Kolkata,2025-08-29,2025-09-04,1929.33,1,Completed,Cash,1929.33,True,1929.33,2025-08,Jaipur to Kolkata
+BK000260,Vihaan Patel,51,Male,Train,Patna,Mumbai,2025-07-14,2025-08-02,977.46,3,Completed,Wallet,2932.38,True,2932.38,2025-07,Patna to Mumbai
+BK000261,Ishaan Mishra,71,Female,Bus,Kolkata,Prayagraj,2025-11-15,2026-01-21,1321.05,5,Completed,Cash,6605.25,True,6605.25,2025-11,Kolkata to Prayagraj
+BK000262,Zoya Khan,57,Male,Bus,Varanasi,Kanpur,2025-07-29,2025-08-18,589.7,5,Cancelled,Unknown,2948.5,False,0.0,2025-07,Varanasi to Kanpur
+BK000263,Ananya Das,35,Female,Bus,Agra,Kolkata,2025-11-15,2025-11-16,915.66,5,Cancelled,Card,4578.3,False,0.0,2025-11,Agra to Kolkata
+BK000264,Meera Roy,45,Male,Bus,Agra,Jaipur,2026-08-13,2026-10-05,411.0,1,Completed,Cash,411.0,True,411.0,2026-08,Agra to Jaipur
+BK000265,Neha Joshi,49,Female,Bus,Agra,Prayagraj,2026-07-22,2026-08-02,823.93,4,Confirmed,Net Banking,3295.72,True,3295.72,2026-07,Agra to Prayagraj
+BK000266,Vihaan Rao,58,Female,Train,Prayagraj,Agra,2026-04-28,2026-05-16,749.93,3,Pending,Net Banking,2249.79,False,0.0,2026-04,Prayagraj to Agra
+BK000267,Zoya Singh,70,Female,Bus,Kolkata,Kanpur,2026-09-28,2026-11-18,433.39,1,Confirmed,Cash,433.39,True,433.39,2026-09,Kolkata to Kanpur
+BK000268,Diya Khan,76,Female,Train,Jaipur,Kanpur,2025-05-14,2025-07-21,1527.22,5,Completed,Cash,7636.1,True,7636.1,2025-05,Jaipur to Kanpur
+BK000269,Ishaan Khan,9,Female,Bus,Agra,Kolkata,2025-06-16,2025-08-11,1443.86,3,Completed,Wallet,4331.58,True,4331.58,2025-06,Agra to Kolkata
+BK000270,Kabir Khan,75,Other,Bus,Ranchi,Varanasi,2025-12-11,2025-12-29,1358.6,2,Completed,Cash,2717.2,True,2717.2,2025-12,Ranchi to Varanasi
+BK000271,Ananya Mishra,34,Male,Bus,Varanasi,Lucknow,2025-04-17,2025-07-09,1043.03,4,Confirmed,Cash,4172.12,True,4172.12,2025-04,Varanasi to Lucknow
+BK000272,Kabir Verma,26,Female,Train,Kanpur,Bhopal,2025-01-09,2025-02-11,1427.72,5,Completed,Net Banking,7138.6,True,7138.6,2025-01,Kanpur to Bhopal
+BK000273,Kavya Joshi,49,Male,Train,Ranchi,Kolkata,2026-03-28,2026-06-05,493.74,3,Completed,Cash,1481.22,True,1481.22,2026-03,Ranchi to Kolkata
+BK000274,Kabir Roy,56,Female,Bus,Ranchi,Varanasi,2025-01-17,2025-02-20,1214.2,2,Cancelled,Net Banking,2428.4,False,0.0,2025-01,Ranchi to Varanasi
+BK000275,Meera Verma,73,Female,Bus,Kolkata,Varanasi,2026-07-13,2026-09-08,1446.79,5,Cancelled,Wallet,7233.95,False,0.0,2026-07,Kolkata to Varanasi
+BK000276,Aditi Khan,30,Female,Train,Lucknow,Ranchi,2026-01-22,2026-02-03,2888.62,3,Cancelled,Net Banking,8665.86,False,0.0,2026-01,Lucknow to Ranchi
+BK000277,Ananya Gupta,59,Female,Train,Lucknow,Prayagraj,2026-01-23,2026-03-04,628.88,2,Completed,Wallet,1257.76,True,1257.76,2026-01,Lucknow to Prayagraj
+BK000278,Kabir Mishra,34,Female,Train,Bhopal,Mumbai,2025-12-23,2025-12-24,1757.84,1,Completed,UPI,1757.84,True,1757.84,2025-12,Bhopal to Mumbai
+BK000279,Neha Yadav,9,Female,Bus,Mumbai,Bhopal,2025-08-12,2025-09-19,904.61,4,Completed,Card,3618.44,True,3618.44,2025-08,Mumbai to Bhopal
+BK000280,Meera Das,36,Female,Train,Patna,Mumbai,2025-05-11,2025-06-26,1327.94,4,Completed,Card,5311.76,True,5311.76,2025-05,Patna to Mumbai
+BK000281,Kavya Roy,35,Female,Bus,Ranchi,Mumbai,2026-03-04,2026-03-11,688.53,3,Completed,Card,2065.59,True,2065.59,2026-03,Ranchi to Mumbai
+BK000282,Ishaan Yadav,39,Male,Bus,Jaipur,Varanasi,2026-05-17,2026-06-07,1237.89,4,Completed,Card,4951.56,True,4951.56,2026-05,Jaipur to Varanasi
+BK000283,Kabir Singh,59,Female,Train,Mumbai,Jaipur,2025-10-01,2025-12-05,3086.0,5,Completed,Cash,15430.0,True,15430.0,2025-10,Mumbai to Jaipur
+BK000284,Zoya Sharma,59,Male,Bus,Delhi,Agra,2025-06-17,2025-07-20,1548.38,1,Confirmed,Wallet,1548.38,True,1548.38,2025-06,Delhi to Agra
+BK000285,Vihaan Sharma,43,Female,Bus,Lucknow,Mumbai,2025-04-15,2025-04-19,2008.73,4,Completed,Net Banking,8034.92,True,8034.92,2025-04,Lucknow to Mumbai
+BK000286,Meera Gupta,51,Female,Bus,Delhi,Bhopal,2025-03-26,2025-06-17,970.13,2,Completed,Card,1940.26,True,1940.26,2025-03,Delhi to Bhopal
+BK000287,Kabir Verma,20,Female,Train,Kolkata,Jaipur,2025-01-26,2025-03-19,1556.66,2,Completed,Card,3113.32,True,3113.32,2025-01,Kolkata to Jaipur
+BK000288,Neha Joshi,55,Female,Train,Agra,Kolkata,2026-05-29,2026-06-12,654.87,4,Confirmed,Cash,2619.48,True,2619.48,2026-05,Agra to Kolkata
+BK000289,Diya Roy,61,Male,Bus,Varanasi,Agra,2025-01-14,2025-03-11,450.71,2,Cancelled,Wallet,901.42,False,0.0,2025-01,Varanasi to Agra
+BK000290,Kavya Singh,74,Female,Train,Agra,Prayagraj,2025-06-18,2025-07-02,2531.6,2,Pending,UPI,5063.2,False,0.0,2025-06,Agra to Prayagraj
+BK000291,Ananya Mishra,12,Female,Bus,Kanpur,Mumbai,2025-09-24,2025-11-07,2129.5,4,Completed,Net Banking,8518.0,True,8518.0,2025-09,Kanpur to Mumbai
+BK000292,Kabir Mishra,63,Other,Bus,Kolkata,Prayagraj,2025-08-23,2025-11-18,416.39,5,Completed,UPI,2081.95,True,2081.95,2025-08,Kolkata to Prayagraj
+BK000293,Aditi Yadav,68,Male,Train,Delhi,Varanasi,2025-06-30,2025-09-19,978.15,4,Completed,UPI,3912.6,True,3912.6,2025-06,Delhi to Varanasi
+BK000294,Kabir Das,49,Female,Bus,Patna,Delhi,2025-05-26,2025-08-02,646.96,5,Confirmed,Wallet,3234.8,True,3234.8,2025-05,Patna to Delhi
+BK000295,Kavya Sharma,5,Female,Bus,Prayagraj,Mumbai,2025-02-15,2025-03-08,403.43,2,Completed,Net Banking,806.86,True,806.86,2025-02,Prayagraj to Mumbai
+BK000296,Sana Sharma,46,Male,Bus,Delhi,Prayagraj,2026-08-18,2026-09-12,474.17,5,Completed,Cash,2370.85,True,2370.85,2026-08,Delhi to Prayagraj
+BK000297,Ishaan Khan,77,Female,Train,Kolkata,Varanasi,2025-01-07,2025-03-09,2406.3,5,Cancelled,Net Banking,12031.5,False,0.0,2025-01,Kolkata to Varanasi
+BK000298,Arjun Yadav,14,Female,Bus,Mumbai,Patna,2026-03-01,2026-04-20,1754.46,2,Completed,Card,3508.92,True,3508.92,2026-03,Mumbai to Patna
+BK000299,Rohan Yadav,25,Male,Train,Jaipur,Bhopal,2025-06-20,2025-07-13,1846.6,2,Completed,Wallet,3693.2,True,3693.2,2025-06,Jaipur to Bhopal
+BK000300,Rohan Joshi,28,Male,Train,Agra,Ranchi,2026-05-10,2026-07-04,851.81,3,Cancelled,UPI,2555.43,False,0.0,2026-05,Agra to Ranchi
+BK000301,Zoya Mishra,51,Male,Bus,Kanpur,Varanasi,2026-07-29,2026-08-27,1436.62,4,Pending,UPI,5746.48,False,0.0,2026-07,Kanpur to Varanasi
+BK000302,Ananya Verma,16,Male,Train,Bhopal,Varanasi,2026-09-16,2026-11-03,693.26,1,Completed,Card,693.26,True,693.26,2026-09,Bhopal to Varanasi
+BK000303,Aditi Khan,15,Male,Train,Varanasi,Delhi,2025-10-30,2025-11-07,2290.25,1,Completed,Card,2290.25,True,2290.25,2025-10,Varanasi to Delhi
+BK000304,Meera Roy,9,Female,Train,Delhi,Patna,2026-01-11,2026-02-05,2155.83,4,Completed,Cash,8623.32,True,8623.32,2026-01,Delhi to Patna
+BK000305,Ishaan Joshi,36,Female,Train,Varanasi,Prayagraj,2025-08-08,2025-09-12,991.13,5,Completed,Net Banking,4955.65,True,4955.65,2025-08,Varanasi to Prayagraj
+BK000306,Ananya Yadav,73,Female,Bus,Lucknow,Prayagraj,2025-12-26,2026-02-03,1037.64,3,Completed,Net Banking,3112.92,True,3112.92,2025-12,Lucknow to Prayagraj
+BK000307,Kavya Gupta,73,Male,Bus,Prayagraj,Bhopal,2025-02-14,2025-03-01,2220.54,1,Pending,Cash,2220.54,False,0.0,2025-02,Prayagraj to Bhopal
+BK000308,Neha Singh,76,Male,Bus,Patna,Kolkata,2026-03-02,2026-03-30,927.48,4,Cancelled,Card,3709.92,False,0.0,2026-03,Patna to Kolkata
+BK000309,Ananya Joshi,33,Female,Train,Prayagraj,Jaipur,2026-02-23,2026-04-13,527.25,2,Completed,Cash,1054.5,True,1054.5,2026-02,Prayagraj to Jaipur
+BK000310,Sana Patel,60,Female,Bus,Delhi,Ranchi,2026-01-12,2026-03-25,569.66,3,Confirmed,Cash,1708.98,True,1708.98,2026-01,Delhi to Ranchi
+BK000311,Neha Verma,39,Male,Bus,Prayagraj,Bhopal,2026-01-03,2026-01-31,1118.67,5,Cancelled,UPI,5593.35,False,0.0,2026-01,Prayagraj to Bhopal
+BK000312,Diya Gupta,54,Male,Bus,Agra,Prayagraj,2025-03-27,2025-06-25,762.36,1,Completed,Card,762.36,True,762.36,2025-03,Agra to Prayagraj
+BK000313,Kabir Sharma,8,Female,Bus,Mumbai,Kolkata,2026-02-10,2026-04-16,2005.99,4,Completed,Wallet,8023.96,True,8023.96,2026-02,Mumbai to Kolkata
+BK000314,Rohan Singh,38,Male,Train,Mumbai,Bhopal,2026-06-20,2026-07-23,2191.76,2,Completed,Net Banking,4383.52,True,4383.52,2026-06,Mumbai to Bhopal
+BK000315,Zoya Rao,18,Male,Train,Delhi,Jaipur,2026-09-05,2026-09-17,1611.96,3,Pending,Net Banking,4835.88,False,0.0,2026-09,Delhi to Jaipur
+BK000316,Ananya Das,12,Female,Bus,Kanpur,Kolkata,2026-08-23,2026-10-17,1186.01,2,Completed,Card,2372.02,True,2372.02,2026-08,Kanpur to Kolkata
+BK000317,Ishaan Mishra,28,Female,Train,Bhopal,Jaipur,2026-06-22,2026-08-22,1290.83,1,Completed,Card,1290.83,True,1290.83,2026-06,Bhopal to Jaipur
+BK000318,Aditi Singh,45,Female,Bus,Kanpur,Ranchi,2026-08-10,2026-09-15,2369.81,5,Confirmed,Wallet,11849.05,True,11849.05,2026-08,Kanpur to Ranchi
+BK000319,Meera Mishra,11,Female,Bus,Kanpur,Patna,2026-06-09,2026-07-29,2232.52,4,Completed,Cash,8930.08,True,8930.08,2026-06,Kanpur to Patna
+BK000320,Aditi Rao,45,Female,Train,Agra,Kolkata,2025-12-17,2026-03-17,2528.48,2,Completed,Cash,5056.96,True,5056.96,2025-12,Agra to Kolkata
+BK000321,Sana Das,68,Female,Bus,Kolkata,Agra,2026-04-27,2026-05-13,1558.71,3,Completed,UPI,4676.13,True,4676.13,2026-04,Kolkata to Agra
+BK000322,Ananya Joshi,16,Male,Bus,Delhi,Agra,2025-03-10,2025-04-01,440.54,5,Completed,Cash,2202.7000000000003,True,2202.7000000000003,2025-03,Delhi to Agra
+BK000323,Aditi Yadav,42,Male,Train,Prayagraj,Lucknow,2025-01-12,2025-02-27,2495.52,5,Completed,Cash,12477.6,True,12477.6,2025-01,Prayagraj to Lucknow
+BK000324,Sana Sharma,24,Other,Train,Bhopal,Patna,2026-07-31,2026-08-21,2612.82,1,Confirmed,Card,2612.82,True,2612.82,2026-07,Bhopal to Patna
+BK000325,Ananya Verma,65,Female,Bus,Ranchi,Delhi,2026-01-17,2026-03-08,1088.54,2,Cancelled,Net Banking,2177.08,False,0.0,2026-01,Ranchi to Delhi
+BK000326,Sana Verma,51,Unknown,Bus,Agra,Kolkata,2025-06-24,2025-09-18,2262.27,5,Cancelled,Net Banking,11311.35,False,0.0,2025-06,Agra to Kolkata
+BK000327,Rohan Patel,17,Female,Train,Jaipur,Prayagraj,2025-01-31,2025-02-24,2424.17,1,Cancelled,Net Banking,2424.17,False,0.0,2025-01,Jaipur to Prayagraj
+BK000328,Zoya Verma,14,Female,Train,Patna,Lucknow,2025-06-01,2025-06-26,1650.54,5,Completed,Wallet,8252.7,True,8252.7,2025-06,Patna to Lucknow
+BK000329,Aarav Singh,80,Male,Bus,Delhi,Patna,2026-02-11,2026-04-24,314.63,3,Completed,UPI,943.89,True,943.89,2026-02,Delhi to Patna
+BK000330,Diya Rao,18,Male,Bus,Agra,Bhopal,2026-01-26,2026-04-06,841.77,5,Completed,Wallet,4208.85,True,4208.85,2026-01,Agra to Bhopal
+BK000331,Ananya Patel,60,Male,Bus,Ranchi,Mumbai,2026-06-27,2026-08-08,1609.37,3,Completed,Card,4828.11,True,4828.11,2026-06,Ranchi to Mumbai
+BK000332,Meera Mishra,24,Male,Bus,Prayagraj,Bhopal,2026-06-06,2026-07-26,1502.46,3,Completed,UPI,4507.38,True,4507.38,2026-06,Prayagraj to Bhopal
+BK000333,Zoya Rao,38,Female,Bus,Kolkata,Prayagraj,2026-04-18,2026-06-14,816.44,3,Completed,UPI,2449.32,True,2449.32,2026-04,Kolkata to Prayagraj
+BK000334,Zoya Rao,24,Female,Bus,Mumbai,Patna,2026-09-28,2026-12-01,1848.75,1,Completed,Card,1848.75,True,1848.75,2026-09,Mumbai to Patna
+BK000335,Sana Roy,72,Male,Bus,Kolkata,Varanasi,2026-02-13,2026-05-13,1693.57,2,Cancelled,Net Banking,3387.14,False,0.0,2026-02,Kolkata to Varanasi
+BK000336,Kabir Roy,24,Female,Train,Patna,Kolkata,2026-05-03,2026-07-30,2551.04,5,Cancelled,Net Banking,12755.2,False,0.0,2026-05,Patna to Kolkata
+BK000337,Sana Gupta,62,Female,Train,Mumbai,Kanpur,2026-09-23,2026-11-16,1555.94,5,Completed,Net Banking,7779.700000000001,True,7779.700000000001,2026-09,Mumbai to Kanpur
+BK000338,Arjun Mishra,28,Male,Bus,Kanpur,Varanasi,2025-03-20,2025-06-05,942.99,5,Completed,Wallet,4714.95,True,4714.95,2025-03,Kanpur to Varanasi
+BK000339,Vihaan Yadav,49,Male,Bus,Agra,Jaipur,2026-07-13,2026-09-14,1366.52,3,Completed,Net Banking,4099.5599999999995,True,4099.5599999999995,2026-07,Agra to Jaipur
+BK000340,Kabir Sharma,71,Female,Train,Bhopal,Kanpur,2026-05-25,2026-07-13,1357.53,4,Completed,Card,5430.12,True,5430.12,2026-05,Bhopal to Kanpur
+BK000341,Neha Joshi,78,Male,Train,Patna,Lucknow,2026-07-05,2026-07-28,1737.82,2,Cancelled,Card,3475.64,False,0.0,2026-07,Patna to Lucknow
+BK000342,Ananya Khan,63,Female,Bus,Varanasi,Kanpur,2026-03-05,2026-05-24,1603.43,2,Completed,Card,3206.86,True,3206.86,2026-03,Varanasi to Kanpur
+BK000343,Ishaan Das,56,Male,Bus,Jaipur,Varanasi,2025-12-07,2025-12-30,867.45,3,Completed,Card,2602.3500000000004,True,2602.3500000000004,2025-12,Jaipur to Varanasi
+BK000344,Sana Das,79,Female,Train,Agra,Jaipur,2025-01-21,2025-02-16,1352.87,2,Confirmed,UPI,2705.74,True,2705.74,2025-01,Agra to Jaipur
+BK000345,Kabir Joshi,36,Female,Bus,Patna,Agra,2025-11-21,2025-11-22,379.96,2,Completed,Card,759.92,True,759.92,2025-11,Patna to Agra
+BK000346,Kavya Joshi,66,Female,Train,Prayagraj,Ranchi,2026-02-20,2026-04-12,904.58,2,Completed,Net Banking,1809.16,True,1809.16,2026-02,Prayagraj to Ranchi
+BK000347,Sana Mishra,22,Female,Bus,Agra,Ranchi,2025-11-08,2025-11-14,1122.73,5,Completed,UPI,5613.65,True,5613.65,2025-11,Agra to Ranchi
+BK000348,Kabir Khan,6,Female,Train,Kolkata,Delhi,2026-04-15,2026-05-02,963.23,3,Completed,Wallet,2889.69,True,2889.69,2026-04,Kolkata to Delhi
+BK000349,Kabir Rao,37,Male,Train,Patna,Ranchi,2025-05-03,2025-07-20,1524.48,4,Completed,UPI,6097.92,True,6097.92,2025-05,Patna to Ranchi
+BK000350,Ananya Patel,46,Male,Train,Patna,Jaipur,2025-05-23,2025-06-21,1450.13,5,Cancelled,Net Banking,7250.650000000001,False,0.0,2025-05,Patna to Jaipur
+BK000351,Rohan Yadav,47,Male,Bus,Prayagraj,Lucknow,2026-07-13,2026-08-30,915.05,1,Completed,UPI,915.05,True,915.05,2026-07,Prayagraj to Lucknow
+BK000352,Aarav Singh,52,Male,Bus,Delhi,Kolkata,2025-06-25,2025-08-09,395.51,3,Completed,UPI,1186.53,True,1186.53,2025-06,Delhi to Kolkata
+BK000353,Aditi Rao,45,Female,Bus,Mumbai,Jaipur,2025-09-18,2025-10-10,1270.87,4,Completed,Cash,5083.48,True,5083.48,2025-09,Mumbai to Jaipur
+BK000354,Kabir Joshi,23,Male,Train,Agra,Delhi,2025-10-03,2025-10-12,2384.07,5,Completed,Net Banking,11920.35,True,11920.35,2025-10,Agra to Delhi
+BK000355,Ananya Gupta,33,Female,Bus,Bhopal,Patna,2026-03-19,2026-06-15,1332.71,1,Confirmed,Card,1332.71,True,1332.71,2026-03,Bhopal to Patna
+BK000356,Diya Verma,44,Male,Bus,Mumbai,Patna,2025-11-19,2026-02-04,824.48,2,Completed,Card,1648.96,True,1648.96,2025-11,Mumbai to Patna
+BK000357,Vihaan Das,79,Male,Bus,Prayagraj,Agra,2026-09-27,2026-11-20,863.31,4,Completed,Cash,3453.24,True,3453.24,2026-09,Prayagraj to Agra
+BK000358,Meera Verma,9,Female,Train,Lucknow,Kanpur,2025-07-17,2025-09-19,1189.88,2,Completed,Card,2379.76,True,2379.76,2025-07,Lucknow to Kanpur
+BK000359,Neha Rao,80,Female,Bus,Kanpur,Mumbai,2025-07-10,2025-07-19,488.4,2,Completed,Cash,976.8,True,976.8,2025-07,Kanpur to Mumbai
+BK000360,Aarav Singh,67,Male,Bus,Mumbai,Lucknow,2025-05-20,2025-06-19,823.27,1,Completed,Cash,823.27,True,823.27,2025-05,Mumbai to Lucknow
+BK000361,Arjun Yadav,19,Female,Train,Patna,Kolkata,2026-06-01,2026-08-07,676.49,5,Confirmed,Net Banking,3382.45,True,3382.45,2026-06,Patna to Kolkata
+BK000362,Kavya Rao,40,Female,Train,Kanpur,Lucknow,2026-01-22,2026-03-15,2905.31,2,Completed,UPI,5810.62,True,5810.62,2026-01,Kanpur to Lucknow
+BK000363,Zoya Sharma,19,Male,Bus,Ranchi,Agra,2025-09-13,2025-09-21,1099.3,4,Confirmed,UPI,4397.2,True,4397.2,2025-09,Ranchi to Agra
+BK000364,Arjun Patel,43,Male,Train,Prayagraj,Delhi,2025-01-20,2025-03-25,2484.86,1,Completed,Wallet,2484.86,True,2484.86,2025-01,Prayagraj to Delhi
+BK000365,Neha Yadav,80,Female,Bus,Jaipur,Varanasi,2025-03-04,2025-03-11,776.2,1,Completed,Card,776.2,True,776.2,2025-03,Jaipur to Varanasi
+BK000366,Aditi Das,25,Female,Bus,Kanpur,Ranchi,2026-04-12,2026-04-23,1034.05,5,Completed,UPI,5170.25,True,5170.25,2026-04,Kanpur to Ranchi
+BK000367,Neha Verma,73,Female,Bus,Varanasi,Prayagraj,2026-01-22,2026-02-21,731.34,2,Completed,Net Banking,1462.68,True,1462.68,2026-01,Varanasi to Prayagraj
+BK000368,Rohan Roy,15,Female,Bus,Delhi,Kanpur,2025-06-21,2025-07-13,2173.94,1,Completed,Net Banking,2173.94,True,2173.94,2025-06,Delhi to Kanpur
+BK000369,Zoya Yadav,71,Male,Train,Lucknow,Delhi,2026-06-30,2026-08-09,1043.06,2,Completed,UPI,2086.12,True,2086.12,2026-06,Lucknow to Delhi
+BK000370,Vihaan Verma,74,Male,Train,Lucknow,Kanpur,2025-05-26,2025-07-13,2409.76,4,Cancelled,Cash,9639.04,False,0.0,2025-05,Lucknow to Kanpur
+BK000371,Aarav Das,58,Female,Train,Jaipur,Kolkata,2025-03-18,2025-04-24,1334.02,5,Cancelled,UPI,6670.1,False,0.0,2025-03,Jaipur to Kolkata
+BK000372,Aditi Sharma,33,Male,Bus,Jaipur,Delhi,2025-01-03,2025-03-01,1006.15,2,Completed,UPI,2012.3,True,2012.3,2025-01,Jaipur to Delhi
+BK000373,Zoya Singh,36,Male,Bus,Jaipur,Bhopal,2026-04-16,2026-07-13,587.25,2,Confirmed,Wallet,1174.5,True,1174.5,2026-04,Jaipur to Bhopal
+BK000374,Vihaan Yadav,8,Female,Train,Delhi,Jaipur,2025-05-20,2025-07-10,2018.71,1,Completed,Net Banking,2018.71,True,2018.71,2025-05,Delhi to Jaipur
+BK000375,Kabir Khan,17,Male,Train,Varanasi,Mumbai,2026-02-21,2026-04-07,2728.22,1,Completed,Cash,2728.22,True,2728.22,2026-02,Varanasi to Mumbai
+BK000376,Ishaan Rao,69,Male,Bus,Delhi,Kanpur,2025-07-11,2025-09-20,1505.9,1,Completed,Cash,1505.9,True,1505.9,2025-07,Delhi to Kanpur
+BK000377,Neha Khan,8,Female,Train,Agra,Jaipur,2025-05-18,2025-06-10,2660.7,3,Completed,UPI,7982.099999999999,True,7982.099999999999,2025-05,Agra to Jaipur
+BK000378,Meera Joshi,37,Male,Train,Varanasi,Delhi,2026-03-21,2026-05-06,1426.66,5,Completed,Card,7133.3,True,7133.3,2026-03,Varanasi to Delhi
+BK000379,Rohan Sharma,71,Male,Train,Jaipur,Kolkata,2026-05-11,2026-07-13,2519.54,3,Completed,UPI,7558.62,True,7558.62,2026-05,Jaipur to Kolkata
+BK000380,Sana Gupta,58,Female,Train,Kanpur,Ranchi,2025-06-26,2025-07-31,1215.87,4,Confirmed,Cash,4863.48,True,4863.48,2025-06,Kanpur to Ranchi
+BK000381,Rohan Patel,76,Female,Train,Agra,Lucknow,2025-07-18,2025-08-26,820.28,3,Completed,Cash,2460.84,True,2460.84,2025-07,Agra to Lucknow
+BK000382,Ishaan Das,50,Female,Train,Prayagraj,Lucknow,2026-03-28,2026-04-20,2614.65,3,Completed,Net Banking,7843.950000000001,True,7843.950000000001,2026-03,Prayagraj to Lucknow
+BK000383,Vihaan Joshi,11,Male,Train,Lucknow,Prayagraj,2025-02-16,2025-03-31,1554.43,4,Pending,Net Banking,6217.72,False,0.0,2025-02,Lucknow to Prayagraj
+BK000384,Kabir Verma,35,Female,Train,Patna,Varanasi,2026-07-04,2026-09-18,1773.88,3,Completed,Net Banking,5321.64,True,5321.64,2026-07,Patna to Varanasi
+BK000385,Sana Patel,80,Male,Bus,Agra,Prayagraj,2025-06-17,2025-07-07,818.48,2,Pending,UPI,1636.96,False,0.0,2025-06,Agra to Prayagraj
+BK000386,Ananya Rao,74,Male,Train,Delhi,Varanasi,2026-06-24,2026-06-27,2949.01,4,Completed,Card,11796.04,True,11796.04,2026-06,Delhi to Varanasi
+BK000387,Aarav Sharma,54,Female,Bus,Mumbai,Ranchi,2025-11-14,2025-12-27,584.14,5,Completed,Net Banking,2920.7,True,2920.7,2025-11,Mumbai to Ranchi
+BK000388,Arjun Rao,27,Female,Bus,Bhopal,Agra,2026-06-18,2026-08-24,819.4,2,Cancelled,UPI,1638.8,False,0.0,2026-06,Bhopal to Agra
+BK000389,Kavya Joshi,34,Female,Train,Prayagraj,Bhopal,2026-08-19,2026-11-12,2316.77,5,Completed,Card,11583.85,True,11583.85,2026-08,Prayagraj to Bhopal
+BK000390,Sana Patel,27,Female,Train,Kolkata,Ranchi,2025-12-28,2026-01-29,703.58,3,Completed,Cash,2110.7400000000002,True,2110.7400000000002,2025-12,Kolkata to Ranchi
+BK000391,Diya Patel,7,Female,Train,Agra,Ranchi,2026-05-27,2026-06-27,1851.45,1,Confirmed,Net Banking,1851.45,True,1851.45,2026-05,Agra to Ranchi
+BK000392,Rohan Patel,72,Female,Train,Bhopal,Patna,2025-08-26,2025-09-08,515.3,4,Completed,UPI,2061.2,True,2061.2,2025-08,Bhopal to Patna
+BK000393,Rohan Rao,31,Female,Bus,Mumbai,Lucknow,2026-02-28,2026-03-05,1722.43,1,Completed,Net Banking,1722.43,True,1722.43,2026-02,Mumbai to Lucknow
+BK000394,Sana Singh,47,Male,Train,Lucknow,Varanasi,2025-09-06,2025-09-22,2310.58,2,Cancelled,Card,4621.16,False,0.0,2025-09,Lucknow to Varanasi
+BK000395,Aarav Verma,18,Male,Train,Bhopal,Jaipur,2025-01-28,2025-01-29,558.13,5,Confirmed,Card,2790.65,True,2790.65,2025-01,Bhopal to Jaipur
+BK000396,Sana Das,32,Male,Train,Kolkata,Jaipur,2025-02-26,2025-04-23,2297.04,3,Completed,Cash,6891.12,True,6891.12,2025-02,Kolkata to Jaipur
+BK000397,Sana Joshi,36,Female,Train,Kolkata,Varanasi,2025-11-07,2026-02-04,1454.99,4,Confirmed,Card,5819.96,True,5819.96,2025-11,Kolkata to Varanasi
+BK000398,Sana Patel,64,Female,Train,Patna,Delhi,2025-05-13,2025-07-30,1120.02,5,Completed,Cash,5600.1,True,5600.1,2025-05,Patna to Delhi
+BK000399,Vihaan Gupta,57,Male,Train,Jaipur,Kolkata,2025-10-06,2025-11-15,1061.71,3,Completed,Net Banking,3185.13,True,3185.13,2025-10,Jaipur to Kolkata
+BK000400,Kabir Roy,20,Male,Bus,Kanpur,Ranchi,2026-07-30,2026-09-30,2071.51,1,Completed,Card,2071.51,True,2071.51,2026-07,Kanpur to Ranchi
+BK000401,Zoya Roy,78,Male,Bus,Bhopal,Prayagraj,2025-07-14,2025-09-29,719.8,5,Completed,UPI,3599.0,True,3599.0,2025-07,Bhopal to Prayagraj
+BK000402,Aarav Yadav,73,Male,Train,Kanpur,Kolkata,2026-09-19,2026-12-09,1845.96,1,Completed,UPI,1845.96,True,1845.96,2026-09,Kanpur to Kolkata
+BK000403,Vihaan Rao,28,Male,Bus,Delhi,Agra,2026-07-16,2026-10-11,409.86,4,Completed,UPI,1639.44,True,1639.44,2026-07,Delhi to Agra
+BK000404,Kavya Mishra,40,Male,Train,Bhopal,Agra,2025-09-15,2025-09-29,899.76,1,Completed,Net Banking,899.76,True,899.76,2025-09,Bhopal to Agra
+BK000405,Diya Roy,79,Male,Bus,Varanasi,Kolkata,2025-01-12,2025-03-13,545.29,2,Completed,Cash,1090.58,True,1090.58,2025-01,Varanasi to Kolkata
+BK000406,Kabir Joshi,61,Male,Bus,Kanpur,Delhi,2025-02-08,2025-05-07,546.21,4,Completed,Net Banking,2184.84,True,2184.84,2025-02,Kanpur to Delhi
+BK000407,Kavya Das,44,Male,Bus,Kolkata,Patna,2026-06-14,2026-08-30,1195.5,5,Completed,Cash,5977.5,True,5977.5,2026-06,Kolkata to Patna
+BK000408,Aditi Singh,41,Male,Bus,Kanpur,Agra,2026-07-14,2026-08-07,642.77,5,Completed,UPI,3213.85,True,3213.85,2026-07,Kanpur to Agra
+BK000409,Ishaan Joshi,21,Male,Train,Bhopal,Patna,2025-10-15,2025-12-24,1467.14,2,Completed,UPI,2934.28,True,2934.28,2025-10,Bhopal to Patna
+BK000410,Sana Roy,57,Female,Bus,Ranchi,Bhopal,2026-04-04,2026-06-18,682.08,2,Cancelled,UPI,1364.16,False,0.0,2026-04,Ranchi to Bhopal
+BK000411,Sana Joshi,16,Male,Train,Kanpur,Lucknow,2025-09-01,2025-11-28,1407.75,3,Completed,Card,4223.25,True,4223.25,2025-09,Kanpur to Lucknow
+BK000412,Arjun Mishra,48,Male,Bus,Kanpur,Patna,2025-01-07,2025-03-05,1560.81,2,Confirmed,Cash,3121.62,True,3121.62,2025-01,Kanpur to Patna
+BK000413,Diya Rao,31,Male,Bus,Jaipur,Mumbai,2026-04-16,2026-04-17,939.8,2,Completed,Net Banking,1879.6,True,1879.6,2026-04,Jaipur to Mumbai
+BK000414,Rohan Patel,70,Male,Bus,Jaipur,Prayagraj,2026-06-30,2026-09-02,1157.39,2,Confirmed,UPI,2314.78,True,2314.78,2026-06,Jaipur to Prayagraj
+BK000415,Kavya Verma,10,Male,Bus,Varanasi,Jaipur,2026-05-02,2026-06-10,821.38,1,Completed,Net Banking,821.38,True,821.38,2026-05,Varanasi to Jaipur
+BK000416,Ishaan Joshi,31,Male,Bus,Agra,Kanpur,2025-08-26,2025-10-13,1453.12,3,Completed,UPI,4359.36,True,4359.36,2025-08,Agra to Kanpur
+BK000417,Rohan Mishra,30,Male,Bus,Mumbai,Lucknow,2025-02-18,2025-03-17,559.31,4,Confirmed,Wallet,2237.24,True,2237.24,2025-02,Mumbai to Lucknow
+BK000418,Diya Patel,23,Male,Train,Bhopal,Patna,2025-07-13,2025-08-29,1444.48,3,Completed,Cash,4333.4400000000005,True,4333.4400000000005,2025-07,Bhopal to Patna
+BK000419,Kabir Yadav,27,Female,Bus,Bhopal,Prayagraj,2025-09-05,2025-10-04,1354.19,3,Completed,Card,4062.57,True,4062.57,2025-09,Bhopal to Prayagraj
+BK000420,Kabir Das,42,Female,Train,Mumbai,Varanasi,2026-04-18,2026-05-11,1933.96,4,Completed,Card,7735.84,True,7735.84,2026-04,Mumbai to Varanasi
+BK000421,Aarav Patel,21,Female,Train,Agra,Mumbai,2025-09-14,2025-11-04,1367.46,2,Pending,Card,2734.92,False,0.0,2025-09,Agra to Mumbai
+BK000422,Kabir Singh,71,Male,Train,Mumbai,Kolkata,2026-06-15,2026-06-25,2293.22,2,Completed,Card,4586.44,True,4586.44,2026-06,Mumbai to Kolkata
+BK000423,Ishaan Sharma,67,Male,Bus,Delhi,Bhopal,2026-06-09,2026-08-15,2088.3,3,Completed,Wallet,6264.900000000001,True,6264.900000000001,2026-06,Delhi to Bhopal
+BK000424,Arjun Roy,30,Male,Bus,Kanpur,Prayagraj,2025-02-13,2025-02-18,1328.73,3,Completed,UPI,3986.19,True,3986.19,2025-02,Kanpur to Prayagraj
+BK000425,Vihaan Patel,18,Male,Train,Mumbai,Agra,2025-11-10,2025-11-13,3284.71,4,Completed,Wallet,13138.84,True,13138.84,2025-11,Mumbai to Agra
+BK000426,Neha Rao,19,Other,Bus,Prayagraj,Agra,2026-03-10,2026-05-27,1746.16,4,Completed,Card,6984.64,True,6984.64,2026-03,Prayagraj to Agra
+BK000427,Aditi Joshi,30,Female,Bus,Agra,Lucknow,2025-12-30,2026-02-27,2238.29,5,Pending,Card,11191.45,False,0.0,2025-12,Agra to Lucknow
+BK000428,Rohan Verma,66,Male,Train,Prayagraj,Mumbai,2025-09-28,2025-11-13,569.54,2,Cancelled,Cash,1139.08,False,0.0,2025-09,Prayagraj to Mumbai
+BK000429,Aarav Joshi,25,Male,Train,Agra,Jaipur,2025-02-02,2025-02-04,1772.66,5,Completed,Cash,8863.300000000001,True,8863.300000000001,2025-02,Agra to Jaipur
+BK000430,Kabir Joshi,55,Male,Bus,Jaipur,Agra,2025-01-03,2025-03-14,1346.27,2,Completed,Wallet,2692.54,True,2692.54,2025-01,Jaipur to Agra
+BK000431,Arjun Khan,62,Male,Bus,Delhi,Kolkata,2025-03-30,2025-04-10,694.47,4,Completed,Cash,2777.88,True,2777.88,2025-03,Delhi to Kolkata
+BK000432,Zoya Joshi,7,Male,Bus,Prayagraj,Delhi,2025-06-14,2025-07-02,1947.46,1,Confirmed,Card,1947.46,True,1947.46,2025-06,Prayagraj to Delhi
+BK000433,Kavya Joshi,9,Male,Bus,Lucknow,Mumbai,2025-01-20,2025-02-23,1288.22,4,Completed,UPI,5152.88,True,5152.88,2025-01,Lucknow to Mumbai
+BK000434,Sana Rao,20,Male,Bus,Lucknow,Kolkata,2025-12-31,2026-01-02,1628.89,5,Confirmed,Cash,8144.450000000001,True,8144.450000000001,2025-12,Lucknow to Kolkata
+BK000435,Arjun Verma,35,Male,Bus,Ranchi,Jaipur,2025-06-03,2025-06-26,999.01,1,Completed,Net Banking,999.01,True,999.01,2025-06,Ranchi to Jaipur
+BK000436,Aditi Mishra,11,Male,Train,Varanasi,Patna,2026-08-20,2026-08-25,754.79,1,Completed,Card,754.79,True,754.79,2026-08,Varanasi to Patna
+BK000437,Sana Gupta,37,Female,Train,Patna,Kolkata,2026-06-27,2026-07-31,474.74,5,Completed,Net Banking,2373.7,True,2373.7,2026-06,Patna to Kolkata
+BK000438,Ishaan Mishra,68,Female,Bus,Jaipur,Mumbai,2025-06-05,2025-06-30,1387.0,1,Cancelled,UPI,1387.0,False,0.0,2025-06,Jaipur to Mumbai
+BK000439,Arjun Verma,12,Male,Train,Agra,Patna,2025-01-02,2025-01-24,2106.78,5,Confirmed,Wallet,10533.900000000001,True,10533.900000000001,2025-01,Agra to Patna
+BK000440,Ananya Gupta,63,Female,Train,Ranchi,Prayagraj,2025-10-19,2025-12-02,1765.32,3,Completed,Card,5295.96,True,5295.96,2025-10,Ranchi to Prayagraj
+BK000441,Ishaan Verma,25,Female,Train,Agra,Mumbai,2025-02-18,2025-03-29,1124.68,3,Completed,Card,3374.04,True,3374.04,2025-02,Agra to Mumbai
+BK000442,Kabir Yadav,5,Female,Bus,Lucknow,Jaipur,2026-02-28,2026-05-23,1577.65,2,Completed,Wallet,3155.3,True,3155.3,2026-02,Lucknow to Jaipur
+BK000443,Aditi Yadav,49,Female,Train,Kolkata,Delhi,2026-03-22,2026-05-30,2002.96,5,Cancelled,Cash,10014.8,False,0.0,2026-03,Kolkata to Delhi
+BK000444,Aarav Joshi,32,Female,Bus,Kanpur,Jaipur,2026-05-10,2026-05-22,1633.92,5,Completed,Card,8169.6,True,8169.6,2026-05,Kanpur to Jaipur
+BK000445,Ishaan Sharma,35,Male,Train,Agra,Patna,2025-09-23,2025-12-03,871.81,5,Cancelled,Card,4359.049999999999,False,0.0,2025-09,Agra to Patna
+BK000446,Diya Roy,77,Other,Train,Ranchi,Delhi,2026-05-09,2026-07-13,1840.02,1,Completed,Card,1840.02,True,1840.02,2026-05,Ranchi to Delhi
+BK000447,Zoya Verma,58,Male,Train,Mumbai,Varanasi,2026-08-25,2026-10-18,1898.81,1,Completed,Cash,1898.81,True,1898.81,2026-08,Mumbai to Varanasi
+BK000448,Zoya Gupta,69,Male,Bus,Varanasi,Ranchi,2026-09-18,2026-11-11,1233.02,3,Completed,Card,3699.06,True,3699.06,2026-09,Varanasi to Ranchi
+BK000449,Rohan Verma,11,Male,Train,Delhi,Lucknow,2026-08-17,2026-11-06,1368.22,4,Completed,UPI,5472.88,True,5472.88,2026-08,Delhi to Lucknow
+BK000450,Neha Sharma,60,Male,Train,Agra,Varanasi,2026-08-05,2026-11-03,1360.22,3,Completed,UPI,4080.66,True,4080.66,2026-08,Agra to Varanasi
+BK000451,Ananya Sharma,75,Other,Bus,Patna,Kolkata,2025-06-29,2025-07-03,1211.93,5,Completed,Cash,6059.650000000001,True,6059.650000000001,2025-06,Patna to Kolkata
+BK000452,Vihaan Sharma,79,Female,Train,Ranchi,Delhi,2025-08-02,2025-08-29,841.07,2,Completed,Card,1682.14,True,1682.14,2025-08,Ranchi to Delhi
+BK000453,Arjun Rao,54,Male,Bus,Ranchi,Agra,2026-07-23,2026-10-01,1149.38,4,Completed,Cash,4597.52,True,4597.52,2026-07,Ranchi to Agra
+BK000454,Kavya Rao,52,Male,Bus,Jaipur,Mumbai,2026-04-20,2026-07-15,1138.4,1,Completed,Wallet,1138.4,True,1138.4,2026-04,Jaipur to Mumbai
+BK000455,Kabir Sharma,23,Male,Bus,Kolkata,Kanpur,2026-05-02,2026-06-21,852.11,4,Confirmed,Cash,3408.44,True,3408.44,2026-05,Kolkata to Kanpur
+BK000456,Arjun Joshi,71,Female,Train,Agra,Mumbai,2026-02-17,2026-02-18,1518.59,3,Completed,UPI,4555.7699999999995,True,4555.7699999999995,2026-02,Agra to Mumbai
+BK000457,Aditi Khan,75,Male,Train,Ranchi,Patna,2026-05-14,2026-05-29,1213.48,5,Completed,Cash,6067.4,True,6067.4,2026-05,Ranchi to Patna
+BK000458,Sana Patel,25,Female,Bus,Lucknow,Kanpur,2026-02-13,2026-03-09,769.48,4,Completed,Wallet,3077.92,True,3077.92,2026-02,Lucknow to Kanpur
+BK000459,Ishaan Roy,25,Female,Bus,Prayagraj,Agra,2025-11-02,2025-12-11,1527.45,5,Cancelled,Wallet,7637.25,False,0.0,2025-11,Prayagraj to Agra
+BK000460,Aditi Joshi,49,Male,Train,Jaipur,Varanasi,2025-01-31,2025-03-20,1101.25,4,Pending,UPI,4405.0,False,0.0,2025-01,Jaipur to Varanasi
+BK000461,Ishaan Joshi,70,Male,Bus,Ranchi,Kolkata,2026-10-04,2026-12-07,1015.82,5,Completed,Card,5079.1,True,5079.1,2026-10,Ranchi to Kolkata
+BK000462,Ishaan Joshi,60,Male,Bus,Kolkata,Kanpur,2025-08-05,2025-10-28,466.82,4,Completed,Cash,1867.28,True,1867.28,2025-08,Kolkata to Kanpur
+BK000463,Zoya Patel,66,Female,Bus,Bhopal,Ranchi,2026-02-11,2026-03-03,1055.53,3,Completed,Wallet,3166.59,True,3166.59,2026-02,Bhopal to Ranchi
+BK000464,Diya Roy,76,Female,Bus,Kolkata,Kanpur,2025-01-04,2025-01-23,1319.32,3,Confirmed,UPI,3957.96,True,3957.96,2025-01,Kolkata to Kanpur
+BK000465,Unknown,76,Female,Bus,Kanpur,Delhi,2025-02-12,2025-04-02,1071.96,2,Completed,Wallet,2143.92,True,2143.92,2025-02,Kanpur to Delhi
+BK000466,Vihaan Joshi,31,Male,Train,Bhopal,Agra,2025-09-14,2025-12-02,1843.14,5,Completed,Cash,9215.7,True,9215.7,2025-09,Bhopal to Agra
+BK000467,Neha Singh,14,Male,Train,Varanasi,Mumbai,2025-05-08,2025-05-23,1944.08,2,Pending,UPI,3888.16,False,0.0,2025-05,Varanasi to Mumbai
+BK000468,Neha Rao,10,Female,Train,Varanasi,Bhopal,2025-01-22,2025-01-27,1308.59,2,Completed,Cash,2617.18,True,2617.18,2025-01,Varanasi to Bhopal
+BK000469,Ananya Roy,66,Male,Train,Lucknow,Varanasi,2025-04-13,2025-07-03,2230.78,2,Cancelled,Wallet,4461.56,False,0.0,2025-04,Lucknow to Varanasi
+BK000470,Ananya Rao,74,Other,Train,Bhopal,Patna,2025-02-26,2025-03-27,1550.56,4,Confirmed,Cash,6202.24,True,6202.24,2025-02,Bhopal to Patna
+BK000471,Meera Rao,52,Male,Train,Jaipur,Delhi,2026-02-22,2026-03-13,1728.66,1,Completed,Card,1728.66,True,1728.66,2026-02,Jaipur to Delhi
+BK000472,Zoya Das,69,Male,Bus,Mumbai,Prayagraj,2025-01-28,2025-03-11,1396.24,1,Completed,Wallet,1396.24,True,1396.24,2025-01,Mumbai to Prayagraj
+BK000473,Diya Yadav,70,Female,Train,Mumbai,Lucknow,2026-09-20,2026-10-01,1367.38,5,Completed,Wallet,6836.900000000001,True,6836.900000000001,2026-09,Mumbai to Lucknow
+BK000474,Aditi Singh,34,Female,Train,Delhi,Ranchi,2025-11-10,2026-01-16,2753.6,4,Confirmed,Cash,11014.4,True,11014.4,2025-11,Delhi to Ranchi
+BK000475,Rohan Roy,41,Male,Bus,Varanasi,Delhi,2026-06-27,2026-07-09,1004.25,4,Completed,Net Banking,4017.0,True,4017.0,2026-06,Varanasi to Delhi
+BK000476,Zoya Sharma,34,Female,Train,Ranchi,Bhopal,2025-05-18,2025-06-23,1267.94,2,Completed,Card,2535.88,True,2535.88,2025-05,Ranchi to Bhopal
+BK000477,Arjun Roy,46,Male,Bus,Jaipur,Prayagraj,2026-01-13,2026-02-23,407.48,2,Completed,Card,814.96,True,814.96,2026-01,Jaipur to Prayagraj
+BK000478,Kabir Khan,10,Female,Train,Agra,Bhopal,2025-02-08,2025-03-16,1208.66,3,Confirmed,Net Banking,3625.9800000000005,True,3625.9800000000005,2025-02,Agra to Bhopal
+BK000479,Aarav Sharma,9,Male,Bus,Lucknow,Agra,2025-09-14,2025-11-06,542.5,3,Completed,UPI,1627.5,True,1627.5,2025-09,Lucknow to Agra
+BK000480,Ananya Sharma,38,Male,Bus,Ranchi,Prayagraj,2025-05-14,2025-05-20,422.87,2,Completed,Card,845.74,True,845.74,2025-05,Ranchi to Prayagraj
+BK000481,Rohan Joshi,57,Female,Bus,Delhi,Jaipur,2026-05-27,2026-08-25,1230.77,4,Completed,Wallet,4923.08,True,4923.08,2026-05,Delhi to Jaipur
+BK000482,Arjun Joshi,19,Female,Bus,Prayagraj,Jaipur,2025-06-20,2025-07-18,1383.37,1,Pending,Wallet,1383.37,False,0.0,2025-06,Prayagraj to Jaipur
+BK000483,Vihaan Verma,17,Female,Bus,Prayagraj,Mumbai,2025-10-12,2025-11-30,1002.66,2,Completed,Wallet,2005.32,True,2005.32,2025-10,Prayagraj to Mumbai
+BK000484,Vihaan Joshi,11,Male,Train,Lucknow,Prayagraj,2026-01-19,2026-03-28,2786.13,4,Confirmed,Wallet,11144.52,True,11144.52,2026-01,Lucknow to Prayagraj
+BK000485,Neha Rao,14,Male,Train,Agra,Bhopal,2026-06-18,2026-08-18,2192.94,2,Completed,Net Banking,4385.88,True,4385.88,2026-06,Agra to Bhopal
+BK000486,Arjun Khan,7,Female,Train,Jaipur,Lucknow,2025-04-18,2025-06-11,2657.1,3,Completed,UPI,7971.299999999999,True,7971.299999999999,2025-04,Jaipur to Lucknow
+BK000487,Aditi Verma,63,Female,Train,Delhi,Patna,2025-11-02,2026-01-02,826.16,4,Completed,Card,3304.64,True,3304.64,2025-11,Delhi to Patna
+BK000488,Vihaan Joshi,14,Male,Train,Bhopal,Mumbai,2025-12-07,2026-03-01,1374.25,1,Cancelled,Wallet,1374.25,False,0.0,2025-12,Bhopal to Mumbai
+BK000489,Kabir Yadav,59,Other,Train,Jaipur,Varanasi,2025-01-10,2025-04-09,655.23,2,Completed,Cash,1310.46,True,1310.46,2025-01,Jaipur to Varanasi
+BK000490,Rohan Yadav,11,Female,Train,Varanasi,Kolkata,2026-01-09,2026-01-20,633.71,2,Completed,Cash,1267.42,True,1267.42,2026-01,Varanasi to Kolkata
+BK000491,Ishaan Rao,17,Female,Bus,Lucknow,Patna,2026-01-06,2026-01-31,912.87,1,Completed,Net Banking,912.87,True,912.87,2026-01,Lucknow to Patna
+BK000492,Unknown,70,Male,Bus,Agra,Patna,2026-10-05,2026-10-06,1086.63,5,Completed,Card,5433.150000000001,True,5433.150000000001,2026-10,Agra to Patna
+BK000493,Ishaan Patel,24,Female,Bus,Lucknow,Kanpur,2025-01-03,2025-01-21,1266.6,1,Completed,UPI,1266.6,True,1266.6,2025-01,Lucknow to Kanpur
+BK000494,Vihaan Rao,72,Female,Bus,Patna,Ranchi,2026-05-30,2026-07-21,1148.98,4,Completed,Wallet,4595.92,True,4595.92,2026-05,Patna to Ranchi
+BK000495,Ishaan Yadav,64,Male,Train,Delhi,Bhopal,2025-02-16,2025-03-03,1012.26,4,Cancelled,Net Banking,4049.04,False,0.0,2025-02,Delhi to Bhopal
+BK000496,Kabir Verma,74,Female,Bus,Lucknow,Agra,2026-05-30,2026-08-23,1238.35,2,Completed,Net Banking,2476.7,True,2476.7,2026-05,Lucknow to Agra
+BK000497,Aditi Rao,42,Female,Train,Ranchi,Jaipur,2025-07-21,2025-08-13,2226.44,5,Confirmed,UPI,11132.2,True,11132.2,2025-07,Ranchi to Jaipur
+BK000498,Kabir Joshi,28,Male,Train,Prayagraj,Ranchi,2026-01-06,2026-02-21,3396.19,5,Completed,Cash,16980.95,True,16980.95,2026-01,Prayagraj to Ranchi
+BK000499,Aarav Singh,57,Male,Train,Mumbai,Lucknow,2025-05-21,2025-05-26,1890.29,4,Pending,Net Banking,7561.16,False,0.0,2025-05,Mumbai to Lucknow
+BK000500,Aditi Khan,44,Female,Bus,Delhi,Varanasi,2025-03-24,2025-06-18,1655.1,1,Completed,Net Banking,1655.1,True,1655.1,2025-03,Delhi to Varanasi
+BK000501,Meera Verma,29,Male,Train,Agra,Mumbai,2025-08-02,2025-09-16,1625.26,1,Completed,UPI,1625.26,True,1625.26,2025-08,Agra to Mumbai
+BK000502,Ananya Gupta,29,Female,Bus,Mumbai,Ranchi,2025-06-02,2025-07-17,2204.07,2,Completed,Net Banking,4408.14,True,4408.14,2025-06,Mumbai to Ranchi
+BK000503,Aditi Sharma,22,Male,Train,Varanasi,Lucknow,2025-03-14,2025-03-25,1623.24,3,Completed,Cash,4869.72,True,4869.72,2025-03,Varanasi to Lucknow
+BK000504,Aditi Das,72,Male,Bus,Agra,Lucknow,2026-10-06,2026-12-28,1548.35,1,Completed,Wallet,1548.35,True,1548.35,2026-10,Agra to Lucknow
+BK000505,Sana Roy,62,Female,Bus,Agra,Mumbai,2025-03-10,2025-04-28,1847.93,2,Completed,Net Banking,3695.86,True,3695.86,2025-03,Agra to Mumbai
+BK000506,Rohan Mishra,42,Male,Bus,Kanpur,Varanasi,2025-01-14,2025-01-22,1825.23,3,Completed,Net Banking,5475.6900000000005,True,5475.6900000000005,2025-01,Kanpur to Varanasi
+BK000507,Aarav Patel,33,Male,Train,Lucknow,Mumbai,2026-06-15,2026-08-16,2532.95,1,Pending,UPI,2532.95,False,0.0,2026-06,Lucknow to Mumbai
+BK000508,Neha Sharma,71,Male,Bus,Ranchi,Prayagraj,2025-09-30,2025-10-07,1378.2,1,Completed,UPI,1378.2,True,1378.2,2025-09,Ranchi to Prayagraj
+BK000509,Meera Rao,70,Male,Bus,Lucknow,Ranchi,2026-07-23,2026-10-02,1022.57,3,Completed,Wallet,3067.71,True,3067.71,2026-07,Lucknow to Ranchi
+BK000510,Aditi Verma,17,Male,Bus,Bhopal,Ranchi,2026-01-25,2026-03-15,705.41,5,Completed,Wallet,3527.0499999999997,True,3527.0499999999997,2026-01,Bhopal to Ranchi
+BK000511,Zoya Yadav,66,Female,Bus,Patna,Varanasi,2026-06-17,2026-08-30,834.5,4,Completed,UPI,3338.0,True,3338.0,2026-06,Patna to Varanasi
+BK000512,Aditi Patel,7,Male,Train,Patna,Kolkata,2025-01-28,2025-03-31,1808.55,1,Completed,Wallet,1808.55,True,1808.55,2025-01,Patna to Kolkata
+BK000513,Sana Sharma,17,Female,Train,Jaipur,Bhopal,2025-06-16,2025-08-18,1965.49,4,Completed,UPI,7861.96,True,7861.96,2025-06,Jaipur to Bhopal
+BK000514,Aarav Roy,49,Female,Bus,Agra,Prayagraj,2026-10-05,2026-11-06,1117.49,2,Completed,Net Banking,2234.98,True,2234.98,2026-10,Agra to Prayagraj
+BK000515,Ishaan Yadav,65,Female,Train,Lucknow,Kolkata,2026-09-17,2026-10-14,2389.19,1,Cancelled,Wallet,2389.19,False,0.0,2026-09,Lucknow to Kolkata
+BK000516,Arjun Khan,43,Female,Bus,Mumbai,Jaipur,2026-01-30,2026-04-07,1746.67,4,Completed,Cash,6986.68,True,6986.68,2026-01,Mumbai to Jaipur
+BK000517,Meera Sharma,17,Female,Bus,Mumbai,Patna,2026-06-23,2026-07-26,1337.03,5,Completed,Net Banking,6685.15,True,6685.15,2026-06,Mumbai to Patna
+BK000518,Rohan Verma,24,Female,Train,Varanasi,Kanpur,2025-07-31,2025-10-15,2724.7,5,Completed,Card,13623.5,True,13623.5,2025-07,Varanasi to Kanpur
+BK000519,Ishaan Rao,70,Male,Train,Kolkata,Varanasi,2025-07-28,2025-09-18,452.71,2,Completed,UPI,905.42,True,905.42,2025-07,Kolkata to Varanasi
+BK000520,Kabir Roy,39,Female,Bus,Lucknow,Varanasi,2025-08-21,2025-08-26,552.62,3,Completed,Card,1657.8600000000001,True,1657.8600000000001,2025-08,Lucknow to Varanasi
+BK000521,Kavya Joshi,35,Female,Train,Jaipur,Varanasi,2025-12-07,2026-01-02,3330.66,5,Completed,Wallet,16653.3,True,16653.3,2025-12,Jaipur to Varanasi
+BK000522,Aditi Mishra,57,Male,Train,Agra,Varanasi,2026-10-04,2026-11-05,3101.91,5,Completed,Card,15509.55,True,15509.55,2026-10,Agra to Varanasi
+BK000523,Meera Mishra,48,Male,Train,Patna,Delhi,2026-02-03,2026-05-01,949.96,1,Cancelled,Card,949.96,False,0.0,2026-02,Patna to Delhi
+BK000524,Aarav Khan,61,Male,Bus,Delhi,Jaipur,2026-09-26,2026-10-26,497.87,1,Completed,Card,497.87,True,497.87,2026-09,Delhi to Jaipur
+BK000525,Arjun Das,34,Male,Bus,Delhi,Jaipur,2026-03-31,2026-05-23,1058.07,2,Completed,Card,2116.14,True,2116.14,2026-03,Delhi to Jaipur
+BK000526,Sana Singh,80,Male,Train,Ranchi,Agra,2026-02-01,2026-03-29,2069.35,1,Completed,Cash,2069.35,True,2069.35,2026-02,Ranchi to Agra
+BK000527,Ishaan Patel,54,Male,Bus,Bhopal,Ranchi,2026-03-10,2026-05-20,526.24,1,Completed,Card,526.24,True,526.24,2026-03,Bhopal to Ranchi
+BK000528,Zoya Verma,48,Female,Bus,Kanpur,Agra,2025-03-15,2025-04-17,508.09,2,Completed,UPI,1016.18,True,1016.18,2025-03,Kanpur to Agra
+BK000529,Aditi Rao,14,Male,Train,Prayagraj,Jaipur,2025-08-13,2025-10-22,2094.51,1,Completed,Cash,2094.51,True,2094.51,2025-08,Prayagraj to Jaipur
+BK000530,Diya Singh,60,Male,Bus,Delhi,Jaipur,2026-09-22,2026-11-22,1390.34,2,Completed,Cash,2780.68,True,2780.68,2026-09,Delhi to Jaipur
+BK000531,Arjun Singh,48,Male,Train,Delhi,Jaipur,2026-04-14,2026-07-13,1798.64,2,Pending,Net Banking,3597.28,False,0.0,2026-04,Delhi to Jaipur
+BK000532,Kavya Mishra,36,Female,Train,Agra,Prayagraj,2025-12-09,2026-02-05,1788.54,2,Cancelled,Cash,3577.08,False,0.0,2025-12,Agra to Prayagraj
+BK000533,Aarav Yadav,7,Male,Train,Mumbai,Lucknow,2025-01-19,2025-03-05,1920.83,2,Completed,Cash,3841.66,True,3841.66,2025-01,Mumbai to Lucknow
+BK000534,Neha Singh,61,Male,Bus,Kanpur,Jaipur,2026-07-09,2026-09-24,444.44,2,Completed,Card,888.88,True,888.88,2026-07,Kanpur to Jaipur
+BK000535,Aarav Rao,72,Male,Train,Agra,Lucknow,2026-07-29,2026-09-25,1984.83,1,Pending,Cash,1984.83,False,0.0,2026-07,Agra to Lucknow
+BK000536,Aarav Sharma,52,Male,Train,Lucknow,Prayagraj,2025-04-19,2025-06-21,2517.02,1,Completed,Card,2517.02,True,2517.02,2025-04,Lucknow to Prayagraj
+BK000537,Aarav Khan,47,Male,Train,Lucknow,Kanpur,2025-08-27,2025-11-16,1581.67,2,Completed,Card,3163.34,True,3163.34,2025-08,Lucknow to Kanpur
+BK000538,Kavya Joshi,44,Male,Bus,Patna,Kolkata,2025-11-06,2025-12-11,881.22,5,Completed,Net Banking,4406.1,True,4406.1,2025-11,Patna to Kolkata
+BK000539,Vihaan Das,48,Male,Train,Kolkata,Varanasi,2025-08-07,2025-10-07,1250.88,5,Completed,Net Banking,6254.400000000001,True,6254.400000000001,2025-08,Kolkata to Varanasi
+BK000540,Aditi Mishra,55,Female,Bus,Varanasi,Agra,2026-09-10,2026-12-01,827.04,3,Completed,Net Banking,2481.12,True,2481.12,2026-09,Varanasi to Agra
+BK000541,Arjun Yadav,62,Female,Train,Kanpur,Ranchi,2025-09-09,2025-12-02,1104.95,4,Confirmed,Net Banking,4419.8,True,4419.8,2025-09,Kanpur to Ranchi
+BK000542,Zoya Patel,5,Male,Train,Varanasi,Prayagraj,2025-04-19,2025-05-29,1887.29,5,Completed,Net Banking,9436.45,True,9436.45,2025-04,Varanasi to Prayagraj
+BK000543,Kavya Verma,71,Female,Train,Delhi,Patna,2025-05-16,2025-07-17,1804.41,2,Completed,UPI,3608.82,True,3608.82,2025-05,Delhi to Patna
+BK000544,Aditi Verma,19,Female,Bus,Bhopal,Jaipur,2026-03-14,2026-03-23,1827.97,4,Completed,UPI,7311.88,True,7311.88,2026-03,Bhopal to Jaipur
+BK000545,Sana Sharma,58,Female,Bus,Lucknow,Varanasi,2025-12-06,2025-12-27,1188.44,1,Pending,Cash,1188.44,False,0.0,2025-12,Lucknow to Varanasi
+BK000546,Arjun Gupta,50,Male,Bus,Prayagraj,Kolkata,2025-10-22,2025-12-12,1393.63,5,Completed,Wallet,6968.150000000001,True,6968.150000000001,2025-10,Prayagraj to Kolkata
+BK000547,Zoya Joshi,37,Male,Train,Varanasi,Mumbai,2025-02-18,2025-05-16,2062.56,5,Completed,Net Banking,10312.8,True,10312.8,2025-02,Varanasi to Mumbai
+BK000548,Neha Patel,70,Female,Train,Ranchi,Prayagraj,2026-09-06,2026-10-24,1016.6,4,Pending,Net Banking,4066.4,False,0.0,2026-09,Ranchi to Prayagraj
+BK000549,Meera Rao,71,Female,Train,Jaipur,Agra,2026-09-27,2026-12-03,2513.53,3,Completed,Wallet,7540.59,True,7540.59,2026-09,Jaipur to Agra
+BK000550,Rohan Sharma,32,Female,Bus,Patna,Kanpur,2025-08-21,2025-11-09,521.54,4,Completed,Cash,2086.16,True,2086.16,2025-08,Patna to Kanpur
+BK000551,Ishaan Gupta,13,Male,Bus,Patna,Kolkata,2025-08-22,2025-10-12,528.05,3,Completed,UPI,1584.1499999999999,True,1584.1499999999999,2025-08,Patna to Kolkata
+BK000552,Kavya Patel,5,Male,Bus,Jaipur,Patna,2025-01-23,2025-03-16,1213.77,5,Cancelled,Card,6068.85,False,0.0,2025-01,Jaipur to Patna
+BK000553,Kavya Patel,16,Female,Train,Jaipur,Prayagraj,2025-06-26,2025-07-17,1413.71,4,Confirmed,Net Banking,5654.84,True,5654.84,2025-06,Jaipur to Prayagraj
+BK000554,Rohan Sharma,12,Male,Bus,Delhi,Mumbai,2025-01-03,2025-01-24,1044.23,3,Completed,UPI,3132.69,True,3132.69,2025-01,Delhi to Mumbai
+BK000555,Aditi Roy,70,Male,Bus,Jaipur,Varanasi,2025-06-15,2025-07-27,1999.12,5,Confirmed,Card,9995.599999999999,True,9995.599999999999,2025-06,Jaipur to Varanasi
+BK000556,Arjun Das,58,Male,Bus,Agra,Ranchi,2026-03-12,2026-03-17,576.49,2,Completed,Wallet,1152.98,True,1152.98,2026-03,Agra to Ranchi
+BK000557,Ananya Joshi,44,Male,Bus,Delhi,Kolkata,2025-12-03,2026-01-11,1980.43,4,Completed,UPI,7921.72,True,7921.72,2025-12,Delhi to Kolkata
+BK000558,Meera Yadav,20,Female,Train,Prayagraj,Jaipur,2025-01-24,2025-02-03,1363.37,4,Completed,Cash,5453.48,True,5453.48,2025-01,Prayagraj to Jaipur
+BK000559,Sana Mishra,20,Other,Train,Kolkata,Lucknow,2025-05-14,2025-07-31,1646.35,1,Completed,UPI,1646.35,True,1646.35,2025-05,Kolkata to Lucknow
+BK000560,Arjun Mishra,40,Male,Bus,Mumbai,Agra,2025-08-05,2025-08-18,499.34,1,Completed,UPI,499.34,True,499.34,2025-08,Mumbai to Agra
+BK000561,Kabir Verma,5,Male,Train,Delhi,Patna,2025-11-11,2025-12-17,2532.52,3,Completed,Net Banking,7597.5599999999995,True,7597.5599999999995,2025-11,Delhi to Patna
+BK000562,Neha Joshi,58,Male,Bus,Varanasi,Mumbai,2026-01-12,2026-03-10,626.95,3,Completed,UPI,1880.8500000000001,True,1880.8500000000001,2026-01,Varanasi to Mumbai
+BK000563,Ananya Joshi,62,Other,Train,Mumbai,Patna,2025-03-04,2025-04-17,809.73,1,Completed,Cash,809.73,True,809.73,2025-03,Mumbai to Patna
+BK000564,Ishaan Mishra,33,Male,Bus,Jaipur,Agra,2025-09-30,2025-12-23,500.54,2,Completed,UPI,1001.08,True,1001.08,2025-09,Jaipur to Agra
+BK000565,Kabir Joshi,17,Female,Bus,Agra,Ranchi,2026-10-01,2026-12-08,633.21,3,Completed,Wallet,1899.63,True,1899.63,2026-10,Agra to Ranchi
+BK000566,Zoya Verma,59,Male,Bus,Kanpur,Jaipur,2026-02-26,2026-03-31,1340.48,1,Completed,Cash,1340.48,True,1340.48,2026-02,Kanpur to Jaipur
+BK000567,Sana Singh,37,Male,Bus,Ranchi,Kanpur,2025-04-19,2025-06-26,800.36,3,Completed,Wallet,2401.08,True,2401.08,2025-04,Ranchi to Kanpur
+BK000568,Aditi Das,18,Female,Train,Mumbai,Patna,2026-03-24,2026-06-17,1524.19,2,Cancelled,Card,3048.38,False,0.0,2026-03,Mumbai to Patna
+BK000569,Ananya Das,34,Male,Bus,Kolkata,Kanpur,2025-05-31,2025-07-01,646.65,2,Completed,Cash,1293.3,True,1293.3,2025-05,Kolkata to Kanpur
+BK000570,Arjun Joshi,51,Male,Train,Kanpur,Agra,2025-12-14,2025-12-15,3022.11,1,Confirmed,Net Banking,3022.11,True,3022.11,2025-12,Kanpur to Agra
+BK000571,Rohan Mishra,26,Male,Bus,Agra,Ranchi,2025-06-17,2025-07-08,1180.88,5,Confirmed,Wallet,5904.400000000001,True,5904.400000000001,2025-06,Agra to Ranchi
+BK000572,Vihaan Sharma,69,Female,Bus,Kanpur,Mumbai,2026-05-09,2026-05-20,842.58,2,Completed,Card,1685.16,True,1685.16,2026-05,Kanpur to Mumbai
+BK000573,Aarav Singh,6,Male,Train,Kanpur,Prayagraj,2025-06-13,2025-09-07,1985.55,3,Completed,Net Banking,5956.65,True,5956.65,2025-06,Kanpur to Prayagraj
+BK000574,Aditi Verma,40,Female,Bus,Kolkata,Jaipur,2025-07-09,2025-07-29,1660.22,2,Pending,Card,3320.44,False,0.0,2025-07,Kolkata to Jaipur
+BK000575,Neha Verma,54,Female,Bus,Prayagraj,Ranchi,2025-06-11,2025-07-27,670.08,2,Completed,UPI,1340.16,True,1340.16,2025-06,Prayagraj to Ranchi
+BK000576,Rohan Roy,48,Other,Bus,Kanpur,Agra,2026-01-01,2026-01-14,737.18,1,Completed,Card,737.18,True,737.18,2026-01,Kanpur to Agra
+BK000577,Arjun Sharma,10,Male,Train,Kanpur,Kolkata,2025-06-17,2025-07-19,760.28,1,Completed,Cash,760.28,True,760.28,2025-06,Kanpur to Kolkata
+BK000578,Ishaan Verma,34,Female,Train,Bhopal,Lucknow,2025-03-13,2025-04-20,2010.23,2,Completed,Wallet,4020.46,True,4020.46,2025-03,Bhopal to Lucknow
+BK000579,Zoya Yadav,79,Female,Bus,Kolkata,Mumbai,2025-08-04,2025-08-15,1681.91,1,Completed,Net Banking,1681.91,True,1681.91,2025-08,Kolkata to Mumbai
+BK000580,Neha Roy,56,Male,Train,Jaipur,Kanpur,2025-05-29,2025-08-22,1999.47,4,Completed,Net Banking,7997.88,True,7997.88,2025-05,Jaipur to Kanpur
+BK000581,Neha Patel,65,Male,Bus,Ranchi,Kolkata,2026-03-12,2026-04-03,892.41,3,Completed,Cash,2677.23,True,2677.23,2026-03,Ranchi to Kolkata
+BK000582,Rohan Yadav,27,Female,Bus,Ranchi,Varanasi,2025-10-31,2026-01-22,2355.58,3,Cancelled,UPI,7066.74,False,0.0,2025-10,Ranchi to Varanasi
+BK000583,Arjun Khan,44,Female,Train,Prayagraj,Kanpur,2025-05-03,2025-06-06,1766.52,4,Completed,UPI,7066.08,True,7066.08,2025-05,Prayagraj to Kanpur
+BK000584,Rohan Singh,50,Male,Train,Ranchi,Varanasi,2026-04-25,2026-05-12,2557.34,3,Confirmed,Card,7672.02,True,7672.02,2026-04,Ranchi to Varanasi
+BK000585,Ananya Verma,57,Male,Train,Patna,Varanasi,2026-02-01,2026-04-19,729.92,5,Completed,Wallet,3649.6,True,3649.6,2026-02,Patna to Varanasi
+BK000586,Diya Patel,60,Female,Train,Delhi,Bhopal,2026-03-31,2026-05-15,860.08,2,Completed,UPI,1720.16,True,1720.16,2026-03,Delhi to Bhopal
+BK000587,Meera Roy,48,Male,Train,Delhi,Varanasi,2026-07-07,2026-07-08,988.34,2,Completed,Net Banking,1976.68,True,1976.68,2026-07,Delhi to Varanasi
+BK000588,Kabir Roy,76,Female,Bus,Jaipur,Prayagraj,2026-07-27,2026-10-08,1249.51,5,Completed,Net Banking,6247.55,True,6247.55,2026-07,Jaipur to Prayagraj
+BK000589,Aarav Das,25,Female,Bus,Kolkata,Varanasi,2025-12-08,2026-01-05,1209.85,1,Completed,Cash,1209.85,True,1209.85,2025-12,Kolkata to Varanasi
+BK000590,Vihaan Khan,25,Male,Bus,Mumbai,Agra,2025-11-07,2025-12-13,2167.15,3,Completed,UPI,6501.450000000001,True,6501.450000000001,2025-11,Mumbai to Agra
+BK000591,Aarav Singh,51,Male,Bus,Jaipur,Lucknow,2026-07-11,2026-10-06,2135.57,2,Completed,Wallet,4271.14,True,4271.14,2026-07,Jaipur to Lucknow
+BK000592,Ishaan Rao,15,Female,Train,Ranchi,Prayagraj,2026-03-28,2026-06-03,1476.63,1,Completed,Card,1476.63,True,1476.63,2026-03,Ranchi to Prayagraj
+BK000593,Sana Yadav,50,Male,Bus,Kanpur,Prayagraj,2026-08-24,2026-10-10,1608.59,1,Confirmed,Card,1608.59,True,1608.59,2026-08,Kanpur to Prayagraj
+BK000594,Rohan Singh,7,Female,Bus,Lucknow,Varanasi,2026-01-23,2026-04-11,1612.5,2,Completed,Net Banking,3225.0,True,3225.0,2026-01,Lucknow to Varanasi
+BK000595,Kabir Mishra,15,Male,Train,Varanasi,Delhi,2025-10-27,2026-01-19,2360.94,2,Completed,UPI,4721.88,True,4721.88,2025-10,Varanasi to Delhi
+BK000596,Meera Das,8,Male,Train,Ranchi,Jaipur,2026-09-19,2026-09-22,663.68,4,Cancelled,Cash,2654.72,False,0.0,2026-09,Ranchi to Jaipur
+BK000597,Ananya Sharma,65,Female,Bus,Agra,Kolkata,2025-03-16,2025-05-31,880.23,3,Confirmed,Wallet,2640.69,True,2640.69,2025-03,Agra to Kolkata
+BK000598,Sana Singh,37,Male,Train,Jaipur,Ranchi,2026-03-13,2026-05-20,2677.85,1,Completed,Net Banking,2677.85,True,2677.85,2026-03,Jaipur to Ranchi
+BK000599,Vihaan Singh,14,Female,Bus,Patna,Kolkata,2025-01-20,2025-02-20,923.9,2,Confirmed,Net Banking,1847.8,True,1847.8,2025-01,Patna to Kolkata
+BK000600,Rohan Patel,28,Male,Train,Varanasi,Jaipur,2026-08-12,2026-10-19,2130.66,4,Completed,Cash,8522.64,True,8522.64,2026-08,Varanasi to Jaipur
+BK000601,Aarav Gupta,6,Other,Bus,Lucknow,Agra,2026-09-11,2026-12-08,558.78,2,Completed,Card,1117.56,True,1117.56,2026-09,Lucknow to Agra
+BK000602,Ishaan Joshi,17,Male,Bus,Agra,Jaipur,2025-07-10,2025-08-28,561.89,4,Completed,Card,2247.56,True,2247.56,2025-07,Agra to Jaipur
+BK000603,Rohan Yadav,72,Female,Train,Patna,Bhopal,2026-06-27,2026-08-19,1375.01,3,Completed,Cash,4125.03,True,4125.03,2026-06,Patna to Bhopal
+BK000604,Ananya Patel,56,Male,Train,Lucknow,Varanasi,2026-09-18,2026-12-15,2401.81,5,Completed,Net Banking,12009.05,True,12009.05,2026-09,Lucknow to Varanasi
+BK000605,Ishaan Khan,80,Female,Bus,Mumbai,Bhopal,2025-10-30,2025-12-27,665.84,4,Completed,Net Banking,2663.36,True,2663.36,2025-10,Mumbai to Bhopal
+BK000606,Vihaan Verma,64,Male,Bus,Kolkata,Ranchi,2025-02-21,2025-03-22,1374.39,3,Completed,Net Banking,4123.17,True,4123.17,2025-02,Kolkata to Ranchi
+BK000607,Zoya Mishra,32,Female,Bus,Lucknow,Prayagraj,2025-08-30,2025-09-01,733.97,1,Completed,Card,733.97,True,733.97,2025-08,Lucknow to Prayagraj
+BK000608,Rohan Mishra,68,Male,Bus,Prayagraj,Kanpur,2026-06-26,2026-09-20,1222.07,1,Completed,Cash,1222.07,True,1222.07,2026-06,Prayagraj to Kanpur
+BK000609,Sana Verma,28,Female,Bus,Jaipur,Delhi,2025-06-11,2025-07-18,1589.86,4,Cancelled,Wallet,6359.44,False,0.0,2025-06,Jaipur to Delhi
+BK000610,Ananya Singh,33,Male,Bus,Kanpur,Varanasi,2025-12-25,2025-12-26,1697.37,1,Completed,Card,1697.37,True,1697.37,2025-12,Kanpur to Varanasi
+BK000611,Sana Yadav,73,Male,Bus,Prayagraj,Ranchi,2025-04-09,2025-04-26,1072.04,3,Completed,Card,3216.12,True,3216.12,2025-04,Prayagraj to Ranchi
+BK000612,Vihaan Singh,34,Female,Train,Prayagraj,Lucknow,2026-02-21,2026-03-27,1579.98,2,Completed,Net Banking,3159.96,True,3159.96,2026-02,Prayagraj to Lucknow
+BK000613,Ishaan Das,55,Female,Bus,Patna,Kolkata,2025-03-24,2025-05-12,1990.54,5,Pending,UPI,9952.7,False,0.0,2025-03,Patna to Kolkata
+BK000614,Kabir Rao,54,Female,Bus,Mumbai,Bhopal,2026-04-08,2026-04-14,1360.96,5,Cancelled,Card,6804.8,False,0.0,2026-04,Mumbai to Bhopal
+BK000615,Ananya Gupta,78,Female,Bus,Prayagraj,Ranchi,2025-12-16,2026-01-13,880.58,5,Completed,Net Banking,4402.900000000001,True,4402.900000000001,2025-12,Prayagraj to Ranchi
+BK000616,Aditi Khan,14,Male,Bus,Ranchi,Patna,2025-01-19,2025-03-29,1417.72,3,Confirmed,Wallet,4253.16,True,4253.16,2025-01,Ranchi to Patna
+BK000617,Kabir Sharma,80,Other,Train,Mumbai,Kolkata,2025-02-21,2025-04-27,979.96,1,Completed,Wallet,979.96,True,979.96,2025-02,Mumbai to Kolkata
+BK000618,Unknown,6,Male,Train,Lucknow,Jaipur,2026-07-03,2026-08-24,2283.16,4,Confirmed,Card,9132.64,True,9132.64,2026-07,Lucknow to Jaipur
+BK000619,Kabir Mishra,35,Male,Bus,Patna,Kolkata,2026-09-17,2026-10-16,1242.99,1,Confirmed,Card,1242.99,True,1242.99,2026-09,Patna to Kolkata
+BK000620,Kavya Yadav,10,Male,Bus,Mumbai,Lucknow,2026-07-01,2026-09-16,706.74,2,Completed,Cash,1413.48,True,1413.48,2026-07,Mumbai to Lucknow
+BK000621,Kavya Sharma,26,Male,Train,Prayagraj,Bhopal,2025-08-16,2025-10-21,3361.16,4,Confirmed,Net Banking,13444.64,True,13444.64,2025-08,Prayagraj to Bhopal
+BK000622,Neha Verma,39,Male,Bus,Bhopal,Kolkata,2025-06-06,2025-07-23,604.79,2,Completed,Card,1209.58,True,1209.58,2025-06,Bhopal to Kolkata
+BK000623,Arjun Das,49,Male,Bus,Patna,Jaipur,2026-06-21,2026-08-29,1247.44,4,Completed,Cash,4989.76,True,4989.76,2026-06,Patna to Jaipur
+BK000624,Kavya Patel,64,Male,Train,Jaipur,Ranchi,2025-04-19,2025-05-16,2761.02,1,Completed,UPI,2761.02,True,2761.02,2025-04,Jaipur to Ranchi
+BK000625,Sana Yadav,80,Male,Train,Patna,Kolkata,2025-11-05,2026-01-21,1506.17,1,Completed,Net Banking,1506.17,True,1506.17,2025-11,Patna to Kolkata
+BK000626,Vihaan Khan,22,Female,Bus,Ranchi,Kanpur,2025-11-22,2025-12-08,1177.06,3,Confirmed,Wallet,3531.18,True,3531.18,2025-11,Ranchi to Kanpur
+BK000627,Sana Roy,6,Female,Train,Kanpur,Mumbai,2025-05-07,2025-07-02,1771.94,5,Completed,Wallet,8859.7,True,8859.7,2025-05,Kanpur to Mumbai
+BK000628,Ishaan Singh,23,Male,Bus,Jaipur,Ranchi,2026-10-11,2026-11-03,1869.6,3,Completed,Card,5608.799999999999,True,5608.799999999999,2026-10,Jaipur to Ranchi
+BK000629,Diya Rao,24,Female,Train,Mumbai,Prayagraj,2025-12-28,2026-03-19,2602.34,1,Completed,UPI,2602.34,True,2602.34,2025-12,Mumbai to Prayagraj
+BK000630,Kavya Joshi,17,Male,Train,Kanpur,Prayagraj,2026-08-08,2026-10-09,1302.37,3,Cancelled,Cash,3907.1099999999997,False,0.0,2026-08,Kanpur to Prayagraj
+BK000631,Kavya Joshi,36,Male,Bus,Patna,Bhopal,2025-04-06,2025-05-19,740.73,1,Completed,Card,740.73,True,740.73,2025-04,Patna to Bhopal
+BK000632,Arjun Khan,17,Female,Bus,Jaipur,Kanpur,2025-11-20,2025-12-20,533.33,4,Confirmed,Card,2133.32,True,2133.32,2025-11,Jaipur to Kanpur
+BK000633,Rohan Verma,54,Female,Bus,Jaipur,Varanasi,2025-07-18,2025-08-24,680.01,3,Completed,UPI,2040.03,True,2040.03,2025-07,Jaipur to Varanasi
+BK000634,Sana Roy,19,Male,Bus,Prayagraj,Bhopal,2025-07-05,2025-08-13,623.04,4,Confirmed,Cash,2492.16,True,2492.16,2025-07,Prayagraj to Bhopal
+BK000635,Kabir Khan,19,Female,Bus,Bhopal,Prayagraj,2025-03-22,2025-05-18,752.8,5,Cancelled,Cash,3764.0,False,0.0,2025-03,Bhopal to Prayagraj
+BK000636,Diya Patel,46,Female,Bus,Kanpur,Lucknow,2025-11-07,2026-01-21,2103.41,2,Completed,Wallet,4206.82,True,4206.82,2025-11,Kanpur to Lucknow
+BK000637,Kavya Verma,39,Female,Bus,Bhopal,Agra,2025-03-13,2025-05-09,2185.14,2,Cancelled,Card,4370.28,False,0.0,2025-03,Bhopal to Agra
+BK000638,Kabir Joshi,49,Female,Bus,Lucknow,Kanpur,2025-08-27,2025-11-08,1673.7,4,Completed,Card,6694.8,True,6694.8,2025-08,Lucknow to Kanpur
+BK000639,Aarav Roy,16,Female,Train,Kanpur,Varanasi,2025-10-19,2025-12-24,3145.96,3,Confirmed,UPI,9437.880000000001,True,9437.880000000001,2025-10,Kanpur to Varanasi
+BK000640,Ishaan Yadav,40,Female,Train,Ranchi,Agra,2026-08-24,2026-08-25,518.7,5,Cancelled,Card,2593.5,False,0.0,2026-08,Ranchi to Agra
+BK000641,Meera Rao,76,Male,Train,Lucknow,Ranchi,2026-07-13,2026-07-21,1725.61,5,Completed,Card,8628.05,True,8628.05,2026-07,Lucknow to Ranchi
+BK000642,Aarav Singh,53,Male,Bus,Prayagraj,Kolkata,2026-08-12,2026-10-24,628.93,4,Pending,Wallet,2515.72,False,0.0,2026-08,Prayagraj to Kolkata
+BK000643,Zoya Das,50,Female,Bus,Patna,Agra,2025-12-29,2026-01-04,1242.64,5,Completed,UPI,6213.200000000001,True,6213.200000000001,2025-12,Patna to Agra
+BK000644,Diya Singh,77,Female,Bus,Patna,Kanpur,2025-06-09,2025-06-27,1719.13,2,Completed,Cash,3438.26,True,3438.26,2025-06,Patna to Kanpur
+BK000645,Sana Verma,5,Other,Bus,Patna,Delhi,2025-04-23,2025-04-26,605.96,2,Pending,UPI,1211.92,False,0.0,2025-04,Patna to Delhi
+BK000646,Aditi Patel,49,Male,Bus,Agra,Ranchi,2025-02-24,2025-03-09,2147.0,5,Completed,Unknown,10735.0,True,10735.0,2025-02,Agra to Ranchi
+BK000647,Aditi Patel,7,Female,Bus,Jaipur,Agra,2025-11-01,2025-12-27,943.09,1,Cancelled,Cash,943.09,False,0.0,2025-11,Jaipur to Agra
+BK000648,Ananya Joshi,18,Female,Train,Jaipur,Delhi,2026-03-04,2026-04-18,1524.17,5,Confirmed,Wallet,7620.85,True,7620.85,2026-03,Jaipur to Delhi
+BK000649,Meera Patel,76,Male,Bus,Ranchi,Mumbai,2025-06-06,2025-07-07,400.81,1,Pending,Net Banking,400.81,False,0.0,2025-06,Ranchi to Mumbai
+BK000650,Sana Joshi,80,Male,Bus,Prayagraj,Mumbai,2025-11-26,2025-12-15,852.69,4,Completed,Wallet,3410.76,True,3410.76,2025-11,Prayagraj to Mumbai
+BK000651,Aarav Rao,34,Male,Train,Bhopal,Kolkata,2025-06-27,2025-07-15,2539.38,4,Confirmed,Net Banking,10157.52,True,10157.52,2025-06,Bhopal to Kolkata
+BK000652,Neha Gupta,16,Male,Bus,Bhopal,Mumbai,2026-04-24,2026-06-28,540.68,4,Cancelled,Card,2162.72,False,0.0,2026-04,Bhopal to Mumbai
+BK000653,Vihaan Gupta,27,Male,Train,Kolkata,Varanasi,2025-03-08,2025-04-25,1500.63,5,Completed,Wallet,7503.150000000001,True,7503.150000000001,2025-03,Kolkata to Varanasi
+BK000654,Ishaan Mishra,80,Female,Bus,Kolkata,Mumbai,2025-09-19,2025-10-03,700.2,2,Completed,Wallet,1400.4,True,1400.4,2025-09,Kolkata to Mumbai
+BK000655,Zoya Khan,18,Male,Bus,Bhopal,Patna,2025-05-20,2025-07-13,1287.67,4,Completed,UPI,5150.68,True,5150.68,2025-05,Bhopal to Patna
+BK000656,Arjun Singh,72,Female,Bus,Ranchi,Lucknow,2025-09-26,2025-10-22,367.42,1,Pending,Net Banking,367.42,False,0.0,2025-09,Ranchi to Lucknow
+BK000657,Rohan Rao,12,Female,Train,Bhopal,Mumbai,2025-03-17,2025-04-05,511.17,5,Completed,Wallet,2555.85,True,2555.85,2025-03,Bhopal to Mumbai
+BK000658,Rohan Joshi,77,Male,Bus,Agra,Ranchi,2026-07-09,2026-10-05,1388.36,2,Completed,UPI,2776.72,True,2776.72,2026-07,Agra to Ranchi
+BK000659,Rohan Yadav,44,Male,Train,Jaipur,Kanpur,2026-08-28,2026-09-04,1601.68,1,Completed,UPI,1601.68,True,1601.68,2026-08,Jaipur to Kanpur
+BK000660,Aarav Mishra,49,Female,Bus,Patna,Ranchi,2025-10-23,2025-11-21,672.98,3,Completed,UPI,2018.94,True,2018.94,2025-10,Patna to Ranchi
+BK000661,Aarav Yadav,79,Other,Train,Patna,Kolkata,2026-07-26,2026-09-24,984.58,1,Completed,Wallet,984.58,True,984.58,2026-07,Patna to Kolkata
+BK000662,Zoya Patel,49,Male,Train,Kolkata,Ranchi,2026-08-19,2026-09-25,2052.2,2,Completed,UPI,4104.4,True,4104.4,2026-08,Kolkata to Ranchi
+BK000663,Arjun Verma,39,Male,Train,Jaipur,Varanasi,2025-04-23,2025-06-27,2208.06,4,Cancelled,Wallet,8832.24,False,0.0,2025-04,Jaipur to Varanasi
+BK000664,Rohan Singh,32,Male,Train,Varanasi,Agra,2026-07-12,2026-09-28,2260.11,4,Completed,Card,9040.44,True,9040.44,2026-07,Varanasi to Agra
+BK000665,Zoya Mishra,39,Male,Train,Mumbai,Kolkata,2026-04-06,2026-04-09,1839.67,2,Completed,Card,3679.34,True,3679.34,2026-04,Mumbai to Kolkata
+BK000666,Ishaan Mishra,59,Female,Train,Varanasi,Jaipur,2025-02-10,2025-03-22,3392.77,5,Pending,Cash,16963.85,False,0.0,2025-02,Varanasi to Jaipur
+BK000667,Vihaan Das,54,Female,Bus,Patna,Agra,2025-01-15,2025-01-25,621.47,5,Completed,Wallet,3107.3500000000004,True,3107.3500000000004,2025-01,Patna to Agra
+BK000668,Aditi Gupta,31,Female,Bus,Kanpur,Ranchi,2025-07-28,2025-10-04,1038.08,2,Cancelled,Card,2076.16,False,0.0,2025-07,Kanpur to Ranchi
+BK000669,Neha Das,52,Male,Bus,Lucknow,Ranchi,2026-08-07,2026-09-21,527.22,2,Completed,Cash,1054.44,True,1054.44,2026-08,Lucknow to Ranchi
+BK000670,Ananya Yadav,25,Other,Bus,Lucknow,Mumbai,2025-10-23,2025-12-10,2231.97,4,Completed,Card,8927.88,True,8927.88,2025-10,Lucknow to Mumbai
+BK000671,Kavya Gupta,36,Female,Train,Agra,Lucknow,2025-07-10,2025-09-18,405.13,3,Completed,Card,1215.3899999999999,True,1215.3899999999999,2025-07,Agra to Lucknow
+BK000672,Neha Rao,71,Female,Bus,Bhopal,Delhi,2025-02-15,2025-04-12,765.58,5,Confirmed,Cash,3827.9,True,3827.9,2025-02,Bhopal to Delhi
+BK000673,Aarav Joshi,10,Male,Bus,Delhi,Jaipur,2026-05-02,2026-05-16,1228.98,1,Completed,Cash,1228.98,True,1228.98,2026-05,Delhi to Jaipur
+BK000674,Rohan Joshi,35,Female,Bus,Mumbai,Ranchi,2025-02-19,2025-04-14,1954.16,1,Completed,UPI,1954.16,True,1954.16,2025-02,Mumbai to Ranchi
+BK000675,Meera Patel,61,Male,Bus,Varanasi,Kolkata,2025-07-29,2025-08-06,462.26,2,Completed,Net Banking,924.52,True,924.52,2025-07,Varanasi to Kolkata
+BK000676,Vihaan Joshi,53,Male,Train,Agra,Prayagraj,2025-09-17,2025-10-22,2536.99,1,Confirmed,UPI,2536.99,True,2536.99,2025-09,Agra to Prayagraj
+BK000677,Rohan Patel,37,Female,Train,Kolkata,Jaipur,2026-06-06,2026-06-29,1507.0,1,Cancelled,Net Banking,1507.0,False,0.0,2026-06,Kolkata to Jaipur
+BK000678,Meera Rao,53,Male,Train,Patna,Kolkata,2025-05-07,2025-07-04,2154.72,4,Completed,Wallet,8618.88,True,8618.88,2025-05,Patna to Kolkata
+BK000679,Kavya Patel,70,Female,Train,Kolkata,Prayagraj,2025-11-08,2026-01-22,1469.06,2,Completed,Wallet,2938.12,True,2938.12,2025-11,Kolkata to Prayagraj
+BK000680,Arjun Khan,77,Male,Train,Bhopal,Lucknow,2025-08-30,2025-11-09,2326.13,1,Completed,Net Banking,2326.13,True,2326.13,2025-08,Bhopal to Lucknow
+BK000681,Neha Das,22,Male,Train,Kanpur,Mumbai,2026-01-08,2026-02-09,3042.3,1,Completed,Net Banking,3042.3,True,3042.3,2026-01,Kanpur to Mumbai
+BK000682,Neha Patel,58,Female,Train,Lucknow,Agra,2025-03-06,2025-03-08,2953.26,3,Completed,Cash,8859.78,True,8859.78,2025-03,Lucknow to Agra
+BK000683,Kavya Gupta,73,Female,Train,Varanasi,Kanpur,2025-08-20,2025-09-04,1290.01,1,Completed,UPI,1290.01,True,1290.01,2025-08,Varanasi to Kanpur
+BK000684,Aarav Verma,9,Female,Train,Patna,Kanpur,2026-04-17,2026-05-07,1656.29,1,Completed,Wallet,1656.29,True,1656.29,2026-04,Patna to Kanpur
+BK000685,Diya Joshi,72,Male,Train,Bhopal,Kanpur,2025-01-29,2025-03-19,1382.54,4,Completed,Cash,5530.16,True,5530.16,2025-01,Bhopal to Kanpur
+BK000686,Ananya Gupta,65,Female,Bus,Lucknow,Patna,2025-11-12,2025-12-12,1220.7,3,Cancelled,Cash,3662.1000000000004,False,0.0,2025-11,Lucknow to Patna
+BK000687,Aditi Verma,52,Male,Bus,Bhopal,Delhi,2025-08-25,2025-11-20,1387.52,4,Completed,UPI,5550.08,True,5550.08,2025-08,Bhopal to Delhi
+BK000688,Vihaan Joshi,42,Male,Train,Lucknow,Agra,2026-05-12,2026-07-27,1257.52,4,Completed,Card,5030.08,True,5030.08,2026-05,Lucknow to Agra
+BK000689,Arjun Verma,48,Female,Bus,Prayagraj,Mumbai,2025-02-27,2025-03-25,1426.4,5,Completed,Cash,7132.0,True,7132.0,2025-02,Prayagraj to Mumbai
+BK000690,Diya Yadav,15,Male,Bus,Kanpur,Agra,2025-06-21,2025-06-28,2017.78,5,Completed,Wallet,10088.9,True,10088.9,2025-06,Kanpur to Agra
+BK000691,Sana Sharma,6,Male,Bus,Prayagraj,Lucknow,2025-04-13,2025-05-01,1276.88,2,Completed,Wallet,2553.76,True,2553.76,2025-04,Prayagraj to Lucknow
+BK000692,Diya Yadav,9,Female,Bus,Agra,Mumbai,2025-05-29,2025-06-16,1738.35,3,Completed,Card,5215.049999999999,True,5215.049999999999,2025-05,Agra to Mumbai
+BK000693,Diya Sharma,67,Female,Train,Mumbai,Ranchi,2025-02-19,2025-04-05,1838.18,4,Completed,UPI,7352.72,True,7352.72,2025-02,Mumbai to Ranchi
+BK000694,Zoya Yadav,65,Female,Bus,Lucknow,Varanasi,2025-11-22,2026-02-08,1375.35,2,Completed,Net Banking,2750.7,True,2750.7,2025-11,Lucknow to Varanasi
+BK000695,Aditi Das,34,Unknown,Bus,Prayagraj,Mumbai,2025-02-16,2025-03-02,1645.41,5,Completed,UPI,8227.050000000001,True,8227.050000000001,2025-02,Prayagraj to Mumbai
+BK000696,Vihaan Joshi,44,Other,Bus,Prayagraj,Lucknow,2026-01-19,2026-04-03,668.93,5,Cancelled,Card,3344.6499999999996,False,0.0,2026-01,Prayagraj to Lucknow
+BK000697,Ananya Khan,13,Male,Bus,Agra,Patna,2025-12-17,2026-03-13,999.37,3,Completed,Card,2998.11,True,2998.11,2025-12,Agra to Patna
+BK000698,Kabir Mishra,41,Male,Train,Lucknow,Ranchi,2025-05-25,2025-05-28,1151.4,1,Cancelled,UPI,1151.4,False,0.0,2025-05,Lucknow to Ranchi
+BK000699,Ishaan Roy,66,Male,Bus,Agra,Lucknow,2025-04-15,2025-06-07,806.42,3,Confirmed,Cash,2419.2599999999998,True,2419.2599999999998,2025-04,Agra to Lucknow
+BK000700,Kavya Khan,71,Female,Train,Agra,Mumbai,2025-07-07,2025-08-02,1681.89,4,Completed,Card,6727.56,True,6727.56,2025-07,Agra to Mumbai
+BK000701,Aarav Joshi,59,Unknown,Train,Delhi,Varanasi,2026-03-13,2026-04-13,807.34,5,Completed,Card,4036.7000000000003,True,4036.7000000000003,2026-03,Delhi to Varanasi
+BK000702,Neha Das,71,Female,Train,Varanasi,Jaipur,2025-10-31,2025-12-31,702.23,2,Cancelled,Wallet,1404.46,False,0.0,2025-10,Varanasi to Jaipur
+BK000703,Rohan Singh,16,Female,Train,Bhopal,Kolkata,2025-09-22,2025-10-29,578.8,3,Completed,Wallet,1736.3999999999999,True,1736.3999999999999,2025-09,Bhopal to Kolkata
+BK000704,Aditi Das,22,Male,Bus,Lucknow,Kolkata,2025-08-30,2025-11-02,2267.93,1,Completed,UPI,2267.93,True,2267.93,2025-08,Lucknow to Kolkata
+BK000705,Rohan Roy,17,Male,Bus,Mumbai,Varanasi,2026-03-11,2026-05-09,658.8,4,Completed,UPI,2635.2,True,2635.2,2026-03,Mumbai to Varanasi
+BK000706,Diya Roy,42,Male,Bus,Delhi,Patna,2025-02-04,2025-04-20,1495.18,1,Completed,Card,1495.18,True,1495.18,2025-02,Delhi to Patna
+BK000707,Kavya Mishra,67,Male,Bus,Agra,Ranchi,2025-03-19,2025-04-29,302.93,4,Completed,UPI,1211.72,True,1211.72,2025-03,Agra to Ranchi
+BK000708,Neha Khan,46,Female,Bus,Bhopal,Mumbai,2026-04-25,2026-06-30,1223.12,2,Confirmed,Wallet,2446.24,True,2446.24,2026-04,Bhopal to Mumbai
+BK000709,Arjun Patel,66,Male,Bus,Jaipur,Kolkata,2025-05-09,2025-06-25,1493.75,1,Completed,Card,1493.75,True,1493.75,2025-05,Jaipur to Kolkata
+BK000710,Ananya Rao,59,Male,Train,Prayagraj,Mumbai,2025-07-08,2025-09-13,1611.74,2,Pending,UPI,3223.48,False,0.0,2025-07,Prayagraj to Mumbai
+BK000711,Diya Singh,54,Male,Train,Kolkata,Agra,2025-07-09,2025-09-23,2139.43,2,Completed,Wallet,4278.86,True,4278.86,2025-07,Kolkata to Agra
+BK000712,Zoya Mishra,62,Male,Train,Varanasi,Delhi,2026-05-25,2026-07-29,948.83,3,Confirmed,Wallet,2846.4900000000002,True,2846.4900000000002,2026-05,Varanasi to Delhi
+BK000713,Zoya Verma,56,Male,Train,Mumbai,Ranchi,2026-02-18,2026-03-25,1298.91,4,Completed,UPI,5195.64,True,5195.64,2026-02,Mumbai to Ranchi
+BK000714,Zoya Rao,58,Female,Bus,Prayagraj,Delhi,2025-01-09,2025-02-14,1381.6,3,Completed,Net Banking,4144.799999999999,True,4144.799999999999,2025-01,Prayagraj to Delhi
+BK000715,Zoya Verma,25,Male,Train,Patna,Prayagraj,2025-01-29,2025-04-04,640.93,5,Completed,Wallet,3204.6499999999996,True,3204.6499999999996,2025-01,Patna to Prayagraj
+BK000716,Aarav Rao,12,Male,Train,Prayagraj,Jaipur,2025-10-29,2025-11-28,1562.78,2,Pending,Wallet,3125.56,False,0.0,2025-10,Prayagraj to Jaipur
+BK000717,Meera Singh,72,Female,Train,Jaipur,Delhi,2026-08-14,2026-10-21,904.32,1,Completed,Net Banking,904.32,True,904.32,2026-08,Jaipur to Delhi
+BK000718,Diya Joshi,13,Female,Bus,Delhi,Lucknow,2025-12-30,2026-03-24,1078.84,4,Completed,Net Banking,4315.36,True,4315.36,2025-12,Delhi to Lucknow
+BK000719,Sana Verma,24,Female,Train,Agra,Mumbai,2025-08-28,2025-11-19,761.93,2,Completed,Wallet,1523.86,True,1523.86,2025-08,Agra to Mumbai
+BK000720,Kavya Rao,44,Male,Train,Delhi,Kolkata,2025-03-21,2025-06-08,438.45,1,Completed,UPI,438.45,True,438.45,2025-03,Delhi to Kolkata
+BK000721,Kavya Rao,11,Female,Train,Lucknow,Jaipur,2026-02-23,2026-04-25,2206.59,1,Completed,Wallet,2206.59,True,2206.59,2026-02,Lucknow to Jaipur
+BK000722,Kabir Das,35,Male,Train,Kanpur,Prayagraj,2026-06-17,2026-07-28,2592.25,3,Completed,UPI,7776.75,True,7776.75,2026-06,Kanpur to Prayagraj
+BK000723,Aditi Sharma,5,Male,Train,Patna,Mumbai,2026-01-12,2026-04-03,720.08,1,Completed,Net Banking,720.08,True,720.08,2026-01,Patna to Mumbai
+BK000724,Kabir Roy,77,Male,Train,Kolkata,Prayagraj,2026-08-13,2026-08-17,2191.61,3,Completed,Card,6574.83,True,6574.83,2026-08,Kolkata to Prayagraj
+BK000725,Ananya Verma,67,Female,Bus,Bhopal,Prayagraj,2026-09-20,2026-12-15,737.12,1,Completed,Net Banking,737.12,True,737.12,2026-09,Bhopal to Prayagraj
+BK000726,Vihaan Mishra,6,Female,Bus,Delhi,Varanasi,2025-11-25,2026-01-07,663.24,2,Pending,Wallet,1326.48,False,0.0,2025-11,Delhi to Varanasi
+BK000727,Kavya Sharma,45,Male,Train,Varanasi,Patna,2026-07-30,2026-10-23,855.73,1,Pending,UPI,855.73,False,0.0,2026-07,Varanasi to Patna
+BK000728,Aarav Singh,66,Male,Bus,Kolkata,Prayagraj,2026-08-25,2026-10-18,609.52,1,Completed,Net Banking,609.52,True,609.52,2026-08,Kolkata to Prayagraj
+BK000729,Kabir Sharma,79,Male,Train,Jaipur,Ranchi,2025-06-30,2025-07-21,1111.33,5,Cancelled,Wallet,5556.65,False,0.0,2025-06,Jaipur to Ranchi
+BK000730,Aditi Das,28,Male,Bus,Mumbai,Jaipur,2026-01-05,2026-02-08,1135.89,3,Completed,Cash,3407.67,True,3407.67,2026-01,Mumbai to Jaipur
+BK000731,Neha Mishra,59,Male,Bus,Varanasi,Prayagraj,2026-01-10,2026-02-05,820.93,3,Confirmed,Net Banking,2462.79,True,2462.79,2026-01,Varanasi to Prayagraj
+BK000732,Rohan Roy,74,Male,Bus,Bhopal,Kolkata,2025-05-23,2025-05-31,551.2,5,Completed,Wallet,2756.0,True,2756.0,2025-05,Bhopal to Kolkata
+BK000733,Zoya Singh,27,Female,Train,Varanasi,Prayagraj,2025-04-10,2025-05-24,1611.08,2,Completed,UPI,3222.16,True,3222.16,2025-04,Varanasi to Prayagraj
+BK000734,Vihaan Yadav,64,Male,Bus,Delhi,Mumbai,2026-05-18,2026-07-07,1503.27,4,Cancelled,Cash,6013.08,False,0.0,2026-05,Delhi to Mumbai
+BK000735,Aditi Joshi,67,Female,Bus,Delhi,Jaipur,2026-07-17,2026-07-19,1419.19,4,Completed,Cash,5676.76,True,5676.76,2026-07,Delhi to Jaipur
+BK000736,Vihaan Yadav,66,Male,Train,Delhi,Lucknow,2025-05-16,2025-07-10,2745.65,5,Pending,UPI,13728.25,False,0.0,2025-05,Delhi to Lucknow
+BK000737,Rohan Gupta,8,Male,Bus,Jaipur,Bhopal,2026-03-07,2026-05-03,1809.79,1,Completed,Wallet,1809.79,True,1809.79,2026-03,Jaipur to Bhopal
+BK000738,Aditi Gupta,65,Male,Train,Lucknow,Prayagraj,2026-03-22,2026-06-04,2257.94,4,Completed,Cash,9031.76,True,9031.76,2026-03,Lucknow to Prayagraj
+BK000739,Aditi Das,70,Male,Bus,Ranchi,Prayagraj,2026-03-10,2026-05-01,1025.45,5,Completed,Cash,5127.25,True,5127.25,2026-03,Ranchi to Prayagraj
+BK000740,Arjun Sharma,34,Female,Train,Jaipur,Lucknow,2026-05-04,2026-05-27,2316.85,3,Cancelled,Wallet,6950.549999999999,False,0.0,2026-05,Jaipur to Lucknow
+BK000741,Zoya Sharma,76,Female,Train,Bhopal,Varanasi,2026-01-05,2026-03-10,2294.83,2,Confirmed,Cash,4589.66,True,4589.66,2026-01,Bhopal to Varanasi
+BK000742,Zoya Mishra,77,Female,Bus,Bhopal,Agra,2026-09-20,2026-10-14,1369.84,3,Completed,Cash,4109.5199999999995,True,4109.5199999999995,2026-09,Bhopal to Agra
+BK000743,Vihaan Gupta,71,Male,Train,Lucknow,Delhi,2025-12-23,2026-02-01,2351.61,3,Completed,UPI,7054.83,True,7054.83,2025-12,Lucknow to Delhi
+BK000744,Kabir Sharma,36,Male,Train,Lucknow,Prayagraj,2026-01-05,2026-03-28,3084.62,5,Completed,Card,15423.099999999999,True,15423.099999999999,2026-01,Lucknow to Prayagraj
+BK000745,Aditi Patel,32,Male,Train,Ranchi,Kolkata,2026-08-30,2026-11-12,1028.92,4,Pending,Cash,4115.68,False,0.0,2026-08,Ranchi to Kolkata
+BK000746,Vihaan Roy,48,Female,Bus,Kolkata,Delhi,2025-10-14,2025-10-27,612.83,3,Cancelled,Card,1838.4900000000002,False,0.0,2025-10,Kolkata to Delhi
+BK000747,Diya Patel,36,Female,Bus,Mumbai,Kanpur,2025-03-13,2025-04-17,904.41,3,Confirmed,Cash,2713.23,True,2713.23,2025-03,Mumbai to Kanpur
+BK000748,Diya Das,52,Female,Train,Prayagraj,Jaipur,2026-07-07,2026-09-07,2827.78,3,Completed,Cash,8483.34,True,8483.34,2026-07,Prayagraj to Jaipur
+BK000749,Aarav Mishra,50,Female,Train,Kanpur,Agra,2025-07-21,2025-09-15,2799.49,4,Completed,Net Banking,11197.96,True,11197.96,2025-07,Kanpur to Agra
+BK000750,Arjun Yadav,43,Female,Bus,Kolkata,Ranchi,2026-04-25,2026-06-18,593.74,5,Completed,UPI,2968.7,True,2968.7,2026-04,Kolkata to Ranchi
+BK000751,Meera Khan,34,Female,Bus,Kolkata,Kanpur,2026-02-13,2026-04-06,1264.54,3,Completed,Card,3793.62,True,3793.62,2026-02,Kolkata to Kanpur
+BK000752,Arjun Singh,41,Female,Bus,Patna,Prayagraj,2026-04-08,2026-04-25,1928.15,1,Completed,Net Banking,1928.15,True,1928.15,2026-04,Patna to Prayagraj
+BK000753,Ishaan Singh,33,Other,Bus,Kolkata,Lucknow,2025-08-25,2025-10-08,535.14,5,Completed,UPI,2675.7,True,2675.7,2025-08,Kolkata to Lucknow
+BK000754,Aarav Mishra,27,Male,Bus,Ranchi,Lucknow,2025-04-14,2025-05-12,457.83,5,Pending,UPI,2289.15,False,0.0,2025-04,Ranchi to Lucknow
+BK000755,Rohan Gupta,73,Female,Bus,Agra,Lucknow,2025-06-10,2025-08-01,847.08,4,Pending,Net Banking,3388.32,False,0.0,2025-06,Agra to Lucknow
+BK000756,Neha Sharma,77,Male,Bus,Delhi,Agra,2025-02-17,2025-04-03,393.24,4,Completed,Card,1572.96,True,1572.96,2025-02,Delhi to Agra
+BK000757,Aditi Gupta,42,Female,Train,Mumbai,Kolkata,2025-07-05,2025-09-20,565.91,3,Completed,Net Banking,1697.73,True,1697.73,2025-07,Mumbai to Kolkata
+BK000758,Rohan Joshi,8,Female,Train,Varanasi,Lucknow,2026-05-25,2026-06-12,1856.68,1,Completed,Net Banking,1856.68,True,1856.68,2026-05,Varanasi to Lucknow
+BK000759,Arjun Yadav,52,Male,Bus,Patna,Ranchi,2025-04-04,2025-04-12,422.39,2,Completed,UPI,844.78,True,844.78,2025-04,Patna to Ranchi
+BK000760,Ananya Verma,54,Male,Train,Varanasi,Bhopal,2026-09-15,2026-12-11,2057.1,3,Completed,Card,6171.299999999999,True,6171.299999999999,2026-09,Varanasi to Bhopal
+BK000761,Ishaan Khan,71,Female,Bus,Ranchi,Varanasi,2025-11-07,2025-11-20,969.94,2,Completed,UPI,1939.88,True,1939.88,2025-11,Ranchi to Varanasi
+BK000762,Ishaan Joshi,41,Female,Bus,Prayagraj,Lucknow,2026-02-03,2026-02-19,919.3,4,Completed,Wallet,3677.2,True,3677.2,2026-02,Prayagraj to Lucknow
+BK000763,Ananya Mishra,73,Other,Bus,Varanasi,Prayagraj,2025-09-21,2025-11-10,1159.46,2,Completed,UPI,2318.92,True,2318.92,2025-09,Varanasi to Prayagraj
+BK000764,Ishaan Patel,38,Male,Bus,Kolkata,Patna,2025-03-01,2025-03-13,789.54,1,Confirmed,Wallet,789.54,True,789.54,2025-03,Kolkata to Patna
+BK000765,Diya Mishra,23,Male,Train,Prayagraj,Ranchi,2026-02-02,2026-03-07,425.83,3,Completed,Card,1277.49,True,1277.49,2026-02,Prayagraj to Ranchi
+BK000766,Kavya Gupta,62,Male,Train,Lucknow,Delhi,2026-02-23,2026-05-22,657.14,2,Confirmed,Net Banking,1314.28,True,1314.28,2026-02,Lucknow to Delhi
+BK000767,Rohan Patel,62,Male,Bus,Ranchi,Bhopal,2026-08-03,2026-08-12,884.46,1,Cancelled,Card,884.46,False,0.0,2026-08,Ranchi to Bhopal
+BK000768,Meera Das,10,Male,Bus,Delhi,Lucknow,2026-07-13,2026-07-29,1017.45,3,Pending,Wallet,3052.3500000000004,False,0.0,2026-07,Delhi to Lucknow
+BK000769,Neha Joshi,64,Female,Train,Agra,Varanasi,2026-06-13,2026-07-02,2362.62,5,Completed,Net Banking,11813.099999999999,True,11813.099999999999,2026-06,Agra to Varanasi
+BK000770,Ishaan Gupta,54,Male,Train,Prayagraj,Mumbai,2025-12-14,2026-02-12,558.03,3,Completed,Cash,1674.09,True,1674.09,2025-12,Prayagraj to Mumbai
+BK000771,Arjun Das,46,Female,Train,Kanpur,Jaipur,2026-10-10,2026-11-18,2783.56,5,Completed,Wallet,13917.8,True,13917.8,2026-10,Kanpur to Jaipur
+BK000772,Aditi Sharma,16,Male,Train,Prayagraj,Kanpur,2026-02-27,2026-04-24,1699.5,3,Completed,UPI,5098.5,True,5098.5,2026-02,Prayagraj to Kanpur
+BK000773,Aditi Khan,39,Female,Bus,Kanpur,Agra,2025-10-27,2025-11-01,1786.99,5,Completed,UPI,8934.95,True,8934.95,2025-10,Kanpur to Agra
+BK000774,Arjun Khan,78,Female,Bus,Kanpur,Mumbai,2025-06-23,2025-08-23,1638.17,3,Completed,Wallet,4914.51,True,4914.51,2025-06,Kanpur to Mumbai
+BK000775,Arjun Yadav,9,Female,Train,Kanpur,Bhopal,2025-11-18,2025-11-24,2194.29,4,Completed,UPI,8777.16,True,8777.16,2025-11,Kanpur to Bhopal
+BK000776,Meera Patel,18,Male,Train,Agra,Jaipur,2026-10-06,2026-10-15,2233.74,1,Completed,Wallet,2233.74,True,2233.74,2026-10,Agra to Jaipur
+BK000777,Ishaan Joshi,15,Female,Train,Varanasi,Kolkata,2026-06-04,2026-08-07,2240.97,4,Pending,Cash,8963.88,False,0.0,2026-06,Varanasi to Kolkata
+BK000778,Ananya Singh,23,Male,Bus,Prayagraj,Kolkata,2025-08-01,2025-10-07,1319.92,2,Completed,UPI,2639.84,True,2639.84,2025-08,Prayagraj to Kolkata
+BK000779,Vihaan Singh,33,Male,Bus,Ranchi,Kanpur,2026-09-30,2026-11-01,2140.64,3,Completed,Wallet,6421.92,True,6421.92,2026-09,Ranchi to Kanpur
+BK000780,Rohan Joshi,16,Female,Bus,Prayagraj,Patna,2025-11-12,2026-02-05,1248.88,2,Completed,Net Banking,2497.76,True,2497.76,2025-11,Prayagraj to Patna
+BK000781,Zoya Sharma,50,Female,Bus,Bhopal,Varanasi,2025-03-09,2025-05-17,929.06,4,Completed,Card,3716.24,True,3716.24,2025-03,Bhopal to Varanasi
+BK000782,Diya Rao,23,Male,Train,Patna,Kolkata,2025-10-21,2025-12-29,1234.59,2,Confirmed,UPI,2469.18,True,2469.18,2025-10,Patna to Kolkata
+BK000783,Arjun Patel,23,Female,Bus,Delhi,Varanasi,2025-11-05,2025-11-16,1742.53,5,Cancelled,Net Banking,8712.65,False,0.0,2025-11,Delhi to Varanasi
+BK000784,Ananya Joshi,16,Female,Train,Ranchi,Jaipur,2026-09-06,2026-10-21,1386.98,3,Pending,Wallet,4160.9400000000005,False,0.0,2026-09,Ranchi to Jaipur
+BK000785,Diya Sharma,49,Male,Bus,Patna,Lucknow,2026-06-02,2026-07-26,495.61,5,Completed,Net Banking,2478.05,True,2478.05,2026-06,Patna to Lucknow
+BK000786,Vihaan Sharma,72,Male,Bus,Kolkata,Mumbai,2025-12-02,2026-02-19,1072.93,3,Cancelled,UPI,3218.79,False,0.0,2025-12,Kolkata to Mumbai
+BK000787,Kabir Yadav,48,Other,Bus,Jaipur,Bhopal,2025-03-28,2025-06-05,637.71,2,Confirmed,UPI,1275.42,True,1275.42,2025-03,Jaipur to Bhopal
+BK000788,Rohan Patel,58,Male,Bus,Bhopal,Varanasi,2026-06-16,2026-09-02,937.0,1,Completed,Cash,937.0,True,937.0,2026-06,Bhopal to Varanasi
+BK000789,Aarav Roy,50,Female,Bus,Delhi,Bhopal,2025-06-21,2025-09-06,1388.64,5,Completed,Cash,6943.200000000001,True,6943.200000000001,2025-06,Delhi to Bhopal
+BK000790,Aditi Joshi,47,Male,Train,Agra,Jaipur,2025-06-05,2025-06-08,705.08,3,Confirmed,Wallet,2115.2400000000002,True,2115.2400000000002,2025-06,Agra to Jaipur
+BK000791,Aditi Khan,23,Female,Bus,Mumbai,Varanasi,2026-03-13,2026-06-10,1524.05,4,Completed,Cash,6096.2,True,6096.2,2026-03,Mumbai to Varanasi
+BK000792,Aditi Verma,60,Male,Bus,Lucknow,Jaipur,2026-01-28,2026-03-15,1754.07,2,Completed,Unknown,3508.14,True,3508.14,2026-01,Lucknow to Jaipur
+BK000793,Meera Das,60,Female,Bus,Delhi,Kolkata,2026-01-23,2026-03-14,738.56,3,Completed,Net Banking,2215.68,True,2215.68,2026-01,Delhi to Kolkata
+BK000794,Diya Joshi,44,Male,Train,Patna,Varanasi,2025-11-16,2025-11-22,1433.01,3,Completed,Net Banking,4299.03,True,4299.03,2025-11,Patna to Varanasi
+BK000795,Diya Patel,31,Female,Bus,Kolkata,Agra,2025-08-26,2025-08-27,875.17,1,Completed,Unknown,875.17,True,875.17,2025-08,Kolkata to Agra
+BK000796,Sana Roy,31,Female,Bus,Bhopal,Delhi,2025-05-03,2025-05-20,478.56,5,Completed,Wallet,2392.8,True,2392.8,2025-05,Bhopal to Delhi
+BK000797,Vihaan Rao,18,Female,Train,Ranchi,Agra,2025-06-09,2025-07-03,730.46,1,Completed,Wallet,730.46,True,730.46,2025-06,Ranchi to Agra
+BK000798,Vihaan Mishra,73,Male,Train,Varanasi,Kanpur,2026-04-10,2026-05-17,3006.33,5,Completed,UPI,15031.65,True,15031.65,2026-04,Varanasi to Kanpur
+BK000799,Zoya Rao,19,Male,Train,Varanasi,Patna,2026-09-10,2026-12-05,1483.71,3,Completed,Card,4451.13,True,4451.13,2026-09,Varanasi to Patna
+BK000800,Ananya Yadav,38,Female,Bus,Varanasi,Lucknow,2026-07-26,2026-08-10,1318.0,5,Completed,Card,6590.0,True,6590.0,2026-07,Varanasi to Lucknow
+BK000801,Arjun Singh,20,Female,Bus,Lucknow,Prayagraj,2026-08-23,2026-08-25,542.78,2,Completed,Cash,1085.56,True,1085.56,2026-08,Lucknow to Prayagraj
+BK000802,Neha Das,73,Male,Train,Bhopal,Mumbai,2026-01-09,2026-03-19,2264.93,2,Confirmed,Net Banking,4529.86,True,4529.86,2026-01,Bhopal to Mumbai
+BK000803,Vihaan Singh,68,Female,Train,Agra,Prayagraj,2026-05-12,2026-05-27,1487.49,2,Confirmed,UPI,2974.98,True,2974.98,2026-05,Agra to Prayagraj
+BK000804,Diya Mishra,46,Female,Bus,Varanasi,Patna,2026-06-14,2026-07-12,1788.47,5,Confirmed,Wallet,8942.35,True,8942.35,2026-06,Varanasi to Patna
+BK000805,Zoya Rao,5,Other,Bus,Lucknow,Prayagraj,2025-09-02,2025-11-06,1050.73,4,Completed,Net Banking,4202.92,True,4202.92,2025-09,Lucknow to Prayagraj
+BK000806,Arjun Rao,28,Male,Bus,Bhopal,Delhi,2025-01-29,2025-03-20,1488.98,1,Completed,Net Banking,1488.98,True,1488.98,2025-01,Bhopal to Delhi
+BK000807,Kabir Gupta,70,Male,Bus,Ranchi,Kanpur,2026-10-07,2026-11-16,452.02,3,Cancelled,Card,1356.06,False,0.0,2026-10,Ranchi to Kanpur
+BK000808,Vihaan Das,9,Female,Bus,Delhi,Lucknow,2025-09-30,2025-10-30,518.77,1,Cancelled,Net Banking,518.77,False,0.0,2025-09,Delhi to Lucknow
+BK000809,Aditi Gupta,37,Male,Train,Ranchi,Patna,2025-09-27,2025-12-02,1194.07,2,Cancelled,Net Banking,2388.14,False,0.0,2025-09,Ranchi to Patna
+BK000810,Arjun Gupta,49,Male,Train,Mumbai,Varanasi,2026-09-14,2026-09-26,2568.35,4,Completed,Wallet,10273.4,True,10273.4,2026-09,Mumbai to Varanasi
+BK000811,Vihaan Das,57,Female,Train,Kolkata,Prayagraj,2025-02-28,2025-05-22,1165.67,2,Completed,Cash,2331.34,True,2331.34,2025-02,Kolkata to Prayagraj
+BK000812,Sana Rao,37,Female,Train,Agra,Prayagraj,2025-04-28,2025-05-23,2247.47,2,Completed,Card,4494.94,True,4494.94,2025-04,Agra to Prayagraj
+BK000813,Aarav Verma,55,Male,Train,Jaipur,Bhopal,2025-09-26,2025-12-08,2740.43,2,Completed,Wallet,5480.86,True,5480.86,2025-09,Jaipur to Bhopal
+BK000814,Ishaan Joshi,78,Female,Bus,Kanpur,Delhi,2025-08-29,2025-10-24,442.08,5,Completed,Cash,2210.4,True,2210.4,2025-08,Kanpur to Delhi
+BK000815,Meera Roy,73,Male,Bus,Kanpur,Agra,2026-01-03,2026-04-02,634.54,2,Confirmed,UPI,1269.08,True,1269.08,2026-01,Kanpur to Agra
+BK000816,Ananya Das,74,Female,Bus,Kanpur,Jaipur,2025-03-23,2025-05-12,1696.19,5,Completed,Net Banking,8480.95,True,8480.95,2025-03,Kanpur to Jaipur
+BK000817,Sana Das,78,Female,Bus,Prayagraj,Patna,2026-02-01,2026-03-27,1058.86,4,Completed,Unknown,4235.44,True,4235.44,2026-02,Prayagraj to Patna
+BK000818,Kabir Khan,63,Male,Bus,Ranchi,Lucknow,2026-03-03,2026-05-13,1853.49,4,Completed,Card,7413.96,True,7413.96,2026-03,Ranchi to Lucknow
+BK000819,Arjun Rao,29,Male,Bus,Kanpur,Patna,2025-03-07,2025-04-28,1089.92,2,Completed,Wallet,2179.84,True,2179.84,2025-03,Kanpur to Patna
+BK000820,Ananya Singh,32,Other,Train,Jaipur,Patna,2025-09-05,2025-09-28,1451.71,3,Completed,Cash,4355.13,True,4355.13,2025-09,Jaipur to Patna
+BK000821,Meera Patel,47,Female,Bus,Patna,Varanasi,2025-04-25,2025-05-01,1339.15,2,Completed,Net Banking,2678.3,True,2678.3,2025-04,Patna to Varanasi
+BK000822,Kavya Khan,46,Female,Bus,Ranchi,Prayagraj,2025-02-14,2025-04-30,968.78,2,Completed,Wallet,1937.56,True,1937.56,2025-02,Ranchi to Prayagraj
+BK000823,Sana Gupta,72,Female,Bus,Varanasi,Bhopal,2025-05-03,2025-05-17,724.71,1,Completed,UPI,724.71,True,724.71,2025-05,Varanasi to Bhopal
+BK000824,Zoya Rao,9,Female,Bus,Patna,Varanasi,2025-06-11,2025-09-05,841.37,4,Completed,Cash,3365.48,True,3365.48,2025-06,Patna to Varanasi
+BK000825,Vihaan Gupta,67,Female,Train,Kolkata,Delhi,2025-09-12,2025-10-14,964.99,2,Cancelled,UPI,1929.98,False,0.0,2025-09,Kolkata to Delhi
+BK000826,Ananya Roy,59,Female,Bus,Bhopal,Agra,2025-09-20,2025-11-21,937.92,2,Completed,Wallet,1875.84,True,1875.84,2025-09,Bhopal to Agra
+BK000827,Aditi Joshi,74,Male,Bus,Agra,Prayagraj,2026-07-25,2026-10-02,1659.42,1,Completed,Cash,1659.42,True,1659.42,2026-07,Agra to Prayagraj
+BK000828,Ananya Khan,11,Female,Bus,Patna,Kanpur,2025-02-13,2025-03-07,1749.44,5,Completed,Wallet,8747.2,True,8747.2,2025-02,Patna to Kanpur
+BK000829,Meera Gupta,23,Female,Bus,Lucknow,Jaipur,2025-12-05,2025-12-29,932.93,3,Completed,Card,2798.79,True,2798.79,2025-12,Lucknow to Jaipur
+BK000830,Diya Roy,7,Other,Train,Mumbai,Kolkata,2025-07-21,2025-10-17,1019.68,3,Completed,Wallet,3059.04,True,3059.04,2025-07,Mumbai to Kolkata
+BK000831,Meera Roy,18,Male,Bus,Agra,Prayagraj,2026-04-16,2026-05-26,791.98,4,Completed,Net Banking,3167.92,True,3167.92,2026-04,Agra to Prayagraj
+BK000832,Zoya Patel,38,Female,Bus,Delhi,Jaipur,2025-09-25,2025-10-16,1816.11,1,Completed,Net Banking,1816.11,True,1816.11,2025-09,Delhi to Jaipur
+BK000833,Zoya Yadav,21,Female,Train,Kolkata,Ranchi,2025-05-21,2025-07-14,2306.12,1,Completed,Cash,2306.12,True,2306.12,2025-05,Kolkata to Ranchi
+BK000834,Arjun Yadav,54,Male,Bus,Ranchi,Agra,2025-05-27,2025-05-31,2059.51,2,Completed,UPI,4119.02,True,4119.02,2025-05,Ranchi to Agra
+BK000835,Zoya Sharma,11,Female,Train,Kolkata,Agra,2025-10-08,2025-11-02,1253.9,5,Completed,UPI,6269.5,True,6269.5,2025-10,Kolkata to Agra
+BK000836,Neha Mishra,77,Other,Train,Ranchi,Mumbai,2025-11-14,2026-02-01,1848.73,4,Completed,UPI,7394.92,True,7394.92,2025-11,Ranchi to Mumbai
+BK000837,Neha Das,54,Male,Bus,Delhi,Lucknow,2026-05-27,2026-05-29,1923.73,1,Completed,Cash,1923.73,True,1923.73,2026-05,Delhi to Lucknow
+BK000838,Zoya Das,59,Female,Bus,Lucknow,Prayagraj,2025-01-26,2025-04-26,692.9,1,Completed,Cash,692.9,True,692.9,2025-01,Lucknow to Prayagraj
+BK000839,Zoya Patel,77,Male,Bus,Ranchi,Lucknow,2025-11-23,2025-12-05,1837.43,1,Completed,Cash,1837.43,True,1837.43,2025-11,Ranchi to Lucknow
+BK000840,Zoya Patel,68,Female,Bus,Ranchi,Delhi,2026-08-18,2026-10-21,836.06,2,Cancelled,Net Banking,1672.12,False,0.0,2026-08,Ranchi to Delhi
+BK000841,Meera Das,55,Female,Bus,Kolkata,Patna,2026-07-17,2026-09-11,1058.27,4,Completed,UPI,4233.08,True,4233.08,2026-07,Kolkata to Patna
+BK000842,Kavya Rao,49,Female,Train,Kanpur,Patna,2026-04-24,2026-05-27,2052.93,5,Completed,Card,10264.65,True,10264.65,2026-04,Kanpur to Patna
+BK000843,Sana Singh,54,Female,Train,Agra,Kolkata,2026-05-12,2026-07-29,1714.91,1,Completed,Wallet,1714.91,True,1714.91,2026-05,Agra to Kolkata
+BK000844,Neha Singh,25,Female,Bus,Lucknow,Mumbai,2025-09-01,2025-10-04,569.27,4,Completed,Wallet,2277.08,True,2277.08,2025-09,Lucknow to Mumbai
+BK000845,Diya Yadav,57,Male,Bus,Bhopal,Agra,2026-09-14,2026-11-22,1525.16,1,Completed,Cash,1525.16,True,1525.16,2026-09,Bhopal to Agra
+BK000846,Kabir Sharma,58,Male,Train,Delhi,Kanpur,2025-02-27,2025-03-22,2796.73,1,Completed,Net Banking,2796.73,True,2796.73,2025-02,Delhi to Kanpur
+BK000847,Neha Joshi,51,Male,Bus,Kanpur,Mumbai,2025-05-18,2025-07-20,1443.03,1,Pending,Card,1443.03,False,0.0,2025-05,Kanpur to Mumbai
+BK000848,Neha Roy,79,Female,Bus,Delhi,Ranchi,2026-07-02,2026-08-18,813.86,1,Cancelled,UPI,813.86,False,0.0,2026-07,Delhi to Ranchi
+BK000849,Aditi Rao,80,Male,Bus,Patna,Kolkata,2026-02-19,2026-03-29,556.95,1,Completed,Net Banking,556.95,True,556.95,2026-02,Patna to Kolkata
+BK000850,Aarav Yadav,42,Male,Bus,Mumbai,Varanasi,2026-03-24,2026-05-07,622.45,3,Completed,Net Banking,1867.3500000000001,True,1867.3500000000001,2026-03,Mumbai to Varanasi
+BK000851,Kavya Verma,15,Male,Bus,Mumbai,Prayagraj,2025-06-19,2025-08-29,1805.67,3,Completed,UPI,5417.01,True,5417.01,2025-06,Mumbai to Prayagraj
+BK000852,Kabir Mishra,41,Female,Train,Ranchi,Prayagraj,2025-08-13,2025-09-06,1912.62,3,Completed,UPI,5737.86,True,5737.86,2025-08,Ranchi to Prayagraj
+BK000853,Zoya Sharma,13,Male,Bus,Agra,Mumbai,2025-07-10,2025-09-29,1644.97,1,Completed,Wallet,1644.97,True,1644.97,2025-07,Agra to Mumbai
+BK000854,Rohan Yadav,24,Female,Train,Bhopal,Varanasi,2025-05-07,2025-08-01,1799.74,3,Completed,Net Banking,5399.22,True,5399.22,2025-05,Bhopal to Varanasi
+BK000855,Ishaan Patel,39,Male,Bus,Prayagraj,Lucknow,2025-02-18,2025-05-01,583.3,5,Completed,Net Banking,2916.5,True,2916.5,2025-02,Prayagraj to Lucknow
+BK000856,Ishaan Joshi,58,Male,Bus,Prayagraj,Patna,2026-07-27,2026-08-25,1446.95,1,Cancelled,Wallet,1446.95,False,0.0,2026-07,Prayagraj to Patna
+BK000857,Arjun Joshi,59,Male,Bus,Kanpur,Patna,2025-02-01,2025-02-09,736.41,1,Completed,Card,736.41,True,736.41,2025-02,Kanpur to Patna
+BK000858,Unknown,73,Female,Bus,Delhi,Bhopal,2026-04-13,2026-06-13,1022.28,3,Completed,Net Banking,3066.84,True,3066.84,2026-04,Delhi to Bhopal
+BK000859,Aarav Mishra,10,Male,Train,Mumbai,Agra,2025-07-04,2025-10-01,1540.81,5,Completed,UPI,7704.049999999999,True,7704.049999999999,2025-07,Mumbai to Agra
+BK000860,Neha Gupta,47,Male,Train,Lucknow,Varanasi,2025-07-01,2025-07-15,2858.12,1,Cancelled,UPI,2858.12,False,0.0,2025-07,Lucknow to Varanasi
+BK000861,Neha Joshi,16,Female,Bus,Bhopal,Jaipur,2026-10-01,2026-12-06,595.33,4,Completed,Net Banking,2381.32,True,2381.32,2026-10,Bhopal to Jaipur
+BK000862,Arjun Rao,71,Male,Train,Bhopal,Agra,2026-07-25,2026-08-10,1738.2,2,Completed,Card,3476.4,True,3476.4,2026-07,Bhopal to Agra
+BK000863,Aditi Verma,8,Female,Bus,Agra,Mumbai,2025-02-18,2025-05-04,781.75,1,Completed,Card,781.75,True,781.75,2025-02,Agra to Mumbai
+BK000864,Rohan Khan,12,Male,Bus,Bhopal,Ranchi,2025-06-27,2025-07-04,1221.32,2,Completed,Wallet,2442.64,True,2442.64,2025-06,Bhopal to Ranchi
+BK000865,Kavya Singh,68,Male,Train,Delhi,Patna,2025-10-27,2025-12-08,1599.24,1,Completed,UPI,1599.24,True,1599.24,2025-10,Delhi to Patna
+BK000866,Vihaan Patel,66,Female,Bus,Ranchi,Jaipur,2026-02-08,2026-04-07,933.54,2,Pending,Net Banking,1867.08,False,0.0,2026-02,Ranchi to Jaipur
+BK000867,Zoya Gupta,55,Male,Bus,Bhopal,Lucknow,2025-10-05,2025-10-15,2069.01,5,Completed,UPI,10345.050000000001,True,10345.050000000001,2025-10,Bhopal to Lucknow
+BK000868,Kavya Mishra,41,Female,Train,Bhopal,Ranchi,2025-12-14,2026-02-08,451.23,1,Completed,Card,451.23,True,451.23,2025-12,Bhopal to Ranchi
+BK000869,Aditi Singh,29,Female,Train,Agra,Kolkata,2025-04-12,2025-05-11,725.84,5,Completed,Net Banking,3629.2000000000003,True,3629.2000000000003,2025-04,Agra to Kolkata
+BK000870,Rohan Verma,51,Male,Train,Lucknow,Patna,2026-06-18,2026-06-19,1884.68,5,Completed,Net Banking,9423.4,True,9423.4,2026-06,Lucknow to Patna
+BK000871,Kavya Gupta,62,Male,Bus,Agra,Delhi,2025-04-15,2025-06-26,1658.12,2,Completed,UPI,3316.24,True,3316.24,2025-04,Agra to Delhi
+BK000872,Neha Yadav,35,Male,Train,Kanpur,Agra,2026-09-17,2026-10-01,759.54,4,Completed,Wallet,3038.16,True,3038.16,2026-09,Kanpur to Agra
+BK000873,Kabir Mishra,68,Female,Bus,Lucknow,Kanpur,2025-01-26,2025-04-21,718.62,5,Completed,UPI,3593.1,True,3593.1,2025-01,Lucknow to Kanpur
+BK000874,Aarav Mishra,66,Female,Bus,Prayagraj,Varanasi,2025-09-16,2025-10-11,1151.25,1,Completed,Cash,1151.25,True,1151.25,2025-09,Prayagraj to Varanasi
+BK000875,Meera Patel,9,Female,Bus,Kolkata,Agra,2025-05-22,2025-06-22,1855.84,2,Completed,Wallet,3711.68,True,3711.68,2025-05,Kolkata to Agra
+BK000876,Sana Singh,57,Female,Train,Varanasi,Prayagraj,2025-10-25,2025-11-16,1718.32,2,Completed,Card,3436.64,True,3436.64,2025-10,Varanasi to Prayagraj
+BK000877,Arjun Rao,32,Female,Train,Lucknow,Patna,2025-10-12,2025-12-07,1530.02,1,Completed,Wallet,1530.02,True,1530.02,2025-10,Lucknow to Patna
+BK000878,Aditi Patel,66,Female,Bus,Delhi,Lucknow,2025-02-25,2025-03-10,1004.55,1,Completed,UPI,1004.55,True,1004.55,2025-02,Delhi to Lucknow
+BK000879,Aarav Mishra,27,Male,Bus,Mumbai,Varanasi,2025-10-12,2025-10-23,1124.98,1,Completed,Card,1124.98,True,1124.98,2025-10,Mumbai to Varanasi
+BK000880,Meera Joshi,16,Female,Bus,Kolkata,Prayagraj,2026-08-16,2026-09-11,792.94,5,Completed,Wallet,3964.7000000000003,True,3964.7000000000003,2026-08,Kolkata to Prayagraj
+BK000881,Ananya Singh,65,Male,Train,Bhopal,Prayagraj,2026-06-18,2026-07-10,1751.17,1,Completed,UPI,1751.17,True,1751.17,2026-06,Bhopal to Prayagraj
+BK000882,Aditi Joshi,9,Male,Train,Jaipur,Mumbai,2026-05-10,2026-07-02,1540.8,2,Completed,Wallet,3081.6,True,3081.6,2026-05,Jaipur to Mumbai
+BK000883,Sana Rao,11,Female,Train,Varanasi,Patna,2026-04-14,2026-05-15,2221.57,2,Completed,Net Banking,4443.14,True,4443.14,2026-04,Varanasi to Patna
+BK000884,Kavya Roy,14,Male,Bus,Varanasi,Kanpur,2025-05-06,2025-06-20,1176.11,5,Completed,Net Banking,5880.549999999999,True,5880.549999999999,2025-05,Varanasi to Kanpur
+BK000885,Diya Mishra,38,Male,Bus,Lucknow,Bhopal,2026-04-24,2026-05-07,827.4,2,Cancelled,Cash,1654.8,False,0.0,2026-04,Lucknow to Bhopal
+BK000886,Neha Joshi,64,Male,Bus,Kanpur,Bhopal,2025-08-31,2025-10-21,1282.14,1,Completed,Card,1282.14,True,1282.14,2025-08,Kanpur to Bhopal
+BK000887,Neha Verma,56,Female,Bus,Delhi,Bhopal,2025-07-27,2025-10-18,683.14,1,Completed,UPI,683.14,True,683.14,2025-07,Delhi to Bhopal
+BK000888,Kavya Sharma,78,Male,Bus,Ranchi,Lucknow,2025-05-24,2025-05-29,981.07,2,Completed,Net Banking,1962.14,True,1962.14,2025-05,Ranchi to Lucknow
+BK000889,Meera Roy,34,Male,Bus,Mumbai,Prayagraj,2025-09-01,2025-09-16,1228.04,2,Completed,Cash,2456.08,True,2456.08,2025-09,Mumbai to Prayagraj
+BK000890,Sana Gupta,13,Female,Train,Kolkata,Patna,2025-07-23,2025-08-11,2102.71,5,Completed,Net Banking,10513.55,True,10513.55,2025-07,Kolkata to Patna
+BK000891,Kabir Roy,55,Male,Train,Lucknow,Ranchi,2025-12-05,2026-01-28,2409.53,5,Completed,Wallet,12047.650000000001,True,12047.650000000001,2025-12,Lucknow to Ranchi
+BK000892,Sana Singh,69,Male,Bus,Lucknow,Agra,2026-05-27,2026-08-18,1031.31,3,Completed,Card,3093.93,True,3093.93,2026-05,Lucknow to Agra
+BK000893,Kabir Singh,22,Male,Train,Jaipur,Mumbai,2025-09-22,2025-10-26,1337.74,4,Completed,Cash,5350.96,True,5350.96,2025-09,Jaipur to Mumbai
+BK000894,Aditi Sharma,39,Female,Train,Varanasi,Patna,2026-03-04,2026-05-15,2060.28,3,Completed,Card,6180.84,True,6180.84,2026-03,Varanasi to Patna
+BK000895,Zoya Patel,17,Male,Bus,Agra,Delhi,2025-12-28,2026-03-27,547.76,4,Completed,UPI,2191.04,True,2191.04,2025-12,Agra to Delhi
+BK000896,Kabir Singh,5,Female,Bus,Ranchi,Varanasi,2025-06-22,2025-09-20,2114.76,4,Confirmed,Wallet,8459.04,True,8459.04,2025-06,Ranchi to Varanasi
+BK000897,Zoya Khan,46,Male,Bus,Prayagraj,Delhi,2026-01-31,2026-03-21,655.18,1,Confirmed,Card,655.18,True,655.18,2026-01,Prayagraj to Delhi
+BK000898,Aarav Joshi,6,Male,Train,Bhopal,Prayagraj,2026-06-22,2026-08-03,857.46,4,Pending,Wallet,3429.84,False,0.0,2026-06,Bhopal to Prayagraj
+BK000899,Kavya Das,32,Female,Train,Prayagraj,Ranchi,2025-05-05,2025-08-02,2207.7,4,Confirmed,Card,8830.8,True,8830.8,2025-05,Prayagraj to Ranchi
+BK000900,Zoya Gupta,24,Male,Bus,Bhopal,Kolkata,2025-10-15,2025-10-19,1520.99,1,Completed,Net Banking,1520.99,True,1520.99,2025-10,Bhopal to Kolkata
+BK000901,Ishaan Mishra,64,Male,Train,Varanasi,Prayagraj,2026-07-20,2026-09-03,2153.36,1,Pending,Card,2153.36,False,0.0,2026-07,Varanasi to Prayagraj
+BK000902,Ishaan Gupta,63,Male,Train,Kolkata,Ranchi,2025-06-06,2025-07-07,1536.81,3,Confirmed,Wallet,4610.43,True,4610.43,2025-06,Kolkata to Ranchi
+BK000903,Diya Das,16,Female,Bus,Prayagraj,Delhi,2026-05-01,2026-07-09,784.06,2,Completed,UPI,1568.12,True,1568.12,2026-05,Prayagraj to Delhi
+BK000904,Arjun Sharma,31,Male,Bus,Ranchi,Patna,2025-01-21,2025-04-16,1284.73,1,Cancelled,Card,1284.73,False,0.0,2025-01,Ranchi to Patna
+BK000905,Zoya Joshi,78,Male,Train,Mumbai,Patna,2025-03-27,2025-04-04,2490.75,4,Completed,Wallet,9963.0,True,9963.0,2025-03,Mumbai to Patna
+BK000906,Diya Singh,72,Male,Bus,Ranchi,Delhi,2025-12-02,2026-01-17,823.51,4,Completed,Card,3294.04,True,3294.04,2025-12,Ranchi to Delhi
+BK000907,Diya Rao,71,Female,Train,Delhi,Varanasi,2025-09-11,2025-12-03,1978.74,4,Completed,Cash,7914.96,True,7914.96,2025-09,Delhi to Varanasi
+BK000908,Diya Sharma,49,Female,Bus,Kolkata,Varanasi,2025-02-16,2025-03-05,772.59,4,Completed,UPI,3090.36,True,3090.36,2025-02,Kolkata to Varanasi
+BK000909,Aditi Singh,33,Male,Bus,Bhopal,Delhi,2026-01-07,2026-01-10,447.72,4,Completed,UPI,1790.88,True,1790.88,2026-01,Bhopal to Delhi
+BK000910,Ishaan Das,35,Female,Train,Kanpur,Ranchi,2026-01-21,2026-02-26,595.71,2,Cancelled,Wallet,1191.42,False,0.0,2026-01,Kanpur to Ranchi
+BK000911,Rohan Khan,18,Female,Bus,Patna,Jaipur,2025-02-17,2025-05-10,1283.69,3,Completed,Card,3851.07,True,3851.07,2025-02,Patna to Jaipur
+BK000912,Kabir Yadav,70,Female,Train,Delhi,Ranchi,2025-11-16,2025-12-16,719.3,3,Completed,Card,2157.8999999999996,True,2157.8999999999996,2025-11,Delhi to Ranchi
+BK000913,Meera Das,14,Female,Train,Prayagraj,Mumbai,2025-12-26,2026-01-19,1722.19,2,Confirmed,Net Banking,3444.38,True,3444.38,2025-12,Prayagraj to Mumbai
+BK000914,Arjun Patel,40,Female,Bus,Ranchi,Kanpur,2025-05-08,2025-05-18,1407.93,3,Completed,Card,4223.79,True,4223.79,2025-05,Ranchi to Kanpur
+BK000915,Arjun Rao,18,Male,Bus,Lucknow,Kanpur,2025-04-30,2025-05-27,907.09,4,Completed,Wallet,3628.36,True,3628.36,2025-04,Lucknow to Kanpur
+BK000916,Kabir Das,14,Female,Train,Jaipur,Lucknow,2025-07-05,2025-09-09,3008.67,5,Confirmed,Net Banking,15043.35,True,15043.35,2025-07,Jaipur to Lucknow
+BK000917,Ishaan Das,67,Female,Train,Lucknow,Patna,2026-08-14,2026-08-25,712.06,1,Completed,Net Banking,712.06,True,712.06,2026-08,Lucknow to Patna
+BK000918,Vihaan Joshi,41,Female,Bus,Agra,Bhopal,2025-01-19,2025-03-12,504.88,2,Completed,Card,1009.76,True,1009.76,2025-01,Agra to Bhopal
+BK000919,Arjun Mishra,23,Male,Bus,Varanasi,Prayagraj,2025-04-17,2025-07-04,488.16,1,Completed,Cash,488.16,True,488.16,2025-04,Varanasi to Prayagraj
+BK000920,Vihaan Rao,18,Female,Bus,Kolkata,Varanasi,2026-03-27,2026-05-28,442.33,4,Completed,Wallet,1769.32,True,1769.32,2026-03,Kolkata to Varanasi
+BK000921,Kavya Patel,17,Male,Train,Jaipur,Bhopal,2026-06-19,2026-09-13,1877.21,1,Completed,Wallet,1877.21,True,1877.21,2026-06,Jaipur to Bhopal
+BK000922,Neha Khan,15,Female,Bus,Agra,Kolkata,2026-03-22,2026-04-29,1319.72,1,Completed,UPI,1319.72,True,1319.72,2026-03,Agra to Kolkata
+BK000923,Zoya Das,65,Female,Bus,Kolkata,Kanpur,2025-08-19,2025-09-28,1175.1,5,Completed,Cash,5875.5,True,5875.5,2025-08,Kolkata to Kanpur
+BK000924,Rohan Verma,78,Male,Train,Varanasi,Ranchi,2025-02-03,2025-04-25,2712.49,4,Completed,Net Banking,10849.96,True,10849.96,2025-02,Varanasi to Ranchi
+BK000925,Kabir Mishra,43,Male,Bus,Jaipur,Lucknow,2026-04-19,2026-05-12,392.18,3,Confirmed,Wallet,1176.54,True,1176.54,2026-04,Jaipur to Lucknow
+BK000926,Aarav Mishra,38,Male,Bus,Ranchi,Delhi,2025-08-16,2025-09-06,1124.54,4,Cancelled,Wallet,4498.16,False,0.0,2025-08,Ranchi to Delhi
+BK000927,Vihaan Sharma,64,Male,Train,Kolkata,Jaipur,2025-02-06,2025-03-18,922.03,2,Completed,Wallet,1844.06,True,1844.06,2025-02,Kolkata to Jaipur
+BK000928,Arjun Khan,11,Other,Train,Jaipur,Patna,2025-07-23,2025-07-27,2013.2,2,Cancelled,Net Banking,4026.4,False,0.0,2025-07,Jaipur to Patna
+BK000929,Arjun Patel,32,Male,Bus,Mumbai,Agra,2026-09-29,2026-11-17,908.28,5,Completed,Card,4541.4,True,4541.4,2026-09,Mumbai to Agra
+BK000930,Sana Khan,37,Male,Train,Varanasi,Patna,2025-06-19,2025-08-26,662.1,2,Confirmed,Wallet,1324.2,True,1324.2,2025-06,Varanasi to Patna
+BK000931,Neha Verma,24,Male,Bus,Delhi,Agra,2025-01-09,2025-04-08,585.83,4,Completed,Card,2343.32,True,2343.32,2025-01,Delhi to Agra
+BK000932,Kabir Das,46,Female,Train,Jaipur,Patna,2026-10-10,2026-11-06,975.84,1,Completed,Wallet,975.84,True,975.84,2026-10,Jaipur to Patna
+BK000933,Vihaan Patel,5,Female,Train,Varanasi,Kolkata,2025-02-21,2025-03-11,2553.85,2,Completed,UPI,5107.7,True,5107.7,2025-02,Varanasi to Kolkata
+BK000934,Aarav Joshi,64,Male,Train,Delhi,Prayagraj,2026-02-02,2026-03-28,916.56,1,Completed,Cash,916.56,True,916.56,2026-02,Delhi to Prayagraj
+BK000935,Arjun Verma,16,Female,Train,Bhopal,Patna,2026-02-18,2026-03-09,2060.03,3,Completed,UPI,6180.09,True,6180.09,2026-02,Bhopal to Patna
+BK000936,Aarav Rao,25,Male,Bus,Delhi,Bhopal,2025-05-12,2025-06-13,1122.39,3,Completed,Cash,3367.17,True,3367.17,2025-05,Delhi to Bhopal
+BK000937,Diya Mishra,10,Male,Bus,Mumbai,Bhopal,2025-06-10,2025-06-18,587.01,3,Confirmed,Net Banking,1761.03,True,1761.03,2025-06,Mumbai to Bhopal
+BK000938,Ananya Gupta,36,Male,Bus,Mumbai,Kanpur,2025-05-23,2025-07-06,1915.47,1,Confirmed,Card,1915.47,True,1915.47,2025-05,Mumbai to Kanpur
+BK000939,Aditi Sharma,58,Male,Bus,Jaipur,Ranchi,2025-05-30,2025-08-12,777.59,5,Cancelled,Card,3887.9500000000003,False,0.0,2025-05,Jaipur to Ranchi
+BK000940,Aarav Gupta,40,Male,Bus,Jaipur,Bhopal,2025-05-15,2025-06-07,1022.6,1,Completed,Net Banking,1022.6,True,1022.6,2025-05,Jaipur to Bhopal
+BK000941,Neha Khan,54,Female,Bus,Varanasi,Kanpur,2026-03-26,2026-05-19,1384.33,1,Pending,Net Banking,1384.33,False,0.0,2026-03,Varanasi to Kanpur
+BK000942,Aditi Roy,60,Male,Train,Kolkata,Prayagraj,2026-08-06,2026-08-29,1592.07,4,Completed,Cash,6368.28,True,6368.28,2026-08,Kolkata to Prayagraj
+BK000943,Rohan Das,70,Female,Bus,Lucknow,Kanpur,2025-08-09,2025-10-26,938.38,2,Completed,Wallet,1876.76,True,1876.76,2025-08,Lucknow to Kanpur
+BK000944,Arjun Sharma,65,Other,Bus,Prayagraj,Delhi,2026-05-11,2026-06-21,611.55,3,Completed,Net Banking,1834.6499999999999,True,1834.6499999999999,2026-05,Prayagraj to Delhi
+BK000945,Vihaan Rao,21,Male,Bus,Patna,Jaipur,2026-02-13,2026-04-05,457.71,4,Completed,UPI,1830.84,True,1830.84,2026-02,Patna to Jaipur
+BK000946,Kabir Mishra,59,Male,Train,Jaipur,Bhopal,2025-05-14,2025-07-26,2989.21,2,Completed,Card,5978.42,True,5978.42,2025-05,Jaipur to Bhopal
+BK000947,Aditi Sharma,30,Female,Bus,Varanasi,Ranchi,2025-07-24,2025-10-15,1847.34,3,Completed,Cash,5542.0199999999995,True,5542.0199999999995,2025-07,Varanasi to Ranchi
+BK000948,Meera Verma,79,Male,Bus,Patna,Varanasi,2026-03-29,2026-05-09,2256.24,2,Cancelled,UPI,4512.48,False,0.0,2026-03,Patna to Varanasi
+BK000949,Kabir Mishra,70,Male,Bus,Agra,Kolkata,2025-06-11,2025-08-02,985.89,2,Pending,UPI,1971.78,False,0.0,2025-06,Agra to Kolkata
+BK000950,Aarav Das,18,Female,Bus,Lucknow,Patna,2025-01-19,2025-02-01,994.75,4,Completed,Net Banking,3979.0,True,3979.0,2025-01,Lucknow to Patna
+BK000951,Neha Patel,6,Male,Train,Mumbai,Bhopal,2026-05-09,2026-07-14,2452.14,5,Completed,Wallet,12260.699999999999,True,12260.699999999999,2026-05,Mumbai to Bhopal
+BK000952,Diya Singh,48,Male,Train,Prayagraj,Agra,2026-07-05,2026-07-13,1088.51,3,Confirmed,Wallet,3265.5299999999997,True,3265.5299999999997,2026-07,Prayagraj to Agra
+BK000953,Aditi Gupta,67,Male,Bus,Varanasi,Delhi,2026-02-22,2026-04-09,853.22,3,Completed,Cash,2559.66,True,2559.66,2026-02,Varanasi to Delhi
+BK000954,Neha Rao,51,Male,Bus,Patna,Delhi,2026-03-30,2026-04-03,1433.71,4,Completed,UPI,5734.84,True,5734.84,2026-03,Patna to Delhi
+BK000955,Ishaan Verma,51,Male,Train,Patna,Delhi,2025-08-06,2025-10-01,1671.94,1,Cancelled,UPI,1671.94,False,0.0,2025-08,Patna to Delhi
+BK000956,Aarav Roy,50,Male,Train,Jaipur,Lucknow,2025-04-26,2025-05-22,1742.01,5,Cancelled,Card,8710.05,False,0.0,2025-04,Jaipur to Lucknow
+BK000957,Kavya Singh,26,Male,Bus,Agra,Mumbai,2025-03-31,2025-05-26,792.61,4,Cancelled,Wallet,3170.44,False,0.0,2025-03,Agra to Mumbai
+BK000958,Neha Gupta,14,Male,Bus,Lucknow,Prayagraj,2025-09-09,2025-10-05,1133.91,1,Pending,Card,1133.91,False,0.0,2025-09,Lucknow to Prayagraj
+BK000959,Meera Singh,52,Female,Bus,Agra,Kolkata,2026-08-03,2026-08-18,1179.81,2,Completed,Cash,2359.62,True,2359.62,2026-08,Agra to Kolkata
+BK000960,Arjun Gupta,77,Female,Train,Prayagraj,Patna,2025-02-19,2025-04-11,1872.18,5,Completed,Wallet,9360.9,True,9360.9,2025-02,Prayagraj to Patna
+BK000961,Meera Roy,26,Female,Train,Delhi,Varanasi,2025-08-01,2025-09-20,1808.28,3,Completed,Card,5424.84,True,5424.84,2025-08,Delhi to Varanasi
+BK000962,Neha Sharma,75,Female,Bus,Prayagraj,Kolkata,2025-06-15,2025-07-24,887.01,4,Completed,Cash,3548.04,True,3548.04,2025-06,Prayagraj to Kolkata
+BK000963,Vihaan Roy,15,Male,Bus,Lucknow,Mumbai,2026-02-20,2026-04-10,607.95,4,Cancelled,Cash,2431.8,False,0.0,2026-02,Lucknow to Mumbai
+BK000964,Aarav Sharma,44,Male,Bus,Kolkata,Kanpur,2025-06-09,2025-09-06,1753.73,2,Completed,Cash,3507.46,True,3507.46,2025-06,Kolkata to Kanpur
+BK000965,Aditi Rao,40,Female,Train,Jaipur,Ranchi,2026-08-20,2026-11-16,2103.08,5,Completed,Card,10515.4,True,10515.4,2026-08,Jaipur to Ranchi
+BK000966,Kabir Das,21,Female,Train,Kanpur,Prayagraj,2026-04-15,2026-07-11,807.78,3,Completed,Cash,2423.34,True,2423.34,2026-04,Kanpur to Prayagraj
+BK000967,Aarav Sharma,70,Female,Bus,Prayagraj,Kanpur,2026-09-19,2026-12-14,555.57,1,Confirmed,Net Banking,555.57,True,555.57,2026-09,Prayagraj to Kanpur
+BK000968,Aditi Gupta,53,Female,Train,Kolkata,Ranchi,2026-03-15,2026-03-17,862.32,4,Completed,Card,3449.28,True,3449.28,2026-03,Kolkata to Ranchi
+BK000969,Sana Patel,55,Female,Train,Mumbai,Kanpur,2026-02-19,2026-03-31,736.7,2,Confirmed,Cash,1473.4,True,1473.4,2026-02,Mumbai to Kanpur
+BK000970,Aarav Joshi,15,Male,Train,Delhi,Patna,2025-04-27,2025-05-04,1263.74,4,Completed,Cash,5054.96,True,5054.96,2025-04,Delhi to Patna
+BK000971,Sana Rao,14,Male,Bus,Lucknow,Delhi,2025-01-08,2025-03-09,886.77,1,Confirmed,Card,886.77,True,886.77,2025-01,Lucknow to Delhi
+BK000972,Meera Verma,16,Male,Bus,Agra,Mumbai,2025-11-15,2026-01-14,950.35,3,Completed,Net Banking,2851.05,True,2851.05,2025-11,Agra to Mumbai
+BK000973,Kavya Joshi,66,Other,Bus,Ranchi,Jaipur,2025-10-31,2025-12-01,1825.96,2,Completed,Net Banking,3651.92,True,3651.92,2025-10,Ranchi to Jaipur
+BK000974,Meera Sharma,53,Other,Bus,Agra,Delhi,2025-05-02,2025-07-05,837.3,2,Completed,Wallet,1674.6,True,1674.6,2025-05,Agra to Delhi
+BK000975,Ananya Roy,28,Male,Bus,Mumbai,Kanpur,2026-10-02,2026-12-29,1268.62,1,Cancelled,Card,1268.62,False,0.0,2026-10,Mumbai to Kanpur
+BK000976,Meera Yadav,69,Female,Bus,Delhi,Varanasi,2026-01-22,2026-02-01,1496.63,4,Completed,Unknown,5986.52,True,5986.52,2026-01,Delhi to Varanasi
+BK000977,Kabir Roy,80,Male,Bus,Bhopal,Patna,2026-08-25,2026-10-29,1295.05,4,Completed,UPI,5180.2,True,5180.2,2026-08,Bhopal to Patna
+BK000978,Kabir Khan,75,Female,Bus,Delhi,Kolkata,2026-01-31,2026-02-13,1038.29,1,Completed,Card,1038.29,True,1038.29,2026-01,Delhi to Kolkata
+BK000979,Zoya Rao,6,Female,Train,Lucknow,Ranchi,2025-03-05,2025-03-13,1932.41,1,Completed,UPI,1932.41,True,1932.41,2025-03,Lucknow to Ranchi
+BK000980,Meera Joshi,16,Female,Bus,Bhopal,Delhi,2025-07-17,2025-09-25,360.9,3,Completed,Net Banking,1082.6999999999998,True,1082.6999999999998,2025-07,Bhopal to Delhi
+BK000981,Diya Verma,33,Female,Bus,Kolkata,Jaipur,2026-01-04,2026-03-14,981.31,2,Completed,Cash,1962.62,True,1962.62,2026-01,Kolkata to Jaipur
+BK000982,Ananya Singh,64,Other,Train,Varanasi,Kanpur,2025-12-01,2025-12-12,2490.61,3,Completed,Cash,7471.83,True,7471.83,2025-12,Varanasi to Kanpur
+BK000983,Rohan Khan,20,Male,Train,Bhopal,Varanasi,2025-01-21,2025-02-10,2415.49,3,Pending,Net Banking,7246.469999999999,False,0.0,2025-01,Bhopal to Varanasi
+BK000984,Zoya Verma,59,Female,Bus,Delhi,Mumbai,2026-04-08,2026-05-13,949.52,2,Pending,Cash,1899.04,False,0.0,2026-04,Delhi to Mumbai
+BK000985,Meera Joshi,61,Female,Train,Kolkata,Kanpur,2025-09-03,2025-10-28,2285.35,1,Cancelled,UPI,2285.35,False,0.0,2025-09,Kolkata to Kanpur
+BK000986,Kabir Roy,74,Male,Bus,Mumbai,Delhi,2026-01-27,2026-04-09,795.32,2,Pending,Net Banking,1590.64,False,0.0,2026-01,Mumbai to Delhi
+BK000987,Aditi Joshi,62,Female,Train,Kanpur,Prayagraj,2026-03-02,2026-04-07,1280.38,1,Completed,Card,1280.38,True,1280.38,2026-03,Kanpur to Prayagraj
+BK000988,Meera Mishra,16,Male,Train,Ranchi,Lucknow,2026-03-11,2026-04-09,1948.86,4,Pending,Wallet,7795.44,False,0.0,2026-03,Ranchi to Lucknow
+BK000989,Aditi Singh,46,Female,Bus,Ranchi,Lucknow,2025-05-25,2025-07-14,362.42,4,Completed,Cash,1449.68,True,1449.68,2025-05,Ranchi to Lucknow
+BK000990,Vihaan Khan,14,Male,Train,Lucknow,Varanasi,2026-08-14,2026-10-05,1266.96,1,Cancelled,Net Banking,1266.96,False,0.0,2026-08,Lucknow to Varanasi
+BK000991,Zoya Gupta,79,Male,Bus,Varanasi,Patna,2025-06-09,2025-07-13,589.88,3,Completed,Net Banking,1769.6399999999999,True,1769.6399999999999,2025-06,Varanasi to Patna
+BK000992,Meera Singh,19,Male,Train,Patna,Ranchi,2026-02-06,2026-03-31,1617.53,4,Completed,UPI,6470.12,True,6470.12,2026-02,Patna to Ranchi
+BK000993,Meera Patel,13,Female,Bus,Jaipur,Lucknow,2025-06-06,2025-07-02,1254.57,3,Completed,Cash,3763.71,True,3763.71,2025-06,Jaipur to Lucknow
+BK000994,Diya Rao,45,Male,Train,Prayagraj,Kanpur,2025-11-25,2026-02-19,3123.97,3,Confirmed,Net Banking,9371.91,True,9371.91,2025-11,Prayagraj to Kanpur
+BK000995,Aarav Mishra,12,Male,Bus,Varanasi,Kanpur,2025-05-07,2025-05-31,400.07,2,Completed,Net Banking,800.14,True,800.14,2025-05,Varanasi to Kanpur
+BK000996,Diya Das,38,Male,Train,Ranchi,Kolkata,2025-11-17,2026-02-10,1461.76,1,Cancelled,Cash,1461.76,False,0.0,2025-11,Ranchi to Kolkata
+BK000997,Aarav Singh,66,Female,Train,Jaipur,Varanasi,2025-10-31,2025-11-28,748.44,5,Confirmed,UPI,3742.2000000000003,True,3742.2000000000003,2025-10,Jaipur to Varanasi
+BK000998,Meera Joshi,39,Male,Bus,Patna,Prayagraj,2025-12-14,2025-12-22,1041.74,2,Completed,Card,2083.48,True,2083.48,2025-12,Patna to Prayagraj
+BK000999,Ishaan Joshi,39,Female,Bus,Lucknow,Kanpur,2025-01-26,2025-03-13,292.91,3,Completed,Card,878.73,True,878.73,2025-01,Lucknow to Kanpur
+BK001000,Neha Rao,52,Female,Train,Lucknow,Kolkata,2025-06-27,2025-08-21,2433.96,5,Cancelled,Card,12169.8,False,0.0,2025-06,Lucknow to Kolkata
+BK001001,Ishaan Patel,17,Female,Bus,Ranchi,Mumbai,2025-12-30,2026-01-24,1190.82,2,Completed,UPI,2381.64,True,2381.64,2025-12,Ranchi to Mumbai
+BK001002,Rohan Yadav,31,Female,Bus,Patna,Bhopal,2025-03-27,2025-06-18,628.18,3,Cancelled,Wallet,1884.54,False,0.0,2025-03,Patna to Bhopal
+BK001003,Zoya Das,48,Male,Bus,Prayagraj,Lucknow,2026-02-04,2026-02-14,908.26,2,Confirmed,Wallet,1816.52,True,1816.52,2026-02,Prayagraj to Lucknow
+BK001004,Rohan Das,65,Female,Train,Patna,Kanpur,2026-05-10,2026-05-11,1244.46,3,Pending,Unknown,3733.38,False,0.0,2026-05,Patna to Kanpur
+BK001005,Ananya Patel,48,Female,Bus,Varanasi,Delhi,2026-09-03,2026-10-12,926.56,4,Completed,Card,3706.24,True,3706.24,2026-09,Varanasi to Delhi
+BK001006,Meera Rao,69,Female,Bus,Agra,Patna,2025-01-20,2025-02-16,1747.68,3,Completed,Cash,5243.04,True,5243.04,2025-01,Agra to Patna
+BK001007,Ananya Patel,45,Male,Train,Varanasi,Delhi,2026-03-07,2026-03-21,1439.04,4,Completed,UPI,5756.16,True,5756.16,2026-03,Varanasi to Delhi
+BK001008,Vihaan Das,54,Male,Train,Lucknow,Bhopal,2025-01-09,2025-02-03,2016.54,4,Pending,Wallet,8066.16,False,0.0,2025-01,Lucknow to Bhopal
+BK001009,Ananya Gupta,8,Male,Bus,Mumbai,Kanpur,2026-02-04,2026-02-19,770.52,2,Completed,Cash,1541.04,True,1541.04,2026-02,Mumbai to Kanpur
+BK001010,Meera Roy,48,Male,Bus,Patna,Kanpur,2026-05-21,2026-08-09,1194.66,4,Completed,Card,4778.64,True,4778.64,2026-05,Patna to Kanpur
+BK001011,Diya Singh,20,Female,Bus,Lucknow,Delhi,2025-01-09,2025-02-15,972.97,2,Completed,Card,1945.94,True,1945.94,2025-01,Lucknow to Delhi
+BK001012,Ishaan Gupta,42,Male,Bus,Delhi,Ranchi,2025-09-13,2025-12-08,1450.56,4,Pending,Wallet,5802.24,False,0.0,2025-09,Delhi to Ranchi
+BK001013,Meera Singh,16,Male,Bus,Patna,Bhopal,2025-08-29,2025-11-11,665.22,4,Completed,Net Banking,2660.88,True,2660.88,2025-08,Patna to Bhopal
+BK001014,Neha Patel,43,Male,Train,Jaipur,Bhopal,2025-02-24,2025-04-12,757.02,5,Pending,Card,3785.1,False,0.0,2025-02,Jaipur to Bhopal
+BK001015,Kabir Roy,27,Male,Train,Lucknow,Agra,2026-03-05,2026-04-10,2776.91,4,Cancelled,Card,11107.64,False,0.0,2026-03,Lucknow to Agra
+BK001016,Aditi Sharma,19,Female,Train,Bhopal,Delhi,2025-07-02,2025-09-15,3141.64,5,Completed,Wallet,15708.199999999999,True,15708.199999999999,2025-07,Bhopal to Delhi
+BK001017,Kavya Sharma,66,Female,Train,Agra,Delhi,2026-07-14,2026-07-26,1054.52,4,Completed,Net Banking,4218.08,True,4218.08,2026-07,Agra to Delhi
+BK001018,Ananya Yadav,28,Male,Bus,Kanpur,Delhi,2026-09-22,2026-10-22,681.7,1,Completed,Wallet,681.7,True,681.7,2026-09,Kanpur to Delhi
+BK001019,Ishaan Das,27,Male,Train,Prayagraj,Lucknow,2026-04-16,2026-06-13,1298.29,3,Completed,Card,3894.87,True,3894.87,2026-04,Prayagraj to Lucknow
+BK001020,Aditi Gupta,34,Female,Train,Patna,Delhi,2026-05-18,2026-05-27,2071.95,4,Cancelled,Card,8287.8,False,0.0,2026-05,Patna to Delhi
+BK001021,Ishaan Singh,35,Male,Bus,Bhopal,Delhi,2026-09-08,2026-09-13,1768.78,1,Completed,Card,1768.78,True,1768.78,2026-09,Bhopal to Delhi
+BK001022,Rohan Khan,14,Male,Bus,Varanasi,Jaipur,2026-04-18,2026-05-27,752.01,1,Confirmed,UPI,752.01,True,752.01,2026-04,Varanasi to Jaipur
+BK001023,Ishaan Verma,7,Male,Bus,Lucknow,Kolkata,2026-07-01,2026-08-24,1176.56,4,Completed,Cash,4706.24,True,4706.24,2026-07,Lucknow to Kolkata
+BK001024,Zoya Verma,47,Male,Train,Agra,Mumbai,2026-06-30,2026-08-31,1476.01,5,Confirmed,Cash,7380.05,True,7380.05,2026-06,Agra to Mumbai
+BK001025,Meera Singh,50,Male,Train,Jaipur,Varanasi,2025-12-07,2025-12-09,1280.66,3,Completed,Cash,3841.9800000000005,True,3841.9800000000005,2025-12,Jaipur to Varanasi
+BK001026,Ishaan Yadav,70,Male,Train,Patna,Jaipur,2025-08-30,2025-10-22,660.38,3,Confirmed,Card,1981.1399999999999,True,1981.1399999999999,2025-08,Patna to Jaipur
+BK001027,Neha Joshi,27,Male,Bus,Lucknow,Ranchi,2025-06-26,2025-08-29,1180.5,2,Confirmed,Wallet,2361.0,True,2361.0,2025-06,Lucknow to Ranchi
+BK001028,Arjun Gupta,70,Female,Bus,Varanasi,Mumbai,2026-07-25,2026-08-18,625.13,4,Completed,Net Banking,2500.52,True,2500.52,2026-07,Varanasi to Mumbai
+BK001029,Aarav Mishra,20,Female,Bus,Kanpur,Lucknow,2025-05-22,2025-07-14,1173.93,3,Confirmed,Cash,3521.79,True,3521.79,2025-05,Kanpur to Lucknow
+BK001030,Aditi Roy,57,Female,Train,Patna,Delhi,2025-02-02,2025-02-14,926.89,5,Completed,Cash,4634.45,True,4634.45,2025-02,Patna to Delhi
+BK001031,Neha Verma,35,Male,Bus,Kolkata,Bhopal,2026-08-12,2026-10-08,1170.62,5,Completed,Card,5853.099999999999,True,5853.099999999999,2026-08,Kolkata to Bhopal
+BK001032,Ananya Sharma,69,Male,Bus,Ranchi,Bhopal,2025-06-09,2025-06-23,1685.65,3,Completed,Net Banking,5056.950000000001,True,5056.950000000001,2025-06,Ranchi to Bhopal
+BK001033,Kabir Das,65,Female,Bus,Kanpur,Varanasi,2025-02-18,2025-05-18,1530.46,4,Completed,Card,6121.84,True,6121.84,2025-02,Kanpur to Varanasi
+BK001034,Kabir Khan,24,Male,Bus,Patna,Ranchi,2025-09-26,2025-11-29,592.13,4,Completed,Wallet,2368.52,True,2368.52,2025-09,Patna to Ranchi
+BK001035,Rohan Sharma,79,Female,Train,Patna,Ranchi,2026-02-16,2026-03-07,1645.02,5,Completed,Net Banking,8225.1,True,8225.1,2026-02,Patna to Ranchi
+BK001036,Arjun Gupta,22,Female,Bus,Delhi,Lucknow,2025-02-10,2025-03-02,1776.54,2,Completed,UPI,3553.08,True,3553.08,2025-02,Delhi to Lucknow
+BK001037,Sana Joshi,24,Male,Bus,Agra,Prayagraj,2026-10-11,2026-10-14,608.7,3,Completed,Net Banking,1826.1000000000001,True,1826.1000000000001,2026-10,Agra to Prayagraj
+BK001038,Zoya Mishra,34,Male,Bus,Mumbai,Patna,2026-04-03,2026-06-04,893.23,2,Completed,Wallet,1786.46,True,1786.46,2026-04,Mumbai to Patna
+BK001039,Aditi Roy,34,Male,Bus,Varanasi,Mumbai,2026-05-28,2026-07-21,1216.74,5,Completed,Wallet,6083.7,True,6083.7,2026-05,Varanasi to Mumbai
+BK001040,Meera Patel,69,Female,Bus,Varanasi,Ranchi,2026-01-16,2026-01-26,1458.1,3,Confirmed,Net Banking,4374.299999999999,True,4374.299999999999,2026-01,Varanasi to Ranchi
+BK001041,Meera Gupta,7,Female,Bus,Ranchi,Jaipur,2025-02-16,2025-05-03,1380.45,5,Completed,Cash,6902.25,True,6902.25,2025-02,Ranchi to Jaipur
+BK001042,Sana Das,63,Male,Bus,Kolkata,Prayagraj,2025-06-27,2025-09-08,388.35,1,Confirmed,Net Banking,388.35,True,388.35,2025-06,Kolkata to Prayagraj
+BK001043,Sana Mishra,55,Female,Bus,Ranchi,Prayagraj,2025-05-27,2025-06-01,660.2,3,Completed,Net Banking,1980.6000000000001,True,1980.6000000000001,2025-05,Ranchi to Prayagraj
+BK001044,Kavya Rao,50,Male,Train,Jaipur,Prayagraj,2025-02-10,2025-03-15,1765.48,4,Completed,Cash,7061.92,True,7061.92,2025-02,Jaipur to Prayagraj
+BK001045,Ishaan Joshi,68,Male,Train,Mumbai,Delhi,2026-04-03,2026-06-23,1232.11,2,Completed,Net Banking,2464.22,True,2464.22,2026-04,Mumbai to Delhi
+BK001046,Aditi Yadav,9,Male,Bus,Kolkata,Ranchi,2025-12-18,2026-02-04,853.37,1,Confirmed,Card,853.37,True,853.37,2025-12,Kolkata to Ranchi
+BK001047,Ananya Yadav,80,Female,Train,Kanpur,Varanasi,2026-07-02,2026-09-07,578.31,2,Completed,Card,1156.62,True,1156.62,2026-07,Kanpur to Varanasi
+BK001048,Kabir Verma,73,Female,Bus,Varanasi,Mumbai,2025-10-11,2025-10-13,1879.43,5,Cancelled,Cash,9397.15,False,0.0,2025-10,Varanasi to Mumbai
+BK001049,Ishaan Khan,73,Female,Bus,Jaipur,Delhi,2025-04-16,2025-06-24,861.08,5,Pending,Wallet,4305.400000000001,False,0.0,2025-04,Jaipur to Delhi
+BK001050,Vihaan Roy,21,Male,Bus,Lucknow,Kolkata,2026-08-27,2026-11-08,1172.68,2,Completed,Wallet,2345.36,True,2345.36,2026-08,Lucknow to Kolkata
+BK001051,Ananya Joshi,69,Female,Bus,Lucknow,Kanpur,2025-04-12,2025-06-05,839.12,3,Completed,Cash,2517.36,True,2517.36,2025-04,Lucknow to Kanpur
+BK001052,Aditi Joshi,48,Female,Bus,Lucknow,Jaipur,2025-11-26,2026-01-03,682.76,1,Confirmed,Cash,682.76,True,682.76,2025-11,Lucknow to Jaipur
+BK001053,Aarav Mishra,70,Male,Bus,Jaipur,Agra,2025-01-13,2025-03-23,1104.66,3,Completed,UPI,3313.9800000000005,True,3313.9800000000005,2025-01,Jaipur to Agra
+BK001054,Ishaan Gupta,21,Male,Train,Varanasi,Jaipur,2025-11-10,2026-01-22,2875.53,4,Completed,Cash,11502.12,True,11502.12,2025-11,Varanasi to Jaipur
+BK001055,Aarav Gupta,40,Male,Train,Bhopal,Kanpur,2025-07-19,2025-09-01,1022.6,3,Cancelled,Wallet,3067.8,False,0.0,2025-07,Bhopal to Kanpur
+BK001056,Aarav Gupta,27,Female,Bus,Patna,Lucknow,2026-05-12,2026-06-17,712.8,3,Cancelled,Cash,2138.3999999999996,False,0.0,2026-05,Patna to Lucknow
+BK001057,Zoya Sharma,45,Female,Bus,Lucknow,Patna,2025-06-04,2025-07-24,1351.88,4,Cancelled,Card,5407.52,False,0.0,2025-06,Lucknow to Patna
+BK001058,Vihaan Joshi,13,Male,Bus,Mumbai,Jaipur,2026-04-05,2026-05-07,1151.09,3,Completed,Cash,3453.2699999999995,True,3453.2699999999995,2026-04,Mumbai to Jaipur
+BK001059,Aditi Gupta,34,Female,Bus,Kanpur,Delhi,2026-04-20,2026-05-24,1066.63,4,Completed,Wallet,4266.52,True,4266.52,2026-04,Kanpur to Delhi
+BK001060,Kabir Roy,68,Male,Bus,Prayagraj,Kanpur,2025-02-05,2025-02-19,663.25,2,Completed,Wallet,1326.5,True,1326.5,2025-02,Prayagraj to Kanpur
+BK001061,Kavya Das,41,Female,Bus,Varanasi,Lucknow,2026-07-15,2026-09-03,1534.62,5,Completed,Cash,7673.099999999999,True,7673.099999999999,2026-07,Varanasi to Lucknow
+BK001062,Kabir Roy,63,Female,Train,Kolkata,Varanasi,2026-08-10,2026-09-25,706.72,2,Confirmed,Net Banking,1413.44,True,1413.44,2026-08,Kolkata to Varanasi
+BK001063,Zoya Das,18,Female,Train,Bhopal,Kanpur,2025-10-30,2025-12-17,1077.6,2,Completed,UPI,2155.2,True,2155.2,2025-10,Bhopal to Kanpur
+BK001064,Meera Gupta,5,Male,Train,Bhopal,Kolkata,2025-02-27,2025-05-02,897.89,5,Cancelled,Wallet,4489.45,False,0.0,2025-02,Bhopal to Kolkata
+BK001065,Arjun Khan,53,Female,Bus,Patna,Kolkata,2025-03-21,2025-04-24,993.81,3,Cancelled,Net Banking,2981.43,False,0.0,2025-03,Patna to Kolkata
+BK001066,Ananya Patel,22,Female,Bus,Patna,Agra,2025-07-03,2025-07-22,979.18,5,Completed,UPI,4895.9,True,4895.9,2025-07,Patna to Agra
+BK001067,Ishaan Das,29,Female,Bus,Varanasi,Kolkata,2026-08-07,2026-08-13,770.55,2,Cancelled,Wallet,1541.1,False,0.0,2026-08,Varanasi to Kolkata
+BK001068,Sana Verma,70,Female,Train,Jaipur,Ranchi,2025-03-22,2025-05-17,2853.97,1,Cancelled,Net Banking,2853.97,False,0.0,2025-03,Jaipur to Ranchi
+BK001069,Sana Sharma,64,Female,Bus,Prayagraj,Jaipur,2026-08-10,2026-09-13,1036.16,1,Confirmed,Card,1036.16,True,1036.16,2026-08,Prayagraj to Jaipur
+BK001070,Rohan Mishra,15,Female,Train,Bhopal,Kanpur,2025-08-07,2025-09-09,1168.94,2,Completed,UPI,2337.88,True,2337.88,2025-08,Bhopal to Kanpur
+BK001071,Ananya Sharma,75,Male,Train,Ranchi,Prayagraj,2025-01-07,2025-04-04,2051.81,1,Completed,Cash,2051.81,True,2051.81,2025-01,Ranchi to Prayagraj
+BK001072,Ishaan Verma,19,Male,Train,Jaipur,Delhi,2026-04-29,2026-07-03,668.07,2,Pending,Card,1336.14,False,0.0,2026-04,Jaipur to Delhi
+BK001073,Kavya Joshi,49,Male,Bus,Prayagraj,Bhopal,2026-07-18,2026-09-05,698.03,5,Confirmed,Cash,3490.1499999999996,True,3490.1499999999996,2026-07,Prayagraj to Bhopal
+BK001074,Vihaan Roy,74,Other,Bus,Prayagraj,Agra,2026-01-14,2026-03-20,866.63,4,Completed,UPI,3466.52,True,3466.52,2026-01,Prayagraj to Agra
+BK001075,Vihaan Sharma,55,Female,Bus,Ranchi,Prayagraj,2025-10-21,2025-12-11,1822.42,5,Completed,UPI,9112.1,True,9112.1,2025-10,Ranchi to Prayagraj
+BK001076,Diya Sharma,7,Female,Bus,Ranchi,Prayagraj,2025-01-13,2025-01-19,1446.84,3,Completed,Cash,4340.5199999999995,True,4340.5199999999995,2025-01,Ranchi to Prayagraj
+BK001077,Arjun Roy,12,Male,Train,Kolkata,Patna,2026-04-06,2026-05-06,2301.57,3,Completed,Card,6904.710000000001,True,6904.710000000001,2026-04,Kolkata to Patna
+BK001078,Ishaan Das,66,Female,Bus,Kanpur,Jaipur,2026-02-15,2026-04-28,725.25,2,Completed,Net Banking,1450.5,True,1450.5,2026-02,Kanpur to Jaipur
+BK001079,Rohan Gupta,67,Female,Bus,Kolkata,Bhopal,2025-02-10,2025-03-21,837.23,4,Confirmed,Wallet,3348.92,True,3348.92,2025-02,Kolkata to Bhopal
+BK001080,Vihaan Sharma,70,Female,Train,Bhopal,Agra,2026-09-27,2026-11-01,1148.62,5,Completed,UPI,5743.099999999999,True,5743.099999999999,2026-09,Bhopal to Agra
+BK001081,Diya Singh,21,Male,Train,Prayagraj,Kolkata,2026-04-02,2026-04-23,2527.23,1,Completed,Cash,2527.23,True,2527.23,2026-04,Prayagraj to Kolkata
+BK001082,Vihaan Mishra,30,Other,Train,Lucknow,Kanpur,2026-02-05,2026-02-11,3212.43,4,Completed,Net Banking,12849.72,True,12849.72,2026-02,Lucknow to Kanpur
+BK001083,Arjun Roy,7,Male,Train,Varanasi,Kolkata,2025-07-01,2025-07-15,3347.18,2,Pending,Net Banking,6694.36,False,0.0,2025-07,Varanasi to Kolkata
+BK001084,Aditi Roy,58,Male,Bus,Varanasi,Mumbai,2025-10-04,2025-11-08,659.56,5,Cancelled,Wallet,3297.7999999999997,False,0.0,2025-10,Varanasi to Mumbai
+BK001085,Aarav Patel,59,Male,Train,Lucknow,Prayagraj,2025-10-25,2026-01-15,2714.04,3,Completed,Net Banking,8142.12,True,8142.12,2025-10,Lucknow to Prayagraj
+BK001086,Sana Yadav,55,Female,Bus,Kolkata,Ranchi,2025-09-06,2025-10-02,1142.0,4,Completed,Net Banking,4568.0,True,4568.0,2025-09,Kolkata to Ranchi
+BK001087,Aditi Roy,43,Female,Bus,Patna,Ranchi,2026-09-05,2026-10-04,906.39,5,Cancelled,UPI,4531.95,False,0.0,2026-09,Patna to Ranchi
+BK001088,Vihaan Verma,53,Male,Train,Prayagraj,Agra,2025-05-10,2025-07-02,1712.65,1,Completed,Card,1712.65,True,1712.65,2025-05,Prayagraj to Agra
+BK001089,Zoya Yadav,27,Male,Bus,Jaipur,Patna,2025-09-27,2025-11-24,818.28,5,Completed,Cash,4091.3999999999996,True,4091.3999999999996,2025-09,Jaipur to Patna
+BK001090,Ananya Sharma,44,Female,Train,Lucknow,Varanasi,2025-01-23,2025-02-26,648.28,2,Pending,Card,1296.56,False,0.0,2025-01,Lucknow to Varanasi
+BK001091,Rohan Patel,51,Male,Bus,Mumbai,Agra,2025-08-18,2025-09-27,939.32,3,Cancelled,Cash,2817.96,False,0.0,2025-08,Mumbai to Agra
+BK001092,Diya Sharma,9,Female,Bus,Kolkata,Ranchi,2025-04-21,2025-07-16,675.41,5,Completed,Wallet,3377.0499999999997,True,3377.0499999999997,2025-04,Kolkata to Ranchi
+BK001093,Diya Rao,75,Male,Train,Varanasi,Delhi,2026-03-23,2026-03-26,1010.1,4,Completed,Card,4040.4,True,4040.4,2026-03,Varanasi to Delhi
+BK001094,Ananya Joshi,78,Female,Train,Lucknow,Mumbai,2025-12-23,2026-02-10,2038.84,1,Completed,Wallet,2038.84,True,2038.84,2025-12,Lucknow to Mumbai
+BK001095,Arjun Singh,40,Female,Train,Ranchi,Prayagraj,2025-06-11,2025-09-03,1558.74,3,Confirmed,Card,4676.22,True,4676.22,2025-06,Ranchi to Prayagraj
+BK001096,Meera Mishra,15,Other,Bus,Ranchi,Agra,2025-09-15,2025-10-10,375.79,3,Completed,Wallet,1127.3700000000001,True,1127.3700000000001,2025-09,Ranchi to Agra
+BK001097,Ishaan Sharma,26,Female,Bus,Ranchi,Kolkata,2026-02-05,2026-03-04,975.74,1,Confirmed,Cash,975.74,True,975.74,2026-02,Ranchi to Kolkata
+BK001098,Vihaan Gupta,49,Female,Bus,Prayagraj,Ranchi,2025-01-16,2025-03-30,643.83,3,Completed,Net Banking,1931.4900000000002,True,1931.4900000000002,2025-01,Prayagraj to Ranchi
+BK001099,Sana Roy,37,Female,Bus,Prayagraj,Agra,2026-05-21,2026-06-03,675.91,5,Completed,Net Banking,3379.5499999999997,True,3379.5499999999997,2026-05,Prayagraj to Agra
+BK001100,Sana Yadav,58,Female,Bus,Kanpur,Agra,2025-09-07,2025-10-25,1293.42,2,Completed,Wallet,2586.84,True,2586.84,2025-09,Kanpur to Agra
+BK001101,Ananya Khan,46,Male,Bus,Mumbai,Bhopal,2026-01-10,2026-03-24,690.77,3,Completed,Wallet,2072.31,True,2072.31,2026-01,Mumbai to Bhopal
+BK001102,Arjun Rao,57,Male,Bus,Delhi,Bhopal,2025-04-13,2025-06-20,1608.74,5,Cancelled,Net Banking,8043.7,False,0.0,2025-04,Delhi to Bhopal
+BK001103,Ishaan Rao,21,Male,Bus,Kolkata,Patna,2025-11-25,2026-01-17,1301.08,3,Cancelled,Net Banking,3903.24,False,0.0,2025-11,Kolkata to Patna
+BK001104,Arjun Khan,13,Male,Bus,Jaipur,Delhi,2025-12-14,2025-12-27,650.29,1,Completed,Wallet,650.29,True,650.29,2025-12,Jaipur to Delhi
+BK001105,Zoya Yadav,13,Male,Bus,Mumbai,Ranchi,2025-10-18,2025-11-01,1184.35,5,Completed,UPI,5921.75,True,5921.75,2025-10,Mumbai to Ranchi
+BK001106,Vihaan Yadav,64,Male,Bus,Delhi,Bhopal,2026-03-23,2026-06-06,824.98,5,Cancelled,Wallet,4124.9,False,0.0,2026-03,Delhi to Bhopal
+BK001107,Sana Yadav,33,Male,Train,Agra,Varanasi,2026-08-02,2026-09-12,1894.67,3,Confirmed,UPI,5684.01,True,5684.01,2026-08,Agra to Varanasi
+BK001108,Sana Singh,19,Female,Bus,Kolkata,Ranchi,2026-06-09,2026-06-14,1401.87,5,Completed,Cash,7009.349999999999,True,7009.349999999999,2026-06,Kolkata to Ranchi
+BK001109,Aditi Sharma,64,Male,Train,Bhopal,Kanpur,2026-07-14,2026-09-12,3286.43,2,Completed,UPI,6572.86,True,6572.86,2026-07,Bhopal to Kanpur
+BK001110,Ishaan Verma,30,Male,Train,Ranchi,Kolkata,2025-10-09,2025-12-26,2740.55,1,Confirmed,UPI,2740.55,True,2740.55,2025-10,Ranchi to Kolkata
+BK001111,Rohan Singh,71,Male,Bus,Lucknow,Jaipur,2025-04-25,2025-07-03,1040.45,1,Completed,Cash,1040.45,True,1040.45,2025-04,Lucknow to Jaipur
+BK001112,Arjun Khan,12,Female,Bus,Kanpur,Agra,2025-01-11,2025-02-04,1048.09,2,Cancelled,Net Banking,2096.18,False,0.0,2025-01,Kanpur to Agra
+BK001113,Meera Sharma,16,Female,Train,Varanasi,Kanpur,2026-04-22,2026-06-15,1824.28,1,Completed,Net Banking,1824.28,True,1824.28,2026-04,Varanasi to Kanpur
+BK001114,Kabir Das,11,Male,Train,Agra,Jaipur,2025-02-12,2025-05-01,1141.26,3,Completed,Card,3423.7799999999997,True,3423.7799999999997,2025-02,Agra to Jaipur
+BK001115,Vihaan Khan,53,Male,Train,Prayagraj,Agra,2026-06-27,2026-07-06,1754.39,5,Completed,UPI,8771.95,True,8771.95,2026-06,Prayagraj to Agra
+BK001116,Zoya Yadav,43,Female,Bus,Bhopal,Ranchi,2025-12-18,2026-01-21,991.7,2,Completed,UPI,1983.4,True,1983.4,2025-12,Bhopal to Ranchi
+BK001117,Ishaan Yadav,38,Male,Bus,Kolkata,Lucknow,2025-12-27,2026-03-19,633.39,4,Completed,UPI,2533.56,True,2533.56,2025-12,Kolkata to Lucknow
+BK001118,Zoya Sharma,7,Female,Bus,Varanasi,Mumbai,2025-04-23,2025-05-30,2022.31,3,Completed,Cash,6066.93,True,6066.93,2025-04,Varanasi to Mumbai
+BK001119,Arjun Yadav,49,Other,Bus,Ranchi,Delhi,2025-01-04,2025-03-10,1207.6,5,Confirmed,Net Banking,6038.0,True,6038.0,2025-01,Ranchi to Delhi
+BK001120,Zoya Patel,13,Female,Bus,Kolkata,Patna,2025-03-22,2025-05-15,729.51,4,Completed,Cash,2918.04,True,2918.04,2025-03,Kolkata to Patna
+BK001121,Ishaan Yadav,18,Female,Bus,Delhi,Jaipur,2025-11-14,2025-12-24,1251.75,5,Completed,Unknown,6258.75,True,6258.75,2025-11,Delhi to Jaipur
+BK001122,Rohan Rao,43,Female,Train,Prayagraj,Kolkata,2025-06-13,2025-08-02,735.45,4,Completed,Cash,2941.8,True,2941.8,2025-06,Prayagraj to Kolkata
+BK001123,Arjun Mishra,11,Female,Bus,Bhopal,Jaipur,2026-02-11,2026-04-06,1270.34,2,Completed,Wallet,2540.68,True,2540.68,2026-02,Bhopal to Jaipur
+BK001124,Diya Joshi,66,Male,Bus,Prayagraj,Varanasi,2025-12-14,2025-12-23,1743.04,4,Completed,Wallet,6972.16,True,6972.16,2025-12,Prayagraj to Varanasi
+BK001125,Zoya Verma,25,Male,Bus,Jaipur,Kanpur,2025-06-05,2025-08-11,874.18,3,Cancelled,Card,2622.54,False,0.0,2025-06,Jaipur to Kanpur
+BK001126,Sana Yadav,48,Female,Train,Kanpur,Prayagraj,2025-02-05,2025-05-02,2210.94,1,Pending,Cash,2210.94,False,0.0,2025-02,Kanpur to Prayagraj
+BK001127,Meera Khan,43,Male,Bus,Mumbai,Agra,2025-03-24,2025-05-23,1029.04,4,Completed,Net Banking,4116.16,True,4116.16,2025-03,Mumbai to Agra
+BK001128,Kavya Mishra,66,Male,Train,Ranchi,Lucknow,2026-04-25,2026-07-10,2600.63,3,Cancelled,Card,7801.89,False,0.0,2026-04,Ranchi to Lucknow
+BK001129,Meera Mishra,50,Female,Train,Varanasi,Mumbai,2025-12-05,2025-12-28,750.04,5,Confirmed,UPI,3750.2,True,3750.2,2025-12,Varanasi to Mumbai
+BK001130,Meera Khan,42,Female,Train,Varanasi,Lucknow,2025-10-27,2025-10-31,2925.82,3,Confirmed,UPI,8777.460000000001,True,8777.460000000001,2025-10,Varanasi to Lucknow
+BK001131,Kavya Patel,63,Female,Bus,Prayagraj,Kanpur,2025-06-07,2025-06-30,685.72,4,Completed,Card,2742.88,True,2742.88,2025-06,Prayagraj to Kanpur
+BK001132,Ananya Yadav,38,Female,Train,Patna,Kolkata,2025-02-22,2025-04-13,1413.99,5,Completed,Card,7069.95,True,7069.95,2025-02,Patna to Kolkata
+BK001133,Zoya Sharma,67,Female,Train,Jaipur,Agra,2025-10-27,2025-11-19,1535.72,5,Completed,Net Banking,7678.6,True,7678.6,2025-10,Jaipur to Agra
+BK001134,Aditi Das,7,Male,Bus,Lucknow,Varanasi,2025-07-16,2025-07-20,2088.83,3,Cancelled,Wallet,6266.49,False,0.0,2025-07,Lucknow to Varanasi
+BK001135,Vihaan Khan,33,Female,Train,Prayagraj,Bhopal,2025-08-23,2025-09-23,1018.66,2,Completed,Wallet,2037.32,True,2037.32,2025-08,Prayagraj to Bhopal
+BK001136,Ishaan Sharma,16,Male,Train,Bhopal,Lucknow,2026-09-05,2026-09-14,1532.34,1,Completed,Wallet,1532.34,True,1532.34,2026-09,Bhopal to Lucknow
+BK001137,Vihaan Rao,52,Other,Bus,Kolkata,Kanpur,2026-07-25,2026-09-17,717.22,3,Cancelled,Wallet,2151.66,False,0.0,2026-07,Kolkata to Kanpur
+BK001138,Aarav Gupta,59,Male,Train,Jaipur,Varanasi,2026-06-08,2026-07-21,2820.61,4,Completed,Card,11282.44,True,11282.44,2026-06,Jaipur to Varanasi
+BK001139,Zoya Rao,50,Female,Bus,Agra,Delhi,2025-10-07,2025-12-22,1255.18,3,Cancelled,UPI,3765.54,False,0.0,2025-10,Agra to Delhi
+BK001140,Aditi Yadav,14,Male,Bus,Lucknow,Patna,2025-09-24,2025-10-21,1679.52,2,Cancelled,Card,3359.04,False,0.0,2025-09,Lucknow to Patna
+BK001141,Ishaan Sharma,51,Female,Bus,Varanasi,Delhi,2026-07-08,2026-08-27,1766.39,2,Completed,Wallet,3532.78,True,3532.78,2026-07,Varanasi to Delhi
+BK001142,Aarav Yadav,62,Female,Train,Kolkata,Prayagraj,2025-08-02,2025-08-27,686.73,4,Completed,Card,2746.92,True,2746.92,2025-08,Kolkata to Prayagraj
+BK001143,Aarav Joshi,58,Other,Train,Kanpur,Prayagraj,2025-03-29,2025-06-08,1053.74,4,Completed,UPI,4214.96,True,4214.96,2025-03,Kanpur to Prayagraj
+BK001144,Rohan Joshi,75,Female,Train,Kanpur,Patna,2026-07-22,2026-10-01,1467.22,5,Completed,Wallet,7336.1,True,7336.1,2026-07,Kanpur to Patna
+BK001145,Kavya Mishra,69,Male,Bus,Kolkata,Agra,2026-07-01,2026-09-22,875.23,1,Completed,Card,875.23,True,875.23,2026-07,Kolkata to Agra
+BK001146,Aditi Singh,44,Female,Bus,Varanasi,Prayagraj,2025-07-08,2025-07-27,1914.86,2,Completed,Net Banking,3829.72,True,3829.72,2025-07,Varanasi to Prayagraj
+BK001147,Neha Gupta,30,Male,Train,Kolkata,Mumbai,2026-09-09,2026-12-05,1681.05,1,Completed,UPI,1681.05,True,1681.05,2026-09,Kolkata to Mumbai
+BK001148,Ananya Sharma,72,Male,Bus,Mumbai,Bhopal,2025-11-17,2026-01-14,1123.29,4,Completed,Net Banking,4493.16,True,4493.16,2025-11,Mumbai to Bhopal
+BK001149,Arjun Das,44,Male,Train,Jaipur,Bhopal,2025-12-02,2026-01-30,827.17,3,Completed,Card,2481.5099999999998,True,2481.5099999999998,2025-12,Jaipur to Bhopal
+BK001150,Aditi Patel,9,Male,Train,Mumbai,Bhopal,2025-03-06,2025-04-05,949.06,5,Completed,Cash,4745.299999999999,True,4745.299999999999,2025-03,Mumbai to Bhopal
+BK001151,Vihaan Rao,23,Female,Train,Kanpur,Jaipur,2026-02-20,2026-05-13,699.77,4,Completed,Cash,2799.08,True,2799.08,2026-02,Kanpur to Jaipur
+BK001152,Kavya Joshi,45,Female,Bus,Delhi,Jaipur,2025-11-15,2025-12-03,1272.76,3,Completed,UPI,3818.2799999999997,True,3818.2799999999997,2025-11,Delhi to Jaipur
+BK001153,Rohan Rao,53,Female,Bus,Varanasi,Agra,2025-10-31,2026-01-17,1513.06,3,Completed,Net Banking,4539.18,True,4539.18,2025-10,Varanasi to Agra
+BK001154,Kavya Das,33,Male,Bus,Bhopal,Ranchi,2026-06-14,2026-08-09,1028.3,4,Cancelled,Wallet,4113.2,False,0.0,2026-06,Bhopal to Ranchi
+BK001155,Meera Patel,54,Female,Train,Varanasi,Prayagraj,2026-07-27,2026-08-18,1940.79,5,Completed,Card,9703.95,True,9703.95,2026-07,Varanasi to Prayagraj
+BK001156,Arjun Joshi,6,Female,Train,Mumbai,Ranchi,2025-09-07,2025-11-22,2404.69,4,Completed,Wallet,9618.76,True,9618.76,2025-09,Mumbai to Ranchi
+BK001157,Kabir Khan,62,Male,Bus,Patna,Delhi,2026-04-26,2026-07-03,1530.31,1,Completed,Wallet,1530.31,True,1530.31,2026-04,Patna to Delhi
+BK001158,Aditi Patel,57,Other,Bus,Patna,Mumbai,2025-10-11,2025-12-14,1298.63,4,Confirmed,Wallet,5194.52,True,5194.52,2025-10,Patna to Mumbai
+BK001159,Meera Verma,45,Other,Train,Lucknow,Varanasi,2026-03-26,2026-06-24,2043.65,3,Completed,Wallet,6130.950000000001,True,6130.950000000001,2026-03,Lucknow to Varanasi
+BK001160,Ananya Patel,78,Male,Bus,Prayagraj,Ranchi,2025-10-13,2025-11-03,754.15,5,Completed,Cash,3770.75,True,3770.75,2025-10,Prayagraj to Ranchi
+BK001161,Arjun Rao,65,Female,Train,Prayagraj,Patna,2025-06-14,2025-08-31,507.26,2,Completed,Net Banking,1014.52,True,1014.52,2025-06,Prayagraj to Patna
+BK001162,Unknown,19,Female,Train,Kanpur,Patna,2025-03-11,2025-05-17,1047.4,4,Completed,Net Banking,4189.6,True,4189.6,2025-03,Kanpur to Patna
+BK001163,Kabir Khan,61,Male,Train,Lucknow,Varanasi,2025-11-03,2025-12-13,1427.51,5,Pending,UPI,7137.55,False,0.0,2025-11,Lucknow to Varanasi
+BK001164,Rohan Mishra,40,Female,Train,Mumbai,Varanasi,2025-03-02,2025-05-31,2671.55,3,Confirmed,Cash,8014.650000000001,True,8014.650000000001,2025-03,Mumbai to Varanasi
+BK001165,Meera Roy,54,Female,Bus,Mumbai,Kolkata,2025-02-02,2025-04-01,1795.2,1,Confirmed,Card,1795.2,True,1795.2,2025-02,Mumbai to Kolkata
+BK001166,Rohan Khan,13,Female,Bus,Kolkata,Jaipur,2025-04-05,2025-06-03,388.73,1,Pending,Cash,388.73,False,0.0,2025-04,Kolkata to Jaipur
+BK001167,Ishaan Patel,15,Male,Train,Kanpur,Ranchi,2025-03-21,2025-04-13,632.13,2,Completed,Cash,1264.26,True,1264.26,2025-03,Kanpur to Ranchi
+BK001168,Neha Joshi,12,Male,Bus,Mumbai,Kanpur,2025-08-19,2025-09-08,1410.09,5,Confirmed,Card,7050.45,True,7050.45,2025-08,Mumbai to Kanpur
+BK001169,Aarav Singh,38,Female,Train,Mumbai,Prayagraj,2026-07-11,2026-09-28,1155.92,2,Pending,UPI,2311.84,False,0.0,2026-07,Mumbai to Prayagraj
+BK001170,Kavya Mishra,38,Female,Bus,Lucknow,Agra,2025-04-28,2025-06-11,993.15,2,Cancelled,Net Banking,1986.3,False,0.0,2025-04,Lucknow to Agra
+BK001171,Zoya Verma,47,Female,Bus,Jaipur,Patna,2025-07-26,2025-10-09,1600.59,3,Completed,Cash,4801.7699999999995,True,4801.7699999999995,2025-07,Jaipur to Patna
+BK001172,Kabir Joshi,50,Male,Bus,Bhopal,Patna,2026-02-20,2026-03-26,1801.72,1,Completed,Net Banking,1801.72,True,1801.72,2026-02,Bhopal to Patna
+BK001173,Zoya Joshi,33,Female,Train,Delhi,Kanpur,2026-01-15,2026-04-02,1537.78,4,Completed,UPI,6151.12,True,6151.12,2026-01,Delhi to Kanpur
+BK001174,Ishaan Mishra,50,Male,Train,Prayagraj,Ranchi,2026-02-20,2026-03-31,656.1,1,Completed,UPI,656.1,True,656.1,2026-02,Prayagraj to Ranchi
+BK001175,Neha Verma,26,Male,Bus,Kanpur,Prayagraj,2025-09-15,2025-09-17,1088.11,4,Completed,Net Banking,4352.44,True,4352.44,2025-09,Kanpur to Prayagraj
+BK001176,Neha Singh,38,Male,Train,Kolkata,Prayagraj,2026-01-03,2026-03-10,2153.7,3,Confirmed,Net Banking,6461.099999999999,True,6461.099999999999,2026-01,Kolkata to Prayagraj
+BK001177,Diya Roy,66,Female,Bus,Patna,Delhi,2025-03-07,2025-05-06,732.3,5,Cancelled,Cash,3661.5,False,0.0,2025-03,Patna to Delhi
+BK001178,Rohan Verma,56,Female,Bus,Jaipur,Patna,2025-03-06,2025-05-19,1167.95,5,Confirmed,Card,5839.75,True,5839.75,2025-03,Jaipur to Patna
+BK001179,Vihaan Mishra,18,Female,Bus,Delhi,Jaipur,2025-09-27,2025-11-30,1475.22,4,Completed,Wallet,5900.88,True,5900.88,2025-09,Delhi to Jaipur
+BK001180,Meera Singh,48,Male,Bus,Kolkata,Ranchi,2025-09-17,2025-11-29,910.67,3,Pending,Cash,2732.0099999999998,False,0.0,2025-09,Kolkata to Ranchi
+BK001181,Ananya Patel,70,Female,Bus,Patna,Varanasi,2025-09-23,2025-11-08,394.36,2,Confirmed,Wallet,788.72,True,788.72,2025-09,Patna to Varanasi
+BK001182,Ishaan Das,31,Female,Train,Patna,Ranchi,2026-08-15,2026-10-21,1308.79,1,Completed,Card,1308.79,True,1308.79,2026-08,Patna to Ranchi
+BK001183,Vihaan Sharma,62,Unknown,Bus,Delhi,Jaipur,2026-07-24,2026-10-04,1207.22,3,Completed,Net Banking,3621.66,True,3621.66,2026-07,Delhi to Jaipur
+BK001184,Aditi Verma,60,Male,Train,Agra,Delhi,2025-03-22,2025-06-02,2041.76,5,Completed,Card,10208.8,True,10208.8,2025-03,Agra to Delhi
+BK001185,Kabir Das,72,Other,Bus,Varanasi,Kanpur,2026-09-24,2026-11-22,556.14,4,Completed,Card,2224.56,True,2224.56,2026-09,Varanasi to Kanpur
+BK001186,Vihaan Joshi,40,Female,Train,Kolkata,Patna,2025-03-28,2025-05-18,2589.97,5,Completed,Card,12949.849999999999,True,12949.849999999999,2025-03,Kolkata to Patna
+BK001187,Ananya Yadav,43,Male,Train,Delhi,Jaipur,2025-01-18,2025-04-08,1434.47,2,Cancelled,Cash,2868.94,False,0.0,2025-01,Delhi to Jaipur
+BK001188,Ishaan Das,51,Male,Bus,Agra,Bhopal,2025-12-31,2026-01-04,516.69,4,Cancelled,Card,2066.76,False,0.0,2025-12,Agra to Bhopal
+BK001189,Ishaan Rao,43,Female,Bus,Agra,Kolkata,2025-12-14,2026-01-28,1781.43,1,Cancelled,Net Banking,1781.43,False,0.0,2025-12,Agra to Kolkata
+BK001190,Neha Khan,25,Male,Bus,Kanpur,Delhi,2025-06-16,2025-07-11,1589.8,5,Cancelled,UPI,7949.0,False,0.0,2025-06,Kanpur to Delhi
+BK001191,Zoya Khan,30,Female,Bus,Ranchi,Patna,2026-08-12,2026-09-27,1787.77,3,Cancelled,Card,5363.3099999999995,False,0.0,2026-08,Ranchi to Patna
+BK001192,Meera Yadav,63,Female,Train,Kolkata,Varanasi,2025-05-11,2025-05-30,701.56,4,Completed,Card,2806.24,True,2806.24,2025-05,Kolkata to Varanasi
+BK001193,Kavya Verma,45,Male,Bus,Varanasi,Mumbai,2026-01-17,2026-03-17,2170.02,3,Cancelled,Card,6510.0599999999995,False,0.0,2026-01,Varanasi to Mumbai
+BK001194,Aditi Singh,38,Male,Bus,Ranchi,Bhopal,2026-10-07,2026-12-28,1717.02,4,Pending,Wallet,6868.08,False,0.0,2026-10,Ranchi to Bhopal
+BK001195,Rohan Patel,31,Male,Bus,Kolkata,Prayagraj,2026-04-23,2026-07-07,1895.89,2,Confirmed,Net Banking,3791.78,True,3791.78,2026-04,Kolkata to Prayagraj
+BK001196,Ananya Yadav,40,Male,Train,Ranchi,Delhi,2026-05-24,2026-06-16,444.89,2,Pending,UPI,889.78,False,0.0,2026-05,Ranchi to Delhi
+BK001197,Ananya Sharma,68,Female,Bus,Varanasi,Kolkata,2026-07-27,2026-09-04,419.12,4,Completed,Wallet,1676.48,True,1676.48,2026-07,Varanasi to Kolkata
+BK001198,Aarav Mishra,27,Male,Bus,Ranchi,Delhi,2026-06-16,2026-07-31,390.16,2,Completed,UPI,780.32,True,780.32,2026-06,Ranchi to Delhi
+BK001199,Rohan Gupta,27,Female,Train,Bhopal,Agra,2026-09-23,2026-11-22,2172.75,1,Completed,Card,2172.75,True,2172.75,2026-09,Bhopal to Agra
+BK001200,Sana Joshi,55,Female,Train,Varanasi,Agra,2025-01-17,2025-02-22,1116.71,4,Completed,Card,4466.84,True,4466.84,2025-01,Varanasi to Agra

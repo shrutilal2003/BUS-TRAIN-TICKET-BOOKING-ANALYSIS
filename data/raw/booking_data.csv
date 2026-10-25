@@ -1,0 +1,1209 @@
+Booking_ID,Passenger_Name,Age,Gender,Transport_Mode,Source,Destination,Booking_Date,Travel_Date,Ticket_Price,Number_of_Tickets,Booking_Status,Payment_Mode
+BK000001,Kabir Das,10.0,Male,Bus,Mumbai,Varanasi,2026-03-14,2026-05-13,1072.11,3,Confirmed,Net Banking
+BK000002,Rohan Das,46.0,Male,Train,Jaipur,Kanpur,2026-04-19,2026-04-24,889.62,4,Pending,Card
+BK000003,Sana Verma,77.0,Male,Train,Kanpur,Varanasi,2026-03-09,2026-05-22,592.97,2,Completed,UPI
+BK000004,Kavya Mishra,16.0,Female,Bus,Kolkata,Varanasi,2025-08-09,2025-10-13,1849.53,3,Confirmed,Card
+BK000005,Ananya Sharma,22.0,Male,Bus,Patna,Lucknow,2026-05-24,2026-07-26,1149.03,2,Cancelled,UPI
+BK000006,Rohan Roy,65.0,Male,Bus,Lucknow,Kolkata,2025-05-21,2025-06-03,1462.57,1,Completed,Cash
+BK000007,Ishaan Roy,44.0,Female,Train,Delhi,Jaipur,2025-10-18,2025-11-12,982.56,5,Completed,Card
+BK000008,Ananya Verma,17.0,Male,Train,Prayagraj,Jaipur,2026-02-13,2026-03-14,1395.82,5,Cancelled,Wallet
+BK000009,Sana Khan,39.0,Male,Bus,Jaipur,Mumbai,2025-01-24,2025-01-26,562.52,3,Completed,Card
+BK000010,Meera Joshi,38.0,Male,Bus,Mumbai,Kolkata,2026-01-29,2026-04-04,903.74,4,Completed,Net Banking
+BK000011,Meera Das,49.0,Male,Bus,Varanasi,Jaipur,2025-09-29,2025-10-27,1271.21,4,Cancelled,Cash
+BK000012,Neha Singh,36.0,Female,Bus,Ranchi,Agra,2025-12-19,2026-01-17,843.98,3,Completed,Cash
+BK000013,Ananya Roy,75.0,Male,Bus,Kanpur,Prayagraj,2025-05-18,2025-07-05,701.42,1,Completed,Cash
+BK000014,Aditi Patel,50.0,Female,Train,Ranchi,Varanasi,2026-06-20,2026-08-27,2695.44,1,Completed,Wallet
+BK000015,Diya Khan,58.0,Male,Train,Mumbai,Varanasi,2026-10-08,2027-01-04,2541.03,3,Completed,Card
+BK000016,Kavya Gupta,14.0,,Bus,Jaipur,Ranchi,2025-03-20,2025-04-02,1317.97,4,Completed,Wallet
+BK000017,Zoya Patel,8.0,Male,Bus,Varanasi,Kolkata,2026-07-06,2026-09-12,373.59,4,Completed,Card
+BK000018,Arjun Mishra,6.0,Female,Train,Agra,Jaipur,2025-06-04,2025-08-08,2283.78,4,Completed,Wallet
+BK000019,Kavya Singh,56.0,Male,Train,Bhopal,Delhi,2025-02-15,2025-04-08,2904.53,2,Completed,Card
+BK000020,Ishaan Mishra,25.0,Male,Bus,Mumbai,Delhi,2025-02-28,2025-04-23,481.93,5,Confirmed,Wallet
+BK000021,Diya Roy,45.0,Female,Train,Ranchi,Patna,2025-09-16,2025-12-06,1952.34,1,Completed,Wallet
+BK000022,Vihaan Patel,55.0,Male,Bus,Patna,Mumbai,2025-06-27,2025-07-11,1259.23,1,Completed,Wallet
+BK000023,Rohan Sharma,74.0,Female,Bus,Delhi,Varanasi,2026-05-27,2026-07-30,1511.98,2,Pending,UPI
+BK000024,Kabir Sharma,29.0,Male,Bus,Lucknow,Ranchi,2026-09-12,2026-11-19,516.58,5,Completed,Net Banking
+BK000025,Rohan Rao,73.0,Male,Train,Bhopal,Prayagraj,2026-05-03,2026-05-10,2670.91,5,Completed,UPI
+BK000026,Ananya Verma,74.0,Male,Train,Mumbai,Kolkata,2026-06-18,2026-07-26,635.22,3,Completed,Wallet
+BK000027,Neha Rao,64.0,Female,Train,Bhopal,Delhi,2026-04-16,2026-06-13,1603.69,2,Completed,Wallet
+BK000028,Neha Yadav,16.0,Male,Bus,Mumbai,Patna,2025-08-27,2025-11-20,1120.72,2,Completed,Cash
+BK000029,Ishaan Yadav,32.0,Male,Bus,Kanpur,Mumbai,2025-10-02,2025-10-12,491.98,5,Confirmed,Card
+BK000030,Diya Verma,26.0,Female,Train,Prayagraj,Jaipur,2026-06-22,2026-08-30,1360.66,1,Completed,Card
+BK000031,Neha Patel,69.0,Male,Bus,Lucknow,Mumbai,2025-02-09,2025-04-14,2220.82,4,Completed,Net Banking
+BK000032,Ananya Singh,65.0,Female,Bus,Prayagraj,Ranchi,2025-07-07,2025-09-26,915.92,1,Completed,Cash
+BK000033,Diya Gupta,69.0,Female,Train,Patna,Jaipur,2026-08-05,2026-09-20,1279.75,1,Completed,Cash
+BK000034,Neha Singh,58.0,Female,Bus,Ranchi,Prayagraj,2026-05-14,2026-05-27,1820.05,2,Confirmed,Card
+BK000035,Kabir Rao,22.0,Female,Train,Agra,Bhopal,2025-07-03,2025-08-26,2407.89,1,Completed,Wallet
+BK000036,Kavya Rao,6.0,Female,Bus,Patna,Agra,2025-07-15,2025-09-09,1223.8,3,Cancelled,Wallet
+BK000037,Ananya Rao,41.0,Female,Bus,Kanpur,Bhopal,2025-10-27,2025-12-25,472.53,3,Completed,UPI
+BK000038,Meera Sharma,28.0,Female,Train,Varanasi,Agra,2025-04-11,2025-05-30,851.95,4,Completed,Net Banking
+BK000039,Aarav Rao,70.0,Male,Train,Mumbai,Varanasi,2025-11-18,2026-01-15,1615.92,1,Completed,UPI
+BK000040,Aarav Verma,7.0,Male,Bus,Jaipur,Kolkata,2026-02-14,2026-04-18,1505.69,2,Cancelled,Card
+BK000041,Ananya Rao,39.0,Male,Bus,Prayagraj,Varanasi,2026-07-25,2026-09-09,2142.77,3,Completed,Cash
+BK000042,Neha Mishra,27.0,Male,Bus,Varanasi,Agra,2025-11-18,2025-12-28,679.31,4,Cancelled,Card
+BK000043,Vihaan Singh,45.0,Male,Train,Patna,Delhi,2026-03-02,2026-05-04,2762.89,5,Completed,Cash
+BK000044,Kabir Das,5.0,Male,Train,Patna,Kolkata,2026-03-08,2026-04-22,2405.25,5,Completed,UPI
+BK000045,Sana Das,80.0,Female,Train,Kolkata,Bhopal,2025-02-09,2025-04-29,1386.82,3,Completed,Card
+BK000046,Aarav Singh,46.0,Male,Train,Prayagraj,Jaipur,2025-04-12,2025-05-02,2088.27,5,Completed,UPI
+BK000047,Kabir Yadav,53.0,Male,Bus,Varanasi,Patna,2025-03-30,2025-06-03,930.01,5,Confirmed,UPI
+BK000048,Rohan Rao,10.0,Male,Bus,Delhi,Ranchi,2025-05-30,2025-07-10,1819.33,5,Completed,Cash
+BK000049,Vihaan Roy,76.0,Female,Train,Kolkata,Lucknow,2026-04-15,2026-06-03,2788.94,2,Completed,Card
+BK000050,Ananya Singh,75.0,Male,Bus,Prayagraj,Varanasi,2026-04-12,2026-05-09,1324.85,4,Completed,Cash
+BK000051,Zoya Joshi,8.0,Male,Bus,Varanasi,Lucknow,2026-09-07,2026-11-11,716.95,4,Completed,UPI
+BK000052,Zoya Patel,62.0,Male,Bus,Ranchi,Prayagraj,2025-10-18,2025-12-03,342.04,3,Completed,Net Banking
+BK000053,Rohan Khan,27.0,Female,Train,Jaipur,Bhopal,2025-03-22,2025-05-01,3137.48,4,Cancelled,Wallet
+BK000054,Ishaan Joshi,75.0,Female,Train,Kanpur,Patna,2025-09-13,2025-10-15,2078.5,2,Cancelled,Net Banking
+BK000055,Ananya Mishra,52.0,Female,Bus,Varanasi,Delhi,2026-06-14,2026-06-15,918.73,2,Confirmed,Net Banking
+BK000056,Ananya Roy,17.0,Male,Train,Kolkata,Prayagraj,2026-08-24,2026-10-24,2082.22,2,Completed,Wallet
+BK000057,Vihaan Singh,74.0,Male,Bus,Prayagraj,Jaipur,2026-10-07,2026-11-24,652.71,1,Confirmed,Card
+BK000058,Vihaan Yadav,38.0,Male,Train,Mumbai,Jaipur,2026-09-05,2026-09-11,799.81,2,Completed,Cash
+BK000059,Vihaan Patel,49.0,Male,Bus,Lucknow,Bhopal,2025-08-07,2025-09-08,2068.57,5,Completed,Wallet
+BK000060,Diya Yadav,7.0,Female,Bus,Ranchi,Prayagraj,2025-06-29,2025-09-23,1486.96,2,Cancelled,Wallet
+BK000061,Arjun Gupta,39.0,Male,Bus,Jaipur,Ranchi,2025-08-31,2025-10-18,1671.07,5,Cancelled,Wallet
+BK000062,Arjun Singh,49.0,Male,Train,Mumbai,Jaipur,2025-01-09,2025-01-15,2464.97,2,Completed,Wallet
+BK000063,Zoya Roy,74.0,Female,Train,Kolkata,Ranchi,2026-03-21,2026-04-28,1296.14,2,Completed,Wallet
+BK000064,Arjun Mishra,38.0,Male,Train,Delhi,Patna,2025-07-06,2025-08-28,732.19,2,Completed,Cash
+BK000065,Aditi Roy,11.0,Male,Train,Mumbai,Kolkata,2025-03-09,2025-05-27,981.11,5,Cancelled,Net Banking
+BK000066,Zoya Khan,10.0,Female,Bus,Mumbai,Varanasi,2025-04-02,2025-04-09,367.84,4,Completed,Card
+BK000067,Diya Sharma,54.0,Male,Train,Kolkata,Agra,2026-03-04,2026-04-10,1692.75,3,Completed,Wallet
+BK000068,Diya Verma,71.0,Female,Train,Jaipur,Agra,2025-08-03,2025-09-11,1470.02,1,Completed,Wallet
+BK000069,Rohan Sharma,54.0,Male,Bus,Mumbai,Patna,2025-08-28,2025-08-29,673.04,5,Confirmed,Wallet
+BK000070,Ananya Das,78.0,Male,Bus,Delhi,Bhopal,2025-05-23,2025-06-17,2049.72,5,Completed,Card
+BK000071,Kabir Rao,44.0,Male,Bus,Lucknow,Varanasi,2025-08-16,2025-11-01,1478.64,3,Completed,Card
+BK000072,Zoya Verma,16.0,Male,Train,Jaipur,Kolkata,2025-09-29,2025-12-12,1707.87,1,Completed,Net Banking
+BK000073,Ananya Roy,62.0,Male,Bus,Prayagraj,Patna,2026-03-19,2026-05-16,581.4,3,Completed,Net Banking
+BK000074,Arjun Rao,54.0,Male,Bus,Delhi,Ranchi,2025-10-14,2025-11-21,424.26,1,Completed,Net Banking
+BK000075,Zoya Singh,48.0,Female,Bus,Ranchi,Bhopal,2025-07-08,2025-08-27,1748.14,2,Completed,Net Banking
+BK000076,Diya Verma,13.0,Female,Train,Delhi,Bhopal,2026-04-13,2026-05-14,1340.85,2,Completed,Cash
+BK000077,Ananya Roy,60.0,Male,Bus,Prayagraj,Delhi,2026-01-13,2026-03-14,809.91,5,Completed,UPI
+BK000078,Arjun Yadav,76.0,Other,Train,Delhi,Kolkata,2026-01-10,2026-04-02,518.96,4,Completed,Wallet
+BK000079,Vihaan Das,18.0,Female,Train,Varanasi,Prayagraj,2025-03-15,2025-05-17,1841.18,4,Completed,Cash
+BK000080,Ananya Khan,69.0,Female,Train,Bhopal,Patna,2025-05-17,2025-07-29,1889.38,5,Completed,Wallet
+BK000081,Sana Das,64.0,Male,Bus,Jaipur,Lucknow,2025-06-11,2025-07-01,679.68,2,Completed,Card
+BK000082,Neha Yadav,39.0,Male,Train,Jaipur,Mumbai,2025-03-22,2025-04-30,1541.17,4,Cancelled,Cash
+BK000083,Diya Mishra,77.0,Female,Train,Patna,Mumbai,2026-03-30,2026-06-25,1131.82,3,Confirmed,Cash
+BK000084,Vihaan Mishra,74.0,Female,Bus,Ranchi,Lucknow,2025-10-30,2025-12-02,510.42,4,Pending,Cash
+BK000085,Meera Sharma,42.0,Female,Bus,Lucknow,Agra,2025-01-23,2025-03-05,902.56,5,Completed,Card
+BK000086,Vihaan Yadav,6.0,Male,Bus,Delhi,Prayagraj,2025-01-29,2025-03-21,1035.22,5,Completed,Cash
+BK000087,Vihaan Gupta,69.0,Female,Train,Varanasi,Mumbai,2025-05-25,2025-08-05,1701.81,5,Confirmed,Net Banking
+BK000088,Ishaan Khan,56.0,Male,Train,Kolkata,Prayagraj,2026-08-02,2026-09-17,1874.17,4,Confirmed,UPI
+BK000089,Ishaan Joshi,11.0,Male,Bus,Mumbai,Kanpur,2025-11-22,2025-12-31,527.05,3,Completed,Card
+BK000090,Sana Khan,57.0,Male,Train,Ranchi,Kolkata,2025-10-01,2025-12-18,1149.34,2,Completed,Wallet
+BK000091,Ananya Roy,31.0,Male,Bus,Bhopal,Kolkata,2025-04-27,2025-05-25,936.88,2,Cancelled,Cash
+BK000092,Neha Patel,20.0,Female,Bus,Prayagraj,Kanpur,2025-05-23,2025-06-11,1038.08,5,Cancelled,Card
+BK000093,Aditi Verma,9.0,Female,Train,Varanasi,Delhi,2025-06-08,2025-07-29,813.07,3,Completed,Net Banking
+BK000094,Vihaan Das,76.0,Female,Bus,Varanasi,Jaipur,2025-07-09,2025-10-06,682.99,1,Completed,Wallet
+BK000095,Rohan Roy,40.0,Male,Bus,Delhi,Agra,2026-01-19,2026-03-19,1765.99,2,Completed,Wallet
+BK000096,Arjun Sharma,56.0,Female,Bus,Ranchi,Lucknow,2025-04-18,2025-06-09,1625.03,4,Completed,Wallet
+BK000097,Zoya Singh,10.0,,Bus,Mumbai,Patna,2026-05-22,2026-08-06,1516.41,3,Completed,Net Banking
+BK000098,Zoya Khan,32.0,Male,Train,Bhopal,Mumbai,2025-08-01,2025-10-05,1783.15,3,Completed,Net Banking
+BK000099,Kabir Joshi,79.0,Male,Train,Prayagraj,Varanasi,2025-11-21,2026-02-18,2586.42,1,Cancelled,Wallet
+BK000100,Sana Rao,57.0,Female,Train,Mumbai,Delhi,2026-06-14,2026-08-15,1350.81,1,Completed,Wallet
+BK000101,Aarav Khan,26.0,Male,Train,Varanasi,Kanpur,2026-07-13,2026-10-06,692.65,3,Completed,Net Banking
+BK000102,Kavya Singh,8.0,Male,Train,Bhopal,Mumbai,2025-03-18,2025-04-09,941.28,4,Completed,UPI
+BK000103,Zoya Mishra,31.0,Male,Train,Varanasi,Prayagraj,2026-04-17,2026-04-28,3050.18,1,Confirmed,Cash
+BK000104,Sana Mishra,47.0,Male,Train,Jaipur,Bhopal,2026-06-15,2026-06-21,3335.83,1,Cancelled,Net Banking
+BK000105,Ishaan Mishra,61.0,Male,Train,Lucknow,Patna,2025-01-24,2025-02-15,1732.75,2,Completed,Card
+BK000106,Ananya Khan,12.0,Male,Train,Ranchi,Kolkata,2025-06-23,2025-07-26,2158.19,3,Completed,Card
+BK000107,Zoya Das,78.0,Female,Train,Ranchi,Bhopal,2026-04-25,2026-05-19,1062.58,3,Completed,Net Banking
+BK000108,Aditi Joshi,35.0,Male,Bus,Mumbai,Lucknow,2026-08-30,2026-11-01,1299.81,1,Cancelled,Cash
+BK000109,Arjun Khan,62.0,Female,Bus,Agra,Ranchi,2025-07-17,2025-08-18,1574.32,3,Completed,Wallet
+BK000110,Vihaan Gupta,47.0,Female,Train,Jaipur,Kanpur,2026-03-09,2026-05-06,516.75,2,Cancelled,UPI
+BK000111,Kavya Roy,75.0,Male,Train,Delhi,Prayagraj,2026-03-09,2026-04-09,1222.46,4,Completed,Cash
+BK000112,Aarav Joshi,13.0,Female,Bus,Patna,Jaipur,2026-02-13,2026-03-03,794.03,3,Completed,Cash
+BK000113,Kavya Yadav,78.0,Female,Bus,Jaipur,Agra,2025-01-13,2025-03-09,908.97,5,Completed,Wallet
+BK000114,Ishaan Das,56.0,Female,Bus,Jaipur,Prayagraj,2025-05-17,2025-07-05,1043.93,2,Completed,Cash
+BK000115,Kavya Roy,49.0,Female,Train,Jaipur,Mumbai,2025-01-10,2025-01-28,2427.6,3,Completed,UPI
+BK000116,Aditi Gupta,48.0,Male,Bus,Delhi,Patna,2025-04-19,2025-06-03,705.85,5,Pending,Card
+BK000117,Arjun Sharma,9.0,Female,Bus,Patna,Mumbai,2025-05-18,2025-07-09,1439.29,4,Cancelled,Wallet
+BK000118,Kavya Khan,55.0,Male,Train,Kolkata,Bhopal,2025-11-29,2026-02-05,1545.61,1,Pending,UPI
+BK000119,Arjun Joshi,50.0,Female,Bus,Prayagraj,Ranchi,2025-03-05,2025-04-30,1263.56,2,Confirmed,Cash
+BK000120,Aditi Gupta,10.0,Female,Bus,Ranchi,Agra,2025-09-14,2025-11-22,991.81,2,Pending,UPI
+BK000121,Ananya Gupta,66.0,Female,Bus,Mumbai,Ranchi,2025-10-18,2025-11-28,465.09,4,Completed,Cash
+BK000122,Sana Rao,11.0,Male,Bus,Varanasi,Lucknow,2026-05-10,2026-07-26,1485.78,1,Completed,Cash
+BK000123,Kavya Mishra,20.0,Female,Train,Mumbai,Kolkata,2025-11-28,2025-12-27,1906.07,1,Completed,UPI
+BK000124,Zoya Singh,57.0,Female,Bus,Kanpur,Mumbai,2025-12-04,2025-12-25,1025.96,5,Completed,Net Banking
+BK000125,Zoya Verma,68.0,Male,Bus,Kolkata,Patna,2026-08-29,2026-10-02,486.06,2,Completed,Cash
+BK000126,Aditi Rao,31.0,Female,Train,Lucknow,Patna,2025-12-03,2025-12-11,3416.54,4,Pending,Cash
+BK000127,Meera Mishra,7.0,Male,Bus,Ranchi,Jaipur,2025-03-19,2025-04-16,987.81,1,Completed,Cash
+BK000128,Diya Khan,38.0,Male,Bus,Varanasi,Jaipur,2025-02-09,2025-03-21,1283.38,4,Completed,UPI
+BK000129,Ananya Singh,44.0,Male,Train,Patna,Bhopal,2025-07-06,2025-09-27,1699.32,1,Completed,Cash
+BK000130,Ananya Verma,48.0,Female,Bus,Kanpur,Varanasi,2025-12-19,2026-02-02,759.02,3,Completed,Wallet
+BK000131,Vihaan Rao,41.0,Male,Bus,Kolkata,Varanasi,2025-05-08,2025-06-17,1416.37,2,Confirmed,Cash
+BK000132,Aarav Roy,46.0,Female,Train,Bhopal,Patna,2025-08-03,2025-09-24,1182.02,4,Completed,Net Banking
+BK000133,Aditi Verma,56.0,Female,Train,Lucknow,Kanpur,2025-07-07,2025-08-23,1871.07,3,Completed,Net Banking
+BK000134,Neha Patel,25.0,Male,Bus,Ranchi,Lucknow,2026-07-03,2026-08-22,720.35,4,Confirmed,UPI
+BK000135,Zoya Roy,12.0,Male,Bus,Lucknow,Agra,2025-11-26,2026-01-19,457.21,1,Completed,Wallet
+BK000136,Rohan Verma,73.0,Female,Train,Varanasi,Kanpur,2025-02-11,2025-04-22,1749.67,1,Completed,Net Banking
+BK000137,Aarav Verma,72.0,Male,Train,Bhopal,Agra,2025-05-22,2025-06-30,1707.4,4,Confirmed,Cash
+BK000138,Diya Rao,77.0,Male,Bus,Delhi,Mumbai,2025-06-26,2025-09-11,1634.09,4,Completed,UPI
+BK000139,Meera Das,20.0,Male,Bus,Prayagraj,Patna,2025-09-21,2025-10-02,1659.42,1,Completed,Net Banking
+BK000140,Ishaan Gupta,15.0,Female,Bus,Jaipur,Varanasi,2025-01-08,2025-03-09,828.27,4,Confirmed,Cash
+BK000141,Zoya Verma,6.0,Male,Train,Lucknow,Bhopal,2025-08-08,2025-10-21,1033.9,2,Completed,UPI
+BK000142,Diya Sharma,9.0,Male,Train,Delhi,Varanasi,2026-03-03,2026-04-28,1925.92,1,Completed,Cash
+BK000143,Aditi Das,37.0,Female,Train,Patna,Prayagraj,2025-11-21,2025-12-01,1814.4,1,Completed,Card
+BK000144,Kavya Patel,36.0,Other,Bus,Ranchi,Mumbai,2026-05-25,2026-08-01,1781.94,3,Completed,Cash
+BK000145,Arjun Sharma,39.0,Male,Bus,Jaipur,Lucknow,2025-11-25,2025-12-27,834.09,4,Cancelled,Net Banking
+BK000146,Aditi Joshi,,Male,Bus,Prayagraj,Jaipur,2025-04-16,2025-07-10,688.35,1,Cancelled,Wallet
+BK000147,Diya Yadav,12.0,Male,Bus,Jaipur,Kanpur,2026-06-18,2026-08-06,2168.5,2,Confirmed,UPI
+BK000148,Ananya Joshi,14.0,Male,Train,Kanpur,Delhi,2026-06-12,2026-08-27,2244.82,5,Cancelled,Wallet
+BK000149,Aditi Sharma,73.0,Female,Bus,Jaipur,Mumbai,2025-11-13,2026-02-06,1590.52,3,Completed,Wallet
+BK000150,Kavya Mishra,33.0,Female,Train,Kanpur,Agra,2026-05-31,2026-07-12,2724.51,3,Completed,Wallet
+BK000151,Arjun Gupta,41.0,Female,Train,Agra,Ranchi,2026-09-01,2026-09-26,2410.01,3,Completed,Wallet
+BK000152,Aditi Roy,5.0,Male,Train,Mumbai,Varanasi,2026-05-31,2026-07-13,1507.34,1,Cancelled,Net Banking
+BK000153,Vihaan Das,80.0,Female,Train,Mumbai,Ranchi,2025-07-20,2025-09-22,691.06,3,Completed,UPI
+BK000154,Kavya Yadav,39.0,Male,Bus,Mumbai,Kolkata,2025-09-08,2025-11-15,615.88,1,Completed,Cash
+BK000155,Zoya Joshi,12.0,Male,Train,Patna,Kolkata,2025-08-12,2025-10-14,2067.41,3,Completed,Cash
+BK000156,Zoya Gupta,49.0,Female,Bus,Mumbai,Kanpur,2025-06-27,2025-07-25,1464.82,2,Completed,Net Banking
+BK000157,Neha Gupta,6.0,Female,Bus,Kolkata,Jaipur,2025-08-09,2025-11-03,1304.63,2,Completed,Cash
+BK000158,Aarav Sharma,26.0,Male,Train,Bhopal,Jaipur,2025-12-04,2026-02-13,735.79,1,Completed,Cash
+BK000159,Sana Roy,54.0,Male,Bus,Kanpur,Ranchi,2025-09-13,2025-10-13,927.25,4,Pending,Wallet
+BK000160,Zoya Joshi,37.0,Female,Train,Mumbai,Kanpur,2025-05-02,2025-07-22,2227.79,1,Cancelled,Card
+BK000161,Zoya Das,45.0,Male,Train,Jaipur,Lucknow,2025-12-03,2026-01-17,1778.81,4,Completed,Wallet
+BK000162,Kavya Sharma,42.0,Male,Bus,Lucknow,Agra,2025-09-04,2025-10-24,591.59,2,Completed,Wallet
+BK000163,Ishaan Sharma,48.0,Female,Train,Ranchi,Prayagraj,2026-08-18,2026-09-24,1093.01,2,Completed,Net Banking
+BK000164,Kabir Mishra,34.0,Female,Bus,Prayagraj,Kolkata,2026-08-07,2026-10-06,882.01,5,Cancelled,Card
+BK000165,Ishaan Rao,,Female,Bus,Agra,Lucknow,2025-11-07,2026-02-01,1415.94,3,Completed,UPI
+BK000166,Rohan Verma,37.0,Female,Train,Lucknow,Patna,2025-05-12,2025-08-08,3271.01,3,Confirmed,Card
+BK000167,Sana Yadav,70.0,Female,Bus,Jaipur,Delhi,2026-04-19,2026-04-23,456.4,2,Completed,Cash
+BK000168,Ishaan Singh,58.0,Female,Bus,Bhopal,Ranchi,2026-08-04,2026-09-24,1263.96,5,Cancelled,Wallet
+BK000169,Aarav Singh,54.0,Male,Bus,Kolkata,Bhopal,2025-04-15,2025-05-22,1230.28,4,Completed,Cash
+BK000170,Aditi Verma,20.0,Female,Train,Patna,Prayagraj,2025-03-03,2025-03-24,1408.28,5,Confirmed,Wallet
+BK000171,Aditi Das,65.0,Female,Train,Prayagraj,Lucknow,2025-12-31,2026-01-23,1045.88,3,Completed,UPI
+BK000172,Zoya Yadav,75.0,Male,Train,Mumbai,Lucknow,2025-04-30,2025-06-19,2263.22,1,Cancelled,Card
+BK000173,Ishaan Yadav,55.0,Male,Train,Kolkata,Delhi,2025-03-13,2025-06-07,1177.48,4,Completed,UPI
+BK000174,Ananya Gupta,24.0,Male,Bus,Lucknow,Prayagraj,2025-12-29,2026-01-18,1683.93,1,Completed,Wallet
+BK000175,Ananya Das,7.0,Female,Bus,Agra,Patna,2026-03-06,2026-05-18,974.59,3,Completed,Card
+BK000176,Ishaan Patel,69.0,Male,Bus,Jaipur,Patna,2026-07-20,2026-10-17,1026.44,3,Confirmed,UPI
+BK000177,Aditi Singh,43.0,Female,Bus,Lucknow,Delhi,2025-04-17,2025-07-04,1607.15,5,Cancelled,Wallet
+BK000178,Meera Sharma,34.0,Male,Bus,Agra,Delhi,2025-10-26,2026-01-15,396.81,5,Cancelled,UPI
+BK000179,Zoya Sharma,77.0,Female,Bus,Delhi,Prayagraj,2026-06-28,2026-08-22,1311.5,3,Pending,Wallet
+BK000180,Rohan Joshi,63.0,Male,Train,Agra,Mumbai,2025-08-03,2025-10-11,1718.01,5,Pending,Cash
+BK000181,Vihaan Yadav,72.0,Male,Bus,Kanpur,Delhi,2026-04-15,2026-06-01,1101.13,3,Completed,Wallet
+BK000182,Meera Rao,32.0,Male,Train,Mumbai,Kanpur,2026-10-10,2026-10-27,2234.32,3,Completed,Wallet
+BK000183,Aditi Sharma,53.0,Female,Bus,Delhi,Ranchi,2025-03-21,2025-04-23,664.13,2,Completed,UPI
+BK000184,Diya Roy,,Female,Train,Patna,Ranchi,2026-04-27,2026-05-27,2385.03,1,Completed,Card
+BK000185,Kavya Mishra,18.0,Male,Train,Patna,Prayagraj,2026-07-03,2026-07-14,1500.82,5,Cancelled,UPI
+BK000186,Diya Verma,19.0,Female,Train,Bhopal,Kanpur,2025-07-01,2025-08-06,2055.15,1,Completed,Card
+BK000187,Kabir Das,19.0,Male,Train,Lucknow,Varanasi,2025-05-14,2025-07-05,1704.11,1,Completed,Wallet
+BK000188,Kavya Yadav,53.0,Female,Bus,Delhi,Patna,2026-01-10,2026-01-23,546.68,3,Completed,UPI
+BK000189,Zoya Rao,10.0,Female,Train,Delhi,Agra,2026-07-24,2026-09-14,1366.5,4,Completed,Card
+BK000190,Kavya Mishra,56.0,Female,Train,Patna,Ranchi,2026-09-13,2026-11-28,669.23,4,Completed,Cash
+BK000191,Kavya Gupta,14.0,Male,Train,Jaipur,Agra,2025-09-19,2025-12-06,2024.78,2,Completed,Wallet
+BK000192,Arjun Yadav,8.0,Female,Train,Jaipur,Ranchi,2026-08-29,2026-08-30,2364.69,3,Completed,Wallet
+BK000193,Diya Sharma,51.0,Female,Bus,Jaipur,Mumbai,2026-08-30,2026-10-22,532.48,5,Cancelled,Wallet
+BK000194,Rohan Roy,63.0,Female,Bus,Mumbai,Delhi,2025-02-18,2025-04-26,1318.05,1,Completed,Wallet
+BK000195,Arjun Singh,63.0,Male,Bus,Patna,Ranchi,2025-05-10,2025-06-18,752.19,4,Confirmed,UPI
+BK000196,Kabir Singh,21.0,Male,Train,Mumbai,Delhi,2026-01-27,2026-03-20,2184.7,2,Completed,Cash
+BK000197,Neha Das,19.0,Female,Bus,Kanpur,Delhi,2025-12-16,2025-12-31,1401.84,2,Completed,UPI
+BK000198,Diya Joshi,70.0,Male,Bus,Delhi,Ranchi,2026-08-15,2026-11-05,1629.47,5,Completed,Card
+BK000199,Kabir Verma,54.0,Male,Train,Mumbai,Agra,2026-05-21,2026-08-16,1026.13,3,Completed,Cash
+BK000200,Kabir Patel,7.0,Female,Train,Kanpur,Delhi,2026-08-18,2026-09-20,1082.09,5,Confirmed,Card
+BK000201,Diya Gupta,30.0,Female,Bus,Jaipur,Kanpur,2025-09-21,2025-12-13,1303.29,2,Confirmed,Card
+BK000202,Aditi Sharma,27.0,Male,Train,Prayagraj,Jaipur,2025-12-23,2026-02-27,934.75,1,Cancelled,Wallet
+BK000203,Neha Rao,50.0,Female,Train,Agra,Jaipur,2025-04-21,2025-06-19,1068.62,5,Completed,UPI
+BK000204,Kavya Rao,37.0,Female,Bus,Patna,Ranchi,2025-07-08,2025-08-30,1083.48,1,Completed,Card
+BK000205,Kabir Joshi,57.0,Male,Bus,Varanasi,Prayagraj,2025-08-26,2025-11-07,1147.5,2,Pending,Net Banking
+BK000206,Kabir Das,51.0,Male,Bus,Ranchi,Patna,2025-10-18,2025-10-25,616.47,4,Completed,Wallet
+BK000207,Diya Das,45.0,Male,Bus,Delhi,Varanasi,2026-06-30,2026-09-04,1250.86,2,Completed,Cash
+BK000208,Rohan Gupta,24.0,Male,Train,Delhi,Varanasi,2025-03-03,2025-05-04,1273.52,2,Completed,Cash
+BK000209,Ananya Sharma,63.0,Male,Bus,Prayagraj,Patna,2025-08-15,2025-09-26,1442.41,1,Completed,UPI
+BK000210,Aditi Yadav,27.0,Female,Bus,Kolkata,Jaipur,2025-10-08,2025-10-18,572.64,4,Completed,Net Banking
+BK000211,Aditi Das,73.0,Female,Bus,Delhi,Jaipur,2026-01-17,2026-03-12,544.11,2,Pending,Wallet
+BK000212,Aarav Singh,59.0,Male,Train,Ranchi,Bhopal,2026-06-06,2026-06-26,574.51,2,Completed,UPI
+BK000213,Aarav Sharma,38.0,Female,Bus,Bhopal,Varanasi,2026-05-28,2026-07-07,990.13,3,Completed,Net Banking
+BK000214,Vihaan Verma,32.0,Female,Bus,Jaipur,Varanasi,2025-02-09,2025-03-13,529.46,1,Completed,Card
+BK000215,Kavya Rao,62.0,Female,Train,Patna,Varanasi,2025-08-13,2025-08-19,2474.24,1,Completed,
+BK000216,Kavya Singh,55.0,Male,Train,Jaipur,Patna,2026-06-05,2026-08-13,1155.36,1,Completed,UPI
+BK000217,Aditi Das,8.0,Male,Bus,Mumbai,Lucknow,2026-03-06,2026-03-21,1578.39,3,Completed,Wallet
+BK000218,Ananya Roy,35.0,Male,Train,Bhopal,Varanasi,2025-05-27,2025-06-02,1392.27,2,Cancelled,Card
+BK000219,Sana Joshi,80.0,Female,Train,Ranchi,Kanpur,2026-06-02,2026-07-03,813.97,4,Cancelled,Wallet
+BK000220,Ananya Joshi,5.0,Male,Bus,Ranchi,Agra,2026-08-08,2026-09-21,658.41,2,Completed,Net Banking
+BK000221,Aditi Sharma,36.0,,Bus,Agra,Jaipur,2026-02-03,2026-04-25,1518.77,4,Completed,Card
+BK000222,Diya Joshi,59.0,Female,Train,Patna,Agra,2026-01-12,2026-02-12,2303.79,1,Confirmed,UPI
+BK000223,Meera Sharma,13.0,Male,Bus,Kanpur,Lucknow,2026-02-11,2026-04-10,1222.93,5,Completed,Card
+BK000224,Rohan Rao,38.0,Male,Train,Mumbai,Bhopal,2025-01-18,2025-04-12,765.57,5,Completed,Cash
+BK000225,Zoya Mishra,,,Bus,Mumbai,Bhopal,2025-07-08,2025-09-22,2196.45,3,Confirmed,Cash
+BK000226,Aarav Gupta,,Female,Train,Ranchi,Lucknow,2025-03-03,2025-04-10,590.05,4,Completed,Net Banking
+BK000227,Kabir Yadav,67.0,Male,Bus,Delhi,Kolkata,2026-09-20,2026-09-22,989.36,3,Completed,UPI
+BK000228,Zoya Joshi,46.0,Male,Bus,Kolkata,Jaipur,2026-06-26,2026-07-24,769.79,4,Completed,Wallet
+BK000229,Kavya Das,32.0,Other,Bus,Varanasi,Lucknow,2026-05-27,2026-07-04,1463.44,1,Completed,Card
+BK000230,Sana Sharma,57.0,Female,Train,Delhi,Ranchi,2026-06-03,2026-08-16,2833.21,4,Completed,UPI
+BK000231,Vihaan Mishra,77.0,Male,Train,Ranchi,Agra,2025-07-09,2025-10-03,1904.98,5,Completed,UPI
+BK000232,Neha Rao,75.0,Male,Bus,Kolkata,Varanasi,2026-01-10,2026-02-25,1789.75,2,Completed,Wallet
+BK000233,Sana Das,78.0,Female,Bus,Bhopal,Jaipur,2026-04-25,2026-07-05,1106.32,3,Completed,Card
+BK000234,Rohan Mishra,7.0,Other,Train,Patna,Delhi,2026-05-24,2026-08-19,1494.57,4,Completed,Net Banking
+BK000235,Sana Khan,20.0,Female,Train,Jaipur,Bhopal,2025-01-29,2025-03-23,3187.04,5,Completed,Card
+BK000236,Aditi Roy,22.0,Female,Bus,Agra,Patna,2025-06-29,2025-09-18,845.89,4,Completed,Cash
+BK000237,Kabir Singh,32.0,Female,Train,Jaipur,Prayagraj,2026-08-08,2026-09-20,1373.77,5,Cancelled,Net Banking
+BK000238,Sana Singh,69.0,Female,Bus,Lucknow,Varanasi,2026-07-05,2026-09-06,1271.97,1,Completed,Wallet
+BK000239,Diya Khan,25.0,Male,Bus,Bhopal,Agra,2025-11-28,2026-01-15,522.31,1,Completed,Card
+BK000240,Vihaan Sharma,46.0,Female,Train,Patna,Delhi,2025-03-09,2025-03-21,2359.79,3,Confirmed,Card
+BK000241,Ananya Yadav,60.0,Female,Train,Patna,Kanpur,2025-07-22,2025-08-30,2001.85,5,Completed,Net Banking
+BK000242,Vihaan Patel,46.0,Female,Bus,Prayagraj,Agra,2026-10-02,2026-11-29,1178.92,5,Completed,Wallet
+BK000243,Aarav Rao,56.0,Male,Train,Prayagraj,Patna,2025-02-04,2025-04-09,637.89,4,Completed,Cash
+BK000244,Kabir Roy,43.0,Male,Bus,Jaipur,Lucknow,2025-07-07,2025-08-20,1939.74,2,Completed,Card
+BK000245,Ananya Verma,28.0,Female,Bus,Patna,Kanpur,2026-04-21,2026-05-23,1779.21,1,Completed,Cash
+BK000246,Vihaan Rao,48.0,Male,Bus,Lucknow,Bhopal,2025-10-06,2025-11-17,1610.24,3,Completed,Card
+BK000247,Diya Singh,68.0,Female,Train,Delhi,Lucknow,2026-03-25,2026-04-23,1047.7,2,Completed,Net Banking
+BK000248,Vihaan Das,40.0,Female,Bus,Kanpur,Bhopal,2025-07-14,2025-09-26,1491.55,2,Completed,Wallet
+BK000249,Kabir Das,39.0,Female,Bus,Kanpur,Agra,2025-01-03,2025-02-19,781.56,5,Completed,UPI
+BK000250,Kabir Singh,65.0,Male,Bus,Bhopal,Varanasi,2025-10-05,2025-10-31,1738.33,1,Completed,
+BK000251,Aarav Das,22.0,Male,Bus,Lucknow,Kolkata,2025-01-11,2025-03-22,1016.99,5,Completed,Net Banking
+BK000252,Rohan Yadav,73.0,Female,Bus,Varanasi,Ranchi,2025-06-12,2025-07-06,2202.39,2,Cancelled,Cash
+BK000253,Sana Patel,71.0,Male,Train,Agra,Mumbai,2025-08-31,2025-09-27,1880.23,4,Completed,UPI
+BK000254,Ananya Roy,49.0,Male,Train,Jaipur,Prayagraj,2025-03-07,2025-05-11,1831.25,5,Confirmed,Cash
+BK000255,Aarav Joshi,22.0,Female,Train,Agra,Varanasi,2025-04-09,2025-06-08,698.5,2,Completed,Card
+BK000256,Rohan Das,25.0,Female,Train,Bhopal,Ranchi,2026-02-11,2026-05-02,640.17,4,Confirmed,Net Banking
+BK000257,Aarav Yadav,73.0,Male,Bus,Prayagraj,Varanasi,2025-11-18,2025-11-23,579.48,2,Completed,Wallet
+BK000258,Kavya Khan,38.0,Female,Bus,Ranchi,Delhi,2026-02-04,2026-04-03,1355.04,3,Completed,UPI
+BK000259,Sana Sharma,51.0,Male,Bus,Jaipur,Kolkata,2025-08-29,2025-09-04,1929.33,1,Completed,Cash
+BK000260,Vihaan Patel,51.0,Male,Train,Patna,Mumbai,2025-07-14,2025-08-02,977.46,3,Completed,Wallet
+BK000261,Ishaan Mishra,71.0,Female,Bus,Kolkata,Prayagraj,2025-11-15,2026-01-21,1321.05,5,Completed,Cash
+BK000262,Zoya Khan,57.0,Male,Bus,Varanasi,Kanpur,2025-07-29,2025-08-18,589.7,5,Cancelled,
+BK000263,Ananya Das,35.0,Female,Bus,Agra,Kolkata,2025-11-15,2025-11-16,915.66,5,Cancelled,Card
+BK000264,Meera Roy,45.0,Male,Bus,Agra,Jaipur,2026-08-13,2026-10-05,411.0,1,Completed,Cash
+BK000265,Neha Joshi,49.0,Female,Bus,Agra,Prayagraj,2026-07-22,2026-08-02,823.93,4,Confirmed,Net Banking
+BK000266,Vihaan Rao,58.0,Female,Train,Prayagraj,Agra,2026-04-28,2026-05-16,749.93,3,Pending,Net Banking
+BK000267,Zoya Singh,70.0,Female,Bus,Kolkata,Kanpur,2026-09-28,2026-11-18,433.39,1,Confirmed,Cash
+BK000268,Diya Khan,76.0,Female,Train,Jaipur,Kanpur,2025-05-14,2025-07-21,1527.22,5,Completed,Cash
+BK000269,Ishaan Khan,9.0,Female,Bus,Agra,Kolkata,2025-06-16,2025-08-11,1443.86,3,Completed,Wallet
+BK000270,Kabir Khan,75.0,Other,Bus,Ranchi,Varanasi,2025-12-11,2025-12-29,1358.6,2,Completed,Cash
+BK000271,Ananya Mishra,34.0,Male,Bus,Varanasi,Lucknow,2025-04-17,2025-07-09,1043.03,4,Confirmed,Cash
+BK000272,Kabir Verma,26.0,Female,Train,Kanpur,Bhopal,2025-01-09,2025-02-11,1427.72,5,Completed,Net Banking
+BK000273,Kavya Joshi,49.0,Male,Train,Ranchi,Kolkata,2026-03-28,2026-06-05,493.74,3,Completed,Cash
+BK000274,Kabir Roy,56.0,Female,Bus,Ranchi,Varanasi,2025-01-17,2025-02-20,1214.2,2,Cancelled,Net Banking
+BK000275,Meera Verma,73.0,Female,Bus,Kolkata,Varanasi,2026-07-13,2026-09-08,1446.79,5,Cancelled,Wallet
+BK000276,Aditi Khan,30.0,Female,Train,Lucknow,Ranchi,2026-01-22,2026-02-03,2888.62,3,Cancelled,Net Banking
+BK000277,Ananya Gupta,59.0,Female,Train,Lucknow,Prayagraj,2026-01-23,2026-03-04,628.88,2,Completed,Wallet
+BK000278,Kabir Mishra,34.0,Female,Train,Bhopal,Mumbai,2025-12-23,2025-12-24,1757.84,1,Completed,UPI
+BK000279,Neha Yadav,9.0,Female,Bus,Mumbai,Bhopal,2025-08-12,2025-09-19,904.61,4,Completed,Card
+BK000280,Meera Das,36.0,Female,Train,Patna,Mumbai,2025-05-11,2025-06-26,1327.94,4,Completed,Card
+BK000281,Kavya Roy,35.0,Female,Bus,Ranchi,Mumbai,2026-03-04,2026-03-11,688.53,3,Completed,Card
+BK000282,Ishaan Yadav,39.0,Male,Bus,Jaipur,Varanasi,2026-05-17,2026-06-07,1237.89,4,Completed,Card
+BK000283,Kabir Singh,59.0,Female,Train,Mumbai,Jaipur,2025-10-01,2025-12-05,3086.0,5,Completed,Cash
+BK000284,Zoya Sharma,59.0,Male,Bus,Delhi,Agra,2025-06-17,2025-07-20,1548.38,1,Confirmed,Wallet
+BK000285,Vihaan Sharma,43.0,Female,Bus,Lucknow,Mumbai,2025-04-15,2025-04-19,2008.73,4,Completed,Net Banking
+BK000286,Meera Gupta,51.0,Female,Bus,Delhi,Bhopal,2025-03-26,2025-06-17,970.13,2,Completed,Card
+BK000287,Kabir Verma,20.0,Female,Train,Kolkata,Jaipur,2025-01-26,2025-03-19,1556.66,2,Completed,Card
+BK000288,Neha Joshi,55.0,Female,Train,Agra,Kolkata,2026-05-29,2026-06-12,654.87,4,Confirmed,Cash
+BK000289,Diya Roy,61.0,Male,Bus,Varanasi,Agra,2025-01-14,2025-03-11,450.71,2,Cancelled,Wallet
+BK000290,Kavya Singh,74.0,Female,Train,Agra,Prayagraj,2025-06-18,2025-07-02,2531.6,2,Pending,UPI
+BK000291,Ananya Mishra,12.0,Female,Bus,Kanpur,Mumbai,2025-09-24,2025-11-07,2129.5,4,Completed,Net Banking
+BK000292,Kabir Mishra,63.0,Other,Bus,Kolkata,Prayagraj,2025-08-23,2025-11-18,416.39,5,Completed,UPI
+BK000293,Aditi Yadav,68.0,Male,Train,Delhi,Varanasi,2025-06-30,2025-09-19,978.15,4,Completed,UPI
+BK000294,Kabir Das,49.0,Female,Bus,Patna,Delhi,2025-05-26,2025-08-02,646.96,5,Confirmed,Wallet
+BK000295,Kavya Sharma,5.0,Female,Bus,Prayagraj,Mumbai,2025-02-15,2025-03-08,403.43,2,Completed,Net Banking
+BK000296,Sana Sharma,46.0,Male,Bus,Delhi,Prayagraj,2026-08-18,2026-09-12,474.17,5,Completed,Cash
+BK000297,Ishaan Khan,77.0,Female,Train,Kolkata,Varanasi,2025-01-07,2025-03-09,2406.3,5,Cancelled,Net Banking
+BK000298,Arjun Yadav,14.0,Female,Bus,Mumbai,Patna,2026-03-01,2026-04-20,1754.46,2,Completed,Card
+BK000299,Rohan Yadav,25.0,Male,Train,Jaipur,Bhopal,2025-06-20,2025-07-13,1846.6,2,Completed,Wallet
+BK000300,Rohan Joshi,28.0,Male,Train,Agra,Ranchi,2026-05-10,2026-07-04,851.81,3,Cancelled,UPI
+BK000301,Zoya Mishra,51.0,Male,Bus,Kanpur,Varanasi,2026-07-29,2026-08-27,1436.62,4,Pending,UPI
+BK000302,Ananya Verma,16.0,Male,Train,Bhopal,Varanasi,2026-09-16,2026-11-03,693.26,1,Completed,Card
+BK000303,Aditi Khan,15.0,Male,Train,Varanasi,Delhi,2025-10-30,2025-11-07,2290.25,1,Completed,Card
+BK000304,Meera Roy,9.0,Female,Train,Delhi,Patna,2026-01-11,2026-02-05,2155.83,4,Completed,Cash
+BK000305,Ishaan Joshi,36.0,Female,Train,Varanasi,Prayagraj,2025-08-08,2025-09-12,991.13,5,Completed,Net Banking
+BK000306,Ananya Yadav,73.0,Female,Bus,Lucknow,Prayagraj,2025-12-26,2026-02-03,1037.64,3,Completed,Net Banking
+BK000307,Kavya Gupta,73.0,Male,Bus,Prayagraj,Bhopal,2025-02-14,2025-03-01,2220.54,1,Pending,Cash
+BK000308,Neha Singh,76.0,Male,Bus,Patna,Kolkata,2026-03-02,2026-03-30,927.48,4,Cancelled,Card
+BK000309,Ananya Joshi,33.0,Female,Train,Prayagraj,Jaipur,2026-02-23,2026-04-13,527.25,2,Completed,Cash
+BK000310,Sana Patel,60.0,Female,Bus,Delhi,Ranchi,2026-01-12,2026-03-25,569.66,3,Confirmed,Cash
+BK000311,Neha Verma,39.0,Male,Bus,Prayagraj,Bhopal,2026-01-03,2026-01-31,1118.67,5,Cancelled,UPI
+BK000312,Diya Gupta,54.0,Male,Bus,Agra,Prayagraj,2025-03-27,2025-06-25,762.36,1,Completed,Card
+BK000313,Kabir Sharma,8.0,Female,Bus,Mumbai,Kolkata,2026-02-10,2026-04-16,2005.99,4,Completed,Wallet
+BK000314,Rohan Singh,38.0,Male,Train,Mumbai,Bhopal,2026-06-20,2026-07-23,2191.76,2,Completed,Net Banking
+BK000315,Zoya Rao,18.0,Male,Train,Delhi,Jaipur,2026-09-05,2026-09-17,1611.96,3,Pending,Net Banking
+BK000316,Ananya Das,12.0,Female,Bus,Kanpur,Kolkata,2026-08-23,2026-10-17,1186.01,2,Completed,Card
+BK000317,Ishaan Mishra,28.0,Female,Train,Bhopal,Jaipur,2026-06-22,2026-08-22,1290.83,1,Completed,Card
+BK000318,Aditi Singh,45.0,Female,Bus,Kanpur,Ranchi,2026-08-10,2026-09-15,2369.81,5,Confirmed,Wallet
+BK000319,Meera Mishra,11.0,Female,Bus,Kanpur,Patna,2026-06-09,2026-07-29,2232.52,4,Completed,Cash
+BK000320,Aditi Rao,45.0,Female,Train,Agra,Kolkata,2025-12-17,2026-03-17,2528.48,2,Completed,Cash
+BK000321,Sana Das,68.0,Female,Bus,Kolkata,Agra,2026-04-27,2026-05-13,1558.71,3,Completed,UPI
+BK000322,Ananya Joshi,16.0,Male,Bus,Delhi,Agra,2025-03-10,2025-04-01,440.54,5,Completed,Cash
+BK000323,Aditi Yadav,42.0,Male,Train,Prayagraj,Lucknow,2025-01-12,2025-02-27,2495.52,5,Completed,Cash
+BK000324,Sana Sharma,24.0,Other,Train,Bhopal,Patna,2026-07-31,2026-08-21,2612.82,1,Confirmed,Card
+BK000325,Ananya Verma,65.0,Female,Bus,Ranchi,Delhi,2026-01-17,2026-03-08,1088.54,2,Cancelled,Net Banking
+BK000326,Sana Verma,51.0,,Bus,Agra,Kolkata,2025-06-24,2025-09-18,2262.27,5,Cancelled,Net Banking
+BK000327,Rohan Patel,17.0,Female,Train,Jaipur,Prayagraj,2025-01-31,2025-02-24,2424.17,1,Cancelled,Net Banking
+BK000328,Zoya Verma,14.0,Female,Train,Patna,Lucknow,2025-06-01,2025-06-26,1650.54,5,Completed,Wallet
+BK000329,Aarav Singh,80.0,Male,Bus,Delhi,Patna,2026-02-11,2026-04-24,314.63,3,Completed,UPI
+BK000330,Diya Rao,18.0,Male,Bus,Agra,Bhopal,2026-01-26,2026-04-06,841.77,5,Completed,Wallet
+BK000331,Ananya Patel,60.0,Male,Bus,Ranchi,Mumbai,2026-06-27,2026-08-08,1609.37,3,Completed,Card
+BK000332,Meera Mishra,24.0,Male,Bus,Prayagraj,Bhopal,2026-06-06,2026-07-26,1502.46,3,Completed,UPI
+BK000333,Zoya Rao,38.0,Female,Bus,Kolkata,Prayagraj,2026-04-18,2026-06-14,816.44,3,Completed,UPI
+BK000334,Zoya Rao,24.0,Female,Bus,Mumbai,Patna,2026-09-28,2026-12-01,1848.75,1,Completed,Card
+BK000335,Sana Roy,72.0,Male,Bus,Kolkata,Varanasi,2026-02-13,2026-05-13,1693.57,2,Cancelled,Net Banking
+BK000336,Kabir Roy,24.0,Female,Train,Patna,Kolkata,2026-05-03,2026-07-30,2551.04,5,Cancelled,Net Banking
+BK000337,Sana Gupta,62.0,Female,Train,Mumbai,Kanpur,2026-09-23,2026-11-16,1555.94,5,Completed,Net Banking
+BK000338,Arjun Mishra,28.0,Male,Bus,Kanpur,Varanasi,2025-03-20,2025-06-05,942.99,5,Completed,Wallet
+BK000339,Vihaan Yadav,49.0,Male,Bus,Agra,Jaipur,2026-07-13,2026-09-14,1366.52,3,Completed,Net Banking
+BK000340,Kabir Sharma,71.0,Female,Train,Bhopal,Kanpur,2026-05-25,2026-07-13,1357.53,4,Completed,Card
+BK000341,Neha Joshi,78.0,Male,Train,Patna,Lucknow,2026-07-05,2026-07-28,1737.82,2,Cancelled,Card
+BK000342,Ananya Khan,63.0,Female,Bus,Varanasi,Kanpur,2026-03-05,2026-05-24,1603.43,2,Completed,Card
+BK000343,Ishaan Das,56.0,Male,Bus,Jaipur,Varanasi,2025-12-07,2025-12-30,867.45,3,Completed,Card
+BK000344,Sana Das,79.0,Female,Train,Agra,Jaipur,2025-01-21,2025-02-16,1352.87,2,Confirmed,UPI
+BK000345,Kabir Joshi,36.0,Female,Bus,Patna,Agra,2025-11-21,2025-11-22,379.96,2,Completed,Card
+BK000346,Kavya Joshi,66.0,Female,Train,Prayagraj,Ranchi,2026-02-20,2026-04-12,904.58,2,Completed,Net Banking
+BK000347,Sana Mishra,22.0,Female,Bus,Agra,Ranchi,2025-11-08,2025-11-14,1122.73,5,Completed,UPI
+BK000348,Kabir Khan,6.0,Female,Train,Kolkata,Delhi,2026-04-15,2026-05-02,963.23,3,Completed,Wallet
+BK000349,Kabir Rao,37.0,Male,Train,Patna,Ranchi,2025-05-03,2025-07-20,1524.48,4,Completed,UPI
+BK000350,Ananya Patel,46.0,Male,Train,Patna,Jaipur,2025-05-23,2025-06-21,1450.13,5,Cancelled,Net Banking
+BK000351,Rohan Yadav,47.0,Male,Bus,Prayagraj,Lucknow,2026-07-13,2026-08-30,915.05,1,Completed,UPI
+BK000352,Aarav Singh,52.0,Male,Bus,Delhi,Kolkata,2025-06-25,2025-08-09,395.51,3,Completed,UPI
+BK000353,Aditi Rao,45.0,Female,Bus,Mumbai,Jaipur,2025-09-18,2025-10-10,1270.87,4,Completed,Cash
+BK000354,Kabir Joshi,23.0,Male,Train,Agra,Delhi,2025-10-03,2025-10-12,2384.07,5,Completed,Net Banking
+BK000355,Ananya Gupta,33.0,Female,Bus,Bhopal,Patna,2026-03-19,2026-06-15,1332.71,1,Confirmed,Card
+BK000356,Diya Verma,44.0,Male,Bus,Mumbai,Patna,2025-11-19,2026-02-04,824.48,2,Completed,Card
+BK000357,Vihaan Das,79.0,Male,Bus,Prayagraj,Agra,2026-09-27,2026-11-20,863.31,4,Completed,Cash
+BK000358,Meera Verma,9.0,Female,Train,Lucknow,Kanpur,2025-07-17,2025-09-19,1189.88,2,Completed,Card
+BK000359,Neha Rao,80.0,Female,Bus,Kanpur,Mumbai,2025-07-10,2025-07-19,488.4,2,Completed,Cash
+BK000360,Aarav Singh,67.0,Male,Bus,Mumbai,Lucknow,2025-05-20,2025-06-19,823.27,1,Completed,Cash
+BK000361,Arjun Yadav,19.0,Female,Train,Patna,Kolkata,2026-06-01,2026-08-07,676.49,5,Confirmed,Net Banking
+BK000362,Kavya Rao,40.0,Female,Train,Kanpur,Lucknow,2026-01-22,2026-03-15,2905.31,2,Completed,UPI
+BK000363,Zoya Sharma,19.0,Male,Bus,Ranchi,Agra,2025-09-13,2025-09-21,1099.3,4,Confirmed,UPI
+BK000364,Arjun Patel,43.0,Male,Train,Prayagraj,Delhi,2025-01-20,2025-03-25,2484.86,1,Completed,Wallet
+BK000365,Neha Yadav,80.0,Female,Bus,Jaipur,Varanasi,2025-03-04,2025-03-11,776.2,1,Completed,Card
+BK000366,Aditi Das,25.0,Female,Bus,Kanpur,Ranchi,2026-04-12,2026-04-23,1034.05,5,Completed,UPI
+BK000367,Neha Verma,73.0,Female,Bus,Varanasi,Prayagraj,2026-01-22,2026-02-21,731.34,2,Completed,Net Banking
+BK000368,Rohan Roy,15.0,Female,Bus,Delhi,Kanpur,2025-06-21,2025-07-13,2173.94,1,Completed,Net Banking
+BK000369,Zoya Yadav,71.0,Male,Train,Lucknow,Delhi,2026-06-30,2026-08-09,1043.06,2,Completed,UPI
+BK000370,Vihaan Verma,74.0,Male,Train,Lucknow,Kanpur,2025-05-26,2025-07-13,2409.76,4,Cancelled,Cash
+BK000371,Aarav Das,58.0,Female,Train,Jaipur,Kolkata,2025-03-18,2025-04-24,1334.02,5,Cancelled,UPI
+BK000372,Aditi Sharma,33.0,Male,Bus,Jaipur,Delhi,2025-01-03,2025-03-01,1006.15,2,Completed,UPI
+BK000373,Zoya Singh,36.0,Male,Bus,Jaipur,Bhopal,2026-04-16,2026-07-13,587.25,2,Confirmed,Wallet
+BK000374,Vihaan Yadav,8.0,Female,Train,Delhi,Jaipur,2025-05-20,2025-07-10,2018.71,1,Completed,Net Banking
+BK000375,Kabir Khan,17.0,Male,Train,Varanasi,Mumbai,2026-02-21,2026-04-07,2728.22,1,Completed,Cash
+BK000376,Ishaan Rao,69.0,Male,Bus,Delhi,Kanpur,2025-07-11,2025-09-20,1505.9,1,Completed,Cash
+BK000377,Neha Khan,8.0,Female,Train,Agra,Jaipur,2025-05-18,2025-06-10,2660.7,3,Completed,UPI
+BK000378,Meera Joshi,37.0,Male,Train,Varanasi,Delhi,2026-03-21,2026-05-06,1426.66,5,Completed,Card
+BK000379,Rohan Sharma,71.0,Male,Train,Jaipur,Kolkata,2026-05-11,2026-07-13,2519.54,3,Completed,UPI
+BK000380,Sana Gupta,58.0,Female,Train,Kanpur,Ranchi,2025-06-26,2025-07-31,1215.87,4,Confirmed,Cash
+BK000381,Rohan Patel,76.0,Female,Train,Agra,Lucknow,2025-07-18,2025-08-26,820.28,3,Completed,Cash
+BK000382,Ishaan Das,50.0,Female,Train,Prayagraj,Lucknow,2026-03-28,2026-04-20,2614.65,3,Completed,Net Banking
+BK000383,Vihaan Joshi,11.0,Male,Train,Lucknow,Prayagraj,2025-02-16,2025-03-31,1554.43,4,Pending,Net Banking
+BK000384,Kabir Verma,35.0,Female,Train,Patna,Varanasi,2026-07-04,2026-09-18,1773.88,3,Completed,Net Banking
+BK000385,Sana Patel,80.0,Male,Bus,Agra,Prayagraj,2025-06-17,2025-07-07,818.48,2,Pending,UPI
+BK000386,Ananya Rao,74.0,Male,Train,Delhi,Varanasi,2026-06-24,2026-06-27,2949.01,4,Completed,Card
+BK000387,Aarav Sharma,54.0,Female,Bus,Mumbai,Ranchi,2025-11-14,2025-12-27,584.14,5,Completed,Net Banking
+BK000388,Arjun Rao,27.0,Female,Bus,Bhopal,Agra,2026-06-18,2026-08-24,819.4,2,Cancelled,UPI
+BK000389,Kavya Joshi,34.0,Female,Train,Prayagraj,Bhopal,2026-08-19,2026-11-12,2316.77,5,Completed,Card
+BK000390,Sana Patel,27.0,Female,Train,Kolkata,Ranchi,2025-12-28,2026-01-29,703.58,3,Completed,Cash
+BK000391,Diya Patel,7.0,Female,Train,Agra,Ranchi,2026-05-27,2026-06-27,1851.45,1,Confirmed,Net Banking
+BK000392,Rohan Patel,72.0,Female,Train,Bhopal,Patna,2025-08-26,2025-09-08,515.3,4,Completed,UPI
+BK000393,Rohan Rao,31.0,Female,Bus,Mumbai,Lucknow,2026-02-28,2026-03-05,1722.43,1,Completed,Net Banking
+BK000394,Sana Singh,47.0,Male,Train,Lucknow,Varanasi,2025-09-06,2025-09-22,2310.58,2,Cancelled,Card
+BK000395,Aarav Verma,18.0,Male,Train,Bhopal,Jaipur,2025-01-28,2025-01-29,558.13,5,Confirmed,Card
+BK000396,Sana Das,32.0,Male,Train,Kolkata,Jaipur,2025-02-26,2025-04-23,2297.04,3,Completed,Cash
+BK000397,Sana Joshi,36.0,Female,Train,Kolkata,Varanasi,2025-11-07,2026-02-04,1454.99,4,Confirmed,Card
+BK000398,Sana Patel,64.0,Female,Train,Patna,Delhi,2025-05-13,2025-07-30,1120.02,5,Completed,Cash
+BK000399,Vihaan Gupta,57.0,Male,Train,Jaipur,Kolkata,2025-10-06,2025-11-15,1061.71,3,Completed,Net Banking
+BK000400,Kabir Roy,20.0,Male,Bus,Kanpur,Ranchi,2026-07-30,2026-09-30,2071.51,1,Completed,Card
+BK000401,Zoya Roy,78.0,Male,Bus,Bhopal,Prayagraj,2025-07-14,2025-09-29,719.8,5,Completed,UPI
+BK000402,Aarav Yadav,73.0,Male,Train,Kanpur,Kolkata,2026-09-19,2026-12-09,1845.96,1,Completed,UPI
+BK000403,Vihaan Rao,28.0,Male,Bus,Delhi,Agra,2026-07-16,2026-10-11,409.86,4,Completed,UPI
+BK000404,Kavya Mishra,40.0,Male,Train,Bhopal,Agra,2025-09-15,2025-09-29,899.76,1,Completed,Net Banking
+BK000405,Diya Roy,79.0,Male,Bus,Varanasi,Kolkata,2025-01-12,2025-03-13,545.29,2,Completed,Cash
+BK000406,Kabir Joshi,61.0,Male,Bus,Kanpur,Delhi,2025-02-08,2025-05-07,546.21,4,Completed,Net Banking
+BK000407,Kavya Das,44.0,Male,Bus,Kolkata,Patna,2026-06-14,2026-08-30,1195.5,5,Completed,Cash
+BK000408,Aditi Singh,41.0,Male,Bus,Kanpur,Agra,2026-07-14,2026-08-07,642.77,5,Completed,UPI
+BK000409,Ishaan Joshi,21.0,Male,Train,Bhopal,Patna,2025-10-15,2025-12-24,1467.14,2,Completed,UPI
+BK000410,Sana Roy,57.0,Female,Bus,Ranchi,Bhopal,2026-04-04,2026-06-18,682.08,2,Cancelled,UPI
+BK000411,Sana Joshi,16.0,Male,Train,Kanpur,Lucknow,2025-09-01,2025-11-28,1407.75,3,Completed,Card
+BK000412,Arjun Mishra,48.0,Male,Bus,Kanpur,Patna,2025-01-07,2025-03-05,1560.81,2,Confirmed,Cash
+BK000413,Diya Rao,31.0,Male,Bus,Jaipur,Mumbai,2026-04-16,2026-04-17,939.8,2,Completed,Net Banking
+BK000414,Rohan Patel,70.0,Male,Bus,Jaipur,Prayagraj,2026-06-30,2026-09-02,1157.39,2,Confirmed,UPI
+BK000415,Kavya Verma,10.0,Male,Bus,Varanasi,Jaipur,2026-05-02,2026-06-10,821.38,1,Completed,Net Banking
+BK000416,Ishaan Joshi,31.0,Male,Bus,Agra,Kanpur,2025-08-26,2025-10-13,1453.12,3,Completed,UPI
+BK000417,Rohan Mishra,30.0,Male,Bus,Mumbai,Lucknow,2025-02-18,2025-03-17,559.31,4,Confirmed,Wallet
+BK000418,Diya Patel,23.0,Male,Train,Bhopal,Patna,2025-07-13,2025-08-29,1444.48,3,Completed,Cash
+BK000419,Kabir Yadav,27.0,Female,Bus,Bhopal,Prayagraj,2025-09-05,2025-10-04,1354.19,3,Completed,Card
+BK000420,Kabir Das,42.0,Female,Train,Mumbai,Varanasi,2026-04-18,2026-05-11,1933.96,4,Completed,Card
+BK000421,Aarav Patel,21.0,Female,Train,Agra,Mumbai,2025-09-14,2025-11-04,1367.46,2,Pending,Card
+BK000422,Kabir Singh,71.0,Male,Train,Mumbai,Kolkata,2026-06-15,2026-06-25,2293.22,2,Completed,Card
+BK000423,Ishaan Sharma,67.0,Male,Bus,Delhi,Bhopal,2026-06-09,2026-08-15,2088.3,3,Completed,Wallet
+BK000424,Arjun Roy,30.0,Male,Bus,Kanpur,Prayagraj,2025-02-13,2025-02-18,1328.73,3,Completed,UPI
+BK000425,Vihaan Patel,18.0,Male,Train,Mumbai,Agra,2025-11-10,2025-11-13,3284.71,4,Completed,Wallet
+BK000426,Neha Rao,19.0,Other,Bus,Prayagraj,Agra,2026-03-10,2026-05-27,1746.16,4,Completed,Card
+BK000427,Aditi Joshi,30.0,Female,Bus,Agra,Lucknow,2025-12-30,2026-02-27,2238.29,5,Pending,Card
+BK000428,Rohan Verma,66.0,Male,Train,Prayagraj,Mumbai,2025-09-28,2025-11-13,569.54,2,Cancelled,Cash
+BK000429,Aarav Joshi,25.0,Male,Train,Agra,Jaipur,2025-02-02,2025-02-04,1772.66,5,Completed,Cash
+BK000430,Kabir Joshi,55.0,Male,Bus,Jaipur,Agra,2025-01-03,2025-03-14,1346.27,2,Completed,Wallet
+BK000431,Arjun Khan,62.0,Male,Bus,Delhi,Kolkata,2025-03-30,2025-04-10,694.47,4,Completed,Cash
+BK000432,Zoya Joshi,7.0,Male,Bus,Prayagraj,Delhi,2025-06-14,2025-07-02,1947.46,1,Confirmed,Card
+BK000433,Kavya Joshi,9.0,Male,Bus,Lucknow,Mumbai,2025-01-20,2025-02-23,1288.22,4,Completed,UPI
+BK000434,Sana Rao,20.0,Male,Bus,Lucknow,Kolkata,2025-12-31,2026-01-02,1628.89,5,Confirmed,Cash
+BK000435,Arjun Verma,35.0,Male,Bus,Ranchi,Jaipur,2025-06-03,2025-06-26,999.01,1,Completed,Net Banking
+BK000436,Aditi Mishra,11.0,Male,Train,Varanasi,Patna,2026-08-20,2026-08-25,754.79,1,Completed,Card
+BK000437,Sana Gupta,37.0,Female,Train,Patna,Kolkata,2026-06-27,2026-07-31,474.74,5,Completed,Net Banking
+BK000438,Ishaan Mishra,68.0,Female,Bus,Jaipur,Mumbai,2025-06-05,2025-06-30,1387.0,1,Cancelled,UPI
+BK000439,Arjun Verma,12.0,Male,Train,Agra,Patna,2025-01-02,2025-01-24,2106.78,5,Confirmed,Wallet
+BK000440,Ananya Gupta,63.0,Female,Train,Ranchi,Prayagraj,2025-10-19,2025-12-02,1765.32,3,Completed,Card
+BK000441,Ishaan Verma,25.0,Female,Train,Agra,Mumbai,2025-02-18,2025-03-29,1124.68,3,Completed,Card
+BK000442,Kabir Yadav,5.0,Female,Bus,Lucknow,Jaipur,2026-02-28,2026-05-23,1577.65,2,Completed,Wallet
+BK000443,Aditi Yadav,49.0,Female,Train,Kolkata,Delhi,2026-03-22,2026-05-30,2002.96,5,Cancelled,Cash
+BK000444,Aarav Joshi,32.0,Female,Bus,Kanpur,Jaipur,2026-05-10,2026-05-22,1633.92,5,Completed,Card
+BK000445,Ishaan Sharma,35.0,Male,Train,Agra,Patna,2025-09-23,2025-12-03,871.81,5,Cancelled,Card
+BK000446,Diya Roy,77.0,Other,Train,Ranchi,Delhi,2026-05-09,2026-07-13,1840.02,1,Completed,Card
+BK000447,Zoya Verma,58.0,Male,Train,Mumbai,Varanasi,2026-08-25,2026-10-18,1898.81,1,Completed,Cash
+BK000448,Zoya Gupta,69.0,Male,Bus,Varanasi,Ranchi,2026-09-18,2026-11-11,1233.02,3,Completed,Card
+BK000449,Rohan Verma,11.0,Male,Train,Delhi,Lucknow,2026-08-17,2026-11-06,1368.22,4,Completed,UPI
+BK000450,Neha Sharma,60.0,Male,Train,Agra,Varanasi,2026-08-05,2026-11-03,1360.22,3,Completed,UPI
+BK000451,Ananya Sharma,75.0,Other,Bus,Patna,Kolkata,2025-06-29,2025-07-03,1211.93,5,Completed,Cash
+BK000452,Vihaan Sharma,79.0,Female,Train,Ranchi,Delhi,2025-08-02,2025-08-29,841.07,2,Completed,Card
+BK000453,Arjun Rao,54.0,Male,Bus,Ranchi,Agra,2026-07-23,2026-10-01,1149.38,4,Completed,Cash
+BK000454,Kavya Rao,52.0,Male,Bus,Jaipur,Mumbai,2026-04-20,2026-07-15,1138.4,1,Completed,Wallet
+BK000455,Kabir Sharma,23.0,Male,Bus,Kolkata,Kanpur,2026-05-02,2026-06-21,852.11,4,Confirmed,Cash
+BK000456,Arjun Joshi,71.0,Female,Train,Agra,Mumbai,2026-02-17,2026-02-18,1518.59,3,Completed,UPI
+BK000457,Aditi Khan,75.0,Male,Train,Ranchi,Patna,2026-05-14,2026-05-29,1213.48,5,Completed,Cash
+BK000458,Sana Patel,25.0,Female,Bus,Lucknow,Kanpur,2026-02-13,2026-03-09,769.48,4,Completed,Wallet
+BK000459,Ishaan Roy,25.0,Female,Bus,Prayagraj,Agra,2025-11-02,2025-12-11,1527.45,5,Cancelled,Wallet
+BK000460,Aditi Joshi,49.0,Male,Train,Jaipur,Varanasi,2025-01-31,2025-03-20,1101.25,4,Pending,UPI
+BK000461,Ishaan Joshi,70.0,Male,Bus,Ranchi,Kolkata,2026-10-04,2026-12-07,1015.82,5,Completed,Card
+BK000462,Ishaan Joshi,60.0,Male,Bus,Kolkata,Kanpur,2025-08-05,2025-10-28,466.82,4,Completed,Cash
+BK000463,Zoya Patel,66.0,Female,Bus,Bhopal,Ranchi,2026-02-11,2026-03-03,1055.53,3,Completed,Wallet
+BK000464,Diya Roy,76.0,Female,Bus,Kolkata,Kanpur,2025-01-04,2025-01-23,1319.32,3,Confirmed,UPI
+BK000465,,76.0,Female,Bus,Kanpur,Delhi,2025-02-12,2025-04-02,1071.96,2,Completed,Wallet
+BK000466,Vihaan Joshi,31.0,Male,Train,Bhopal,Agra,2025-09-14,2025-12-02,1843.14,5,Completed,Cash
+BK000467,Neha Singh,14.0,Male,Train,Varanasi,Mumbai,2025-05-08,2025-05-23,1944.08,2,Pending,UPI
+BK000468,Neha Rao,10.0,Female,Train,Varanasi,Bhopal,2025-01-22,2025-01-27,1308.59,2,Completed,Cash
+BK000469,Ananya Roy,66.0,Male,Train,Lucknow,Varanasi,2025-04-13,2025-07-03,2230.78,2,Cancelled,Wallet
+BK000470,Ananya Rao,74.0,Other,Train,Bhopal,Patna,2025-02-26,2025-03-27,1550.56,4,Confirmed,Cash
+BK000471,Meera Rao,52.0,Male,Train,Jaipur,Delhi,2026-02-22,2026-03-13,1728.66,1,Completed,Card
+BK000472,Zoya Das,69.0,Male,Bus,Mumbai,Prayagraj,2025-01-28,2025-03-11,1396.24,1,Completed,Wallet
+BK000473,Diya Yadav,70.0,Female,Train,Mumbai,Lucknow,2026-09-20,2026-10-01,1367.38,5,Completed,Wallet
+BK000474,Aditi Singh,34.0,Female,Train,Delhi,Ranchi,2025-11-10,2026-01-16,2753.6,4,Confirmed,Cash
+BK000475,Rohan Roy,41.0,Male,Bus,Varanasi,Delhi,2026-06-27,2026-07-09,1004.25,4,Completed,Net Banking
+BK000476,Zoya Sharma,34.0,Female,Train,Ranchi,Bhopal,2025-05-18,2025-06-23,1267.94,2,Completed,Card
+BK000477,Arjun Roy,46.0,Male,Bus,Jaipur,Prayagraj,2026-01-13,2026-02-23,407.48,2,Completed,Card
+BK000478,Kabir Khan,10.0,Female,Train,Agra,Bhopal,2025-02-08,2025-03-16,1208.66,3,Confirmed,Net Banking
+BK000479,Aarav Sharma,9.0,Male,Bus,Lucknow,Agra,2025-09-14,2025-11-06,542.5,3,Completed,UPI
+BK000480,Ananya Sharma,38.0,Male,Bus,Ranchi,Prayagraj,2025-05-14,2025-05-20,422.87,2,Completed,Card
+BK000481,Rohan Joshi,57.0,Female,Bus,Delhi,Jaipur,2026-05-27,2026-08-25,1230.77,4,Completed,Wallet
+BK000482,Arjun Joshi,19.0,Female,Bus,Prayagraj,Jaipur,2025-06-20,2025-07-18,1383.37,1,Pending,Wallet
+BK000483,Vihaan Verma,17.0,Female,Bus,Prayagraj,Mumbai,2025-10-12,2025-11-30,1002.66,2,Completed,Wallet
+BK000484,Vihaan Joshi,11.0,Male,Train,Lucknow,Prayagraj,2026-01-19,2026-03-28,2786.13,4,Confirmed,Wallet
+BK000485,Neha Rao,14.0,Male,Train,Agra,Bhopal,2026-06-18,2026-08-18,2192.94,2,Completed,Net Banking
+BK000486,Arjun Khan,7.0,Female,Train,Jaipur,Lucknow,2025-04-18,2025-06-11,2657.1,3,Completed,UPI
+BK000487,Aditi Verma,63.0,Female,Train,Delhi,Patna,2025-11-02,2026-01-02,826.16,4,Completed,Card
+BK000488,Vihaan Joshi,14.0,Male,Train,Bhopal,Mumbai,2025-12-07,2026-03-01,1374.25,1,Cancelled,Wallet
+BK000489,Kabir Yadav,59.0,Other,Train,Jaipur,Varanasi,2025-01-10,2025-04-09,655.23,2,Completed,Cash
+BK000490,Rohan Yadav,11.0,Female,Train,Varanasi,Kolkata,2026-01-09,2026-01-20,633.71,2,Completed,Cash
+BK000491,Ishaan Rao,17.0,Female,Bus,Lucknow,Patna,2026-01-06,2026-01-31,912.87,1,Completed,Net Banking
+BK000492,,70.0,Male,Bus,Agra,Patna,2026-10-05,2026-10-06,1086.63,5,Completed,Card
+BK000493,Ishaan Patel,24.0,Female,Bus,Lucknow,Kanpur,2025-01-03,2025-01-21,1266.6,1,Completed,UPI
+BK000494,Vihaan Rao,72.0,Female,Bus,Patna,Ranchi,2026-05-30,2026-07-21,1148.98,4,Completed,Wallet
+BK000495,Ishaan Yadav,64.0,Male,Train,Delhi,Bhopal,2025-02-16,2025-03-03,1012.26,4,Cancelled,Net Banking
+BK000496,Kabir Verma,74.0,Female,Bus,Lucknow,Agra,2026-05-30,2026-08-23,1238.35,2,Completed,Net Banking
+BK000497,Aditi Rao,42.0,Female,Train,Ranchi,Jaipur,2025-07-21,2025-08-13,2226.44,5,Confirmed,UPI
+BK000498,Kabir Joshi,28.0,Male,Train,Prayagraj,Ranchi,2026-01-06,2026-02-21,3396.19,5,Completed,Cash
+BK000499,Aarav Singh,57.0,Male,Train,Mumbai,Lucknow,2025-05-21,2025-05-26,1890.29,4,Pending,Net Banking
+BK000500,Aditi Khan,44.0,Female,Bus,Delhi,Varanasi,2025-03-24,2025-06-18,1655.1,1,Completed,Net Banking
+BK000501,Meera Verma,29.0,Male,Train,Agra,Mumbai,2025-08-02,2025-09-16,1625.26,1,Completed,UPI
+BK000502,Ananya Gupta,29.0,Female,Bus,Mumbai,Ranchi,2025-06-02,2025-07-17,2204.07,2,Completed,Net Banking
+BK000503,Aditi Sharma,22.0,Male,Train,Varanasi,Lucknow,2025-03-14,2025-03-25,1623.24,3,Completed,Cash
+BK000504,Aditi Das,72.0,Male,Bus,Agra,Lucknow,2026-10-06,2026-12-28,1548.35,1,Completed,Wallet
+BK000505,Sana Roy,62.0,Female,Bus,Agra,Mumbai,2025-03-10,2025-04-28,1847.93,2,Completed,Net Banking
+BK000506,Rohan Mishra,42.0,Male,Bus,Kanpur,Varanasi,2025-01-14,2025-01-22,1825.23,3,Completed,Net Banking
+BK000507,Aarav Patel,33.0,Male,Train,Lucknow,Mumbai,2026-06-15,2026-08-16,2532.95,1,Pending,UPI
+BK000508,Neha Sharma,71.0,Male,Bus,Ranchi,Prayagraj,2025-09-30,2025-10-07,1378.2,1,Completed,UPI
+BK000509,Meera Rao,70.0,Male,Bus,Lucknow,Ranchi,2026-07-23,2026-10-02,1022.57,3,Completed,Wallet
+BK000510,Aditi Verma,17.0,Male,Bus,Bhopal,Ranchi,2026-01-25,2026-03-15,705.41,5,Completed,Wallet
+BK000511,Zoya Yadav,66.0,Female,Bus,Patna,Varanasi,2026-06-17,2026-08-30,834.5,4,Completed,UPI
+BK000512,Aditi Patel,7.0,Male,Train,Patna,Kolkata,2025-01-28,2025-03-31,1808.55,1,Completed,Wallet
+BK000513,Sana Sharma,17.0,Female,Train,Jaipur,Bhopal,2025-06-16,2025-08-18,1965.49,4,Completed,UPI
+BK000514,Aarav Roy,49.0,Female,Bus,Agra,Prayagraj,2026-10-05,2026-11-06,1117.49,2,Completed,Net Banking
+BK000515,Ishaan Yadav,65.0,Female,Train,Lucknow,Kolkata,2026-09-17,2026-10-14,2389.19,1,Cancelled,Wallet
+BK000516,Arjun Khan,43.0,Female,Bus,Mumbai,Jaipur,2026-01-30,2026-04-07,1746.67,4,Completed,Cash
+BK000517,Meera Sharma,17.0,Female,Bus,Mumbai,Patna,2026-06-23,2026-07-26,1337.03,5,Completed,Net Banking
+BK000518,Rohan Verma,24.0,Female,Train,Varanasi,Kanpur,2025-07-31,2025-10-15,2724.7,5,Completed,Card
+BK000519,Ishaan Rao,70.0,Male,Train,Kolkata,Varanasi,2025-07-28,2025-09-18,452.71,2,Completed,UPI
+BK000520,Kabir Roy,39.0,Female,Bus,Lucknow,Varanasi,2025-08-21,2025-08-26,552.62,3,Completed,Card
+BK000521,Kavya Joshi,35.0,Female,Train,Jaipur,Varanasi,2025-12-07,2026-01-02,3330.66,5,Completed,Wallet
+BK000522,Aditi Mishra,57.0,Male,Train,Agra,Varanasi,2026-10-04,2026-11-05,3101.91,5,Completed,Card
+BK000523,Meera Mishra,48.0,Male,Train,Patna,Delhi,2026-02-03,2026-05-01,949.96,1,Cancelled,Card
+BK000524,Aarav Khan,61.0,Male,Bus,Delhi,Jaipur,2026-09-26,2026-10-26,497.87,1,Completed,Card
+BK000525,Arjun Das,34.0,Male,Bus,Delhi,Jaipur,2026-03-31,2026-05-23,1058.07,2,Completed,Card
+BK000526,Sana Singh,80.0,Male,Train,Ranchi,Agra,2026-02-01,2026-03-29,2069.35,1,Completed,Cash
+BK000527,Ishaan Patel,54.0,Male,Bus,Bhopal,Ranchi,2026-03-10,2026-05-20,526.24,1,Completed,Card
+BK000528,Zoya Verma,48.0,Female,Bus,Kanpur,Agra,2025-03-15,2025-04-17,508.09,2,Completed,UPI
+BK000529,Aditi Rao,14.0,Male,Train,Prayagraj,Jaipur,2025-08-13,2025-10-22,2094.51,1,Completed,Cash
+BK000530,Diya Singh,60.0,Male,Bus,Delhi,Jaipur,2026-09-22,2026-11-22,1390.34,2,Completed,Cash
+BK000531,Arjun Singh,48.0,Male,Train,Delhi,Jaipur,2026-04-14,2026-07-13,1798.64,2,Pending,Net Banking
+BK000532,Kavya Mishra,36.0,Female,Train,Agra,Prayagraj,2025-12-09,2026-02-05,1788.54,2,Cancelled,Cash
+BK000533,Aarav Yadav,7.0,Male,Train,Mumbai,Lucknow,2025-01-19,2025-03-05,1920.83,2,Completed,Cash
+BK000534,Neha Singh,61.0,Male,Bus,Kanpur,Jaipur,2026-07-09,2026-09-24,444.44,2,Completed,Card
+BK000535,Aarav Rao,72.0,Male,Train,Agra,Lucknow,2026-07-29,2026-09-25,1984.83,1,Pending,Cash
+BK000536,Aarav Sharma,52.0,Male,Train,Lucknow,Prayagraj,2025-04-19,2025-06-21,2517.02,1,Completed,Card
+BK000537,Aarav Khan,47.0,Male,Train,Lucknow,Kanpur,2025-08-27,2025-11-16,1581.67,2,Completed,Card
+BK000538,Kavya Joshi,,Male,Bus,Patna,Kolkata,2025-11-06,2025-12-11,881.22,5,Completed,Net Banking
+BK000539,Vihaan Das,48.0,Male,Train,Kolkata,Varanasi,2025-08-07,2025-10-07,1250.88,5,Completed,Net Banking
+BK000540,Aditi Mishra,55.0,Female,Bus,Varanasi,Agra,2026-09-10,2026-12-01,827.04,3,Completed,Net Banking
+BK000541,Arjun Yadav,62.0,Female,Train,Kanpur,Ranchi,2025-09-09,2025-12-02,1104.95,4,Confirmed,Net Banking
+BK000542,Zoya Patel,5.0,Male,Train,Varanasi,Prayagraj,2025-04-19,2025-05-29,1887.29,5,Completed,Net Banking
+BK000543,Kavya Verma,71.0,Female,Train,Delhi,Patna,2025-05-16,2025-07-17,1804.41,2,Completed,UPI
+BK000544,Aditi Verma,19.0,Female,Bus,Bhopal,Jaipur,2026-03-14,2026-03-23,1827.97,4,Completed,UPI
+BK000545,Sana Sharma,58.0,Female,Bus,Lucknow,Varanasi,2025-12-06,2025-12-27,1188.44,1,Pending,Cash
+BK000546,Arjun Gupta,50.0,Male,Bus,Prayagraj,Kolkata,2025-10-22,2025-12-12,1393.63,5,Completed,Wallet
+BK000547,Zoya Joshi,37.0,Male,Train,Varanasi,Mumbai,2025-02-18,2025-05-16,2062.56,5,Completed,Net Banking
+BK000548,Neha Patel,70.0,Female,Train,Ranchi,Prayagraj,2026-09-06,2026-10-24,1016.6,4,Pending,Net Banking
+BK000549,Meera Rao,71.0,Female,Train,Jaipur,Agra,2026-09-27,2026-12-03,2513.53,3,Completed,Wallet
+BK000550,Rohan Sharma,32.0,Female,Bus,Patna,Kanpur,2025-08-21,2025-11-09,521.54,4,Completed,Cash
+BK000551,Ishaan Gupta,13.0,Male,Bus,Patna,Kolkata,2025-08-22,2025-10-12,528.05,3,Completed,UPI
+BK000552,Kavya Patel,5.0,Male,Bus,Jaipur,Patna,2025-01-23,2025-03-16,1213.77,5,Cancelled,Card
+BK000553,Kavya Patel,16.0,Female,Train,Jaipur,Prayagraj,2025-06-26,2025-07-17,1413.71,4,Confirmed,Net Banking
+BK000554,Rohan Sharma,12.0,Male,Bus,Delhi,Mumbai,2025-01-03,2025-01-24,1044.23,3,Completed,UPI
+BK000555,Aditi Roy,70.0,Male,Bus,Jaipur,Varanasi,2025-06-15,2025-07-27,1999.12,5,Confirmed,Card
+BK000556,Arjun Das,58.0,Male,Bus,Agra,Ranchi,2026-03-12,2026-03-17,576.49,2,Completed,Wallet
+BK000557,Ananya Joshi,,Male,Bus,Delhi,Kolkata,2025-12-03,2026-01-11,1980.43,4,Completed,UPI
+BK000558,Meera Yadav,20.0,Female,Train,Prayagraj,Jaipur,2025-01-24,2025-02-03,1363.37,4,Completed,Cash
+BK000559,Sana Mishra,20.0,Other,Train,Kolkata,Lucknow,2025-05-14,2025-07-31,1646.35,1,Completed,UPI
+BK000560,Arjun Mishra,40.0,Male,Bus,Mumbai,Agra,2025-08-05,2025-08-18,499.34,1,Completed,UPI
+BK000561,Kabir Verma,5.0,Male,Train,Delhi,Patna,2025-11-11,2025-12-17,2532.52,3,Completed,Net Banking
+BK000562,Neha Joshi,58.0,Male,Bus,Varanasi,Mumbai,2026-01-12,2026-03-10,626.95,3,Completed,UPI
+BK000563,Ananya Joshi,62.0,Other,Train,Mumbai,Patna,2025-03-04,2025-04-17,809.73,1,Completed,Cash
+BK000564,Ishaan Mishra,33.0,Male,Bus,Jaipur,Agra,2025-09-30,2025-12-23,500.54,2,Completed,UPI
+BK000565,Kabir Joshi,17.0,Female,Bus,Agra,Ranchi,2026-10-01,2026-12-08,633.21,3,Completed,Wallet
+BK000566,Zoya Verma,59.0,Male,Bus,Kanpur,Jaipur,2026-02-26,2026-03-31,1340.48,1,Completed,Cash
+BK000567,Sana Singh,37.0,Male,Bus,Ranchi,Kanpur,2025-04-19,2025-06-26,800.36,3,Completed,Wallet
+BK000568,Aditi Das,18.0,Female,Train,Mumbai,Patna,2026-03-24,2026-06-17,1524.19,2,Cancelled,Card
+BK000569,Ananya Das,34.0,Male,Bus,Kolkata,Kanpur,2025-05-31,2025-07-01,646.65,2,Completed,Cash
+BK000570,Arjun Joshi,51.0,Male,Train,Kanpur,Agra,2025-12-14,2025-12-15,3022.11,1,Confirmed,Net Banking
+BK000571,Rohan Mishra,26.0,Male,Bus,Agra,Ranchi,2025-06-17,2025-07-08,1180.88,5,Confirmed,Wallet
+BK000572,Vihaan Sharma,69.0,Female,Bus,Kanpur,Mumbai,2026-05-09,2026-05-20,842.58,2,Completed,Card
+BK000573,Aarav Singh,6.0,Male,Train,Kanpur,Prayagraj,2025-06-13,2025-09-07,1985.55,3,Completed,Net Banking
+BK000574,Aditi Verma,40.0,Female,Bus,Kolkata,Jaipur,2025-07-09,2025-07-29,1660.22,2,Pending,Card
+BK000575,Neha Verma,54.0,Female,Bus,Prayagraj,Ranchi,2025-06-11,2025-07-27,670.08,2,Completed,UPI
+BK000576,Rohan Roy,48.0,Other,Bus,Kanpur,Agra,2026-01-01,2026-01-14,737.18,1,Completed,Card
+BK000577,Arjun Sharma,10.0,Male,Train,Kanpur,Kolkata,2025-06-17,2025-07-19,760.28,1,Completed,Cash
+BK000578,Ishaan Verma,34.0,Female,Train,Bhopal,Lucknow,2025-03-13,2025-04-20,2010.23,2,Completed,Wallet
+BK000579,Zoya Yadav,79.0,Female,Bus,Kolkata,Mumbai,2025-08-04,2025-08-15,1681.91,1,Completed,Net Banking
+BK000580,Neha Roy,56.0,Male,Train,Jaipur,Kanpur,2025-05-29,2025-08-22,1999.47,4,Completed,Net Banking
+BK000581,Neha Patel,65.0,Male,Bus,Ranchi,Kolkata,2026-03-12,2026-04-03,892.41,3,Completed,Cash
+BK000582,Rohan Yadav,27.0,Female,Bus,Ranchi,Varanasi,2025-10-31,2026-01-22,2355.58,3,Cancelled,UPI
+BK000583,Arjun Khan,44.0,Female,Train,Prayagraj,Kanpur,2025-05-03,2025-06-06,1766.52,4,Completed,UPI
+BK000584,Rohan Singh,50.0,Male,Train,Ranchi,Varanasi,2026-04-25,2026-05-12,2557.34,3,Confirmed,Card
+BK000585,Ananya Verma,57.0,Male,Train,Patna,Varanasi,2026-02-01,2026-04-19,729.92,5,Completed,Wallet
+BK000586,Diya Patel,60.0,Female,Train,Delhi,Bhopal,2026-03-31,2026-05-15,860.08,2,Completed,UPI
+BK000587,Meera Roy,48.0,Male,Train,Delhi,Varanasi,2026-07-07,2026-07-08,988.34,2,Completed,Net Banking
+BK000588,Kabir Roy,76.0,Female,Bus,Jaipur,Prayagraj,2026-07-27,2026-10-08,1249.51,5,Completed,Net Banking
+BK000589,Aarav Das,25.0,Female,Bus,Kolkata,Varanasi,2025-12-08,2026-01-05,1209.85,1,Completed,Cash
+BK000590,Vihaan Khan,25.0,Male,Bus,Mumbai,Agra,2025-11-07,2025-12-13,2167.15,3,Completed,UPI
+BK000591,Aarav Singh,51.0,Male,Bus,Jaipur,Lucknow,2026-07-11,2026-10-06,2135.57,2,Completed,Wallet
+BK000592,Ishaan Rao,15.0,Female,Train,Ranchi,Prayagraj,2026-03-28,2026-06-03,1476.63,1,Completed,Card
+BK000593,Sana Yadav,50.0,Male,Bus,Kanpur,Prayagraj,2026-08-24,2026-10-10,1608.59,1,Confirmed,Card
+BK000594,Rohan Singh,7.0,Female,Bus,Lucknow,Varanasi,2026-01-23,2026-04-11,1612.5,2,Completed,Net Banking
+BK000595,Kabir Mishra,15.0,Male,Train,Varanasi,Delhi,2025-10-27,2026-01-19,2360.94,2,Completed,UPI
+BK000596,Meera Das,8.0,Male,Train,Ranchi,Jaipur,2026-09-19,2026-09-22,663.68,4,Cancelled,Cash
+BK000597,Ananya Sharma,65.0,Female,Bus,Agra,Kolkata,2025-03-16,2025-05-31,880.23,3,Confirmed,Wallet
+BK000598,Sana Singh,37.0,Male,Train,Jaipur,Ranchi,2026-03-13,2026-05-20,2677.85,1,Completed,Net Banking
+BK000599,Vihaan Singh,14.0,Female,Bus,Patna,Kolkata,2025-01-20,2025-02-20,923.9,2,Confirmed,Net Banking
+BK000600,Rohan Patel,28.0,Male,Train,Varanasi,Jaipur,2026-08-12,2026-10-19,2130.66,4,Completed,Cash
+BK000601,Aarav Gupta,6.0,Other,Bus,Lucknow,Agra,2026-09-11,2026-12-08,558.78,2,Completed,Card
+BK000602,Ishaan Joshi,17.0,Male,Bus,Agra,Jaipur,2025-07-10,2025-08-28,561.89,4,Completed,Card
+BK000603,Rohan Yadav,72.0,Female,Train,Patna,Bhopal,2026-06-27,2026-08-19,1375.01,3,Completed,Cash
+BK000604,Ananya Patel,56.0,Male,Train,Lucknow,Varanasi,2026-09-18,2026-12-15,2401.81,5,Completed,Net Banking
+BK000605,Ishaan Khan,80.0,Female,Bus,Mumbai,Bhopal,2025-10-30,2025-12-27,665.84,4,Completed,Net Banking
+BK000606,Vihaan Verma,64.0,Male,Bus,Kolkata,Ranchi,2025-02-21,2025-03-22,1374.39,3,Completed,Net Banking
+BK000607,Zoya Mishra,32.0,Female,Bus,Lucknow,Prayagraj,2025-08-30,2025-09-01,733.97,1,Completed,Card
+BK000608,Rohan Mishra,68.0,Male,Bus,Prayagraj,Kanpur,2026-06-26,2026-09-20,1222.07,1,Completed,Cash
+BK000609,Sana Verma,28.0,Female,Bus,Jaipur,Delhi,2025-06-11,2025-07-18,1589.86,4,Cancelled,Wallet
+BK000610,Ananya Singh,33.0,Male,Bus,Kanpur,Varanasi,2025-12-25,2025-12-26,1697.37,1,Completed,Card
+BK000611,Sana Yadav,73.0,Male,Bus,Prayagraj,Ranchi,2025-04-09,2025-04-26,1072.04,3,Completed,Card
+BK000612,Vihaan Singh,34.0,Female,Train,Prayagraj,Lucknow,2026-02-21,2026-03-27,1579.98,2,Completed,Net Banking
+BK000613,Ishaan Das,55.0,Female,Bus,Patna,Kolkata,2025-03-24,2025-05-12,1990.54,5,Pending,UPI
+BK000614,Kabir Rao,54.0,Female,Bus,Mumbai,Bhopal,2026-04-08,2026-04-14,1360.96,5,Cancelled,Card
+BK000615,Ananya Gupta,78.0,Female,Bus,Prayagraj,Ranchi,2025-12-16,2026-01-13,880.58,5,Completed,Net Banking
+BK000616,Aditi Khan,14.0,Male,Bus,Ranchi,Patna,2025-01-19,2025-03-29,1417.72,3,Confirmed,Wallet
+BK000617,Kabir Sharma,80.0,Other,Train,Mumbai,Kolkata,2025-02-21,2025-04-27,979.96,1,Completed,Wallet
+BK000618,,6.0,Male,Train,Lucknow,Jaipur,2026-07-03,2026-08-24,2283.16,4,Confirmed,Card
+BK000619,Kabir Mishra,35.0,Male,Bus,Patna,Kolkata,2026-09-17,2026-10-16,1242.99,1,Confirmed,Card
+BK000620,Kavya Yadav,10.0,Male,Bus,Mumbai,Lucknow,2026-07-01,2026-09-16,706.74,2,Completed,Cash
+BK000621,Kavya Sharma,26.0,Male,Train,Prayagraj,Bhopal,2025-08-16,2025-10-21,3361.16,4,Confirmed,Net Banking
+BK000622,Neha Verma,39.0,Male,Bus,Bhopal,Kolkata,2025-06-06,2025-07-23,604.79,2,Completed,Card
+BK000623,Arjun Das,49.0,Male,Bus,Patna,Jaipur,2026-06-21,2026-08-29,1247.44,4,Completed,Cash
+BK000624,Kavya Patel,64.0,Male,Train,Jaipur,Ranchi,2025-04-19,2025-05-16,2761.02,1,Completed,UPI
+BK000625,Sana Yadav,80.0,Male,Train,Patna,Kolkata,2025-11-05,2026-01-21,1506.17,1,Completed,Net Banking
+BK000626,Vihaan Khan,22.0,Female,Bus,Ranchi,Kanpur,2025-11-22,2025-12-08,1177.06,3,Confirmed,Wallet
+BK000627,Sana Roy,6.0,Female,Train,Kanpur,Mumbai,2025-05-07,2025-07-02,1771.94,5,Completed,Wallet
+BK000628,Ishaan Singh,23.0,Male,Bus,Jaipur,Ranchi,2026-10-11,2026-11-03,1869.6,3,Completed,Card
+BK000629,Diya Rao,24.0,Female,Train,Mumbai,Prayagraj,2025-12-28,2026-03-19,2602.34,1,Completed,UPI
+BK000630,Kavya Joshi,17.0,Male,Train,Kanpur,Prayagraj,2026-08-08,2026-10-09,1302.37,3,Cancelled,Cash
+BK000631,Kavya Joshi,36.0,Male,Bus,Patna,Bhopal,2025-04-06,2025-05-19,740.73,1,Completed,Card
+BK000632,Arjun Khan,17.0,Female,Bus,Jaipur,Kanpur,2025-11-20,2025-12-20,533.33,4,Confirmed,Card
+BK000633,Rohan Verma,54.0,Female,Bus,Jaipur,Varanasi,2025-07-18,2025-08-24,680.01,3,Completed,UPI
+BK000634,Sana Roy,19.0,Male,Bus,Prayagraj,Bhopal,2025-07-05,2025-08-13,623.04,4,Confirmed,Cash
+BK000635,Kabir Khan,19.0,Female,Bus,Bhopal,Prayagraj,2025-03-22,2025-05-18,752.8,5,Cancelled,Cash
+BK000636,Diya Patel,46.0,Female,Bus,Kanpur,Lucknow,2025-11-07,2026-01-21,2103.41,2,Completed,Wallet
+BK000637,Kavya Verma,39.0,Female,Bus,Bhopal,Agra,2025-03-13,2025-05-09,2185.14,2,Cancelled,Card
+BK000638,Kabir Joshi,49.0,Female,Bus,Lucknow,Kanpur,2025-08-27,2025-11-08,1673.7,4,Completed,Card
+BK000639,Aarav Roy,16.0,Female,Train,Kanpur,Varanasi,2025-10-19,2025-12-24,3145.96,3,Confirmed,UPI
+BK000640,Ishaan Yadav,40.0,Female,Train,Ranchi,Agra,2026-08-24,2026-08-25,518.7,5,Cancelled,Card
+BK000641,Meera Rao,76.0,Male,Train,Lucknow,Ranchi,2026-07-13,2026-07-21,1725.61,5,Completed,Card
+BK000642,Aarav Singh,53.0,Male,Bus,Prayagraj,Kolkata,2026-08-12,2026-10-24,628.93,4,Pending,Wallet
+BK000643,Zoya Das,50.0,Female,Bus,Patna,Agra,2025-12-29,2026-01-04,1242.64,5,Completed,UPI
+BK000644,Diya Singh,77.0,Female,Bus,Patna,Kanpur,2025-06-09,2025-06-27,1719.13,2,Completed,Cash
+BK000645,Sana Verma,5.0,Other,Bus,Patna,Delhi,2025-04-23,2025-04-26,605.96,2,Pending,UPI
+BK000646,Aditi Patel,49.0,Male,Bus,Agra,Ranchi,2025-02-24,2025-03-09,2147.0,5,Completed,
+BK000647,Aditi Patel,7.0,Female,Bus,Jaipur,Agra,2025-11-01,2025-12-27,943.09,1,Cancelled,Cash
+BK000648,Ananya Joshi,18.0,Female,Train,Jaipur,Delhi,2026-03-04,2026-04-18,1524.17,5,Confirmed,Wallet
+BK000649,Meera Patel,76.0,Male,Bus,Ranchi,Mumbai,2025-06-06,2025-07-07,400.81,1,Pending,Net Banking
+BK000650,Sana Joshi,80.0,Male,Bus,Prayagraj,Mumbai,2025-11-26,2025-12-15,852.69,4,Completed,Wallet
+BK000651,Aarav Rao,34.0,Male,Train,Bhopal,Kolkata,2025-06-27,2025-07-15,2539.38,4,Confirmed,Net Banking
+BK000652,Neha Gupta,16.0,Male,Bus,Bhopal,Mumbai,2026-04-24,2026-06-28,540.68,4,Cancelled,Card
+BK000653,Vihaan Gupta,27.0,Male,Train,Kolkata,Varanasi,2025-03-08,2025-04-25,1500.63,5,Completed,Wallet
+BK000654,Ishaan Mishra,80.0,Female,Bus,Kolkata,Mumbai,2025-09-19,2025-10-03,700.2,2,Completed,Wallet
+BK000655,Zoya Khan,18.0,Male,Bus,Bhopal,Patna,2025-05-20,2025-07-13,1287.67,4,Completed,UPI
+BK000656,Arjun Singh,72.0,Female,Bus,Ranchi,Lucknow,2025-09-26,2025-10-22,367.42,1,Pending,Net Banking
+BK000657,Rohan Rao,12.0,Female,Train,Bhopal,Mumbai,2025-03-17,2025-04-05,511.17,5,Completed,Wallet
+BK000658,Rohan Joshi,77.0,Male,Bus,Agra,Ranchi,2026-07-09,2026-10-05,1388.36,2,Completed,UPI
+BK000659,Rohan Yadav,,Male,Train,Jaipur,Kanpur,2026-08-28,2026-09-04,1601.68,1,Completed,UPI
+BK000660,Aarav Mishra,49.0,Female,Bus,Patna,Ranchi,2025-10-23,2025-11-21,672.98,3,Completed,UPI
+BK000661,Aarav Yadav,79.0,Other,Train,Patna,Kolkata,2026-07-26,2026-09-24,984.58,1,Completed,Wallet
+BK000662,Zoya Patel,49.0,Male,Train,Kolkata,Ranchi,2026-08-19,2026-09-25,2052.2,2,Completed,UPI
+BK000663,Arjun Verma,39.0,Male,Train,Jaipur,Varanasi,2025-04-23,2025-06-27,2208.06,4,Cancelled,Wallet
+BK000664,Rohan Singh,32.0,Male,Train,Varanasi,Agra,2026-07-12,2026-09-28,2260.11,4,Completed,Card
+BK000665,Zoya Mishra,39.0,Male,Train,Mumbai,Kolkata,2026-04-06,2026-04-09,1839.67,2,Completed,Card
+BK000666,Ishaan Mishra,59.0,Female,Train,Varanasi,Jaipur,2025-02-10,2025-03-22,3392.77,5,Pending,Cash
+BK000667,Vihaan Das,54.0,Female,Bus,Patna,Agra,2025-01-15,2025-01-25,621.47,5,Completed,Wallet
+BK000668,Aditi Gupta,31.0,Female,Bus,Kanpur,Ranchi,2025-07-28,2025-10-04,1038.08,2,Cancelled,Card
+BK000669,Neha Das,52.0,Male,Bus,Lucknow,Ranchi,2026-08-07,2026-09-21,527.22,2,Completed,Cash
+BK000670,Ananya Yadav,25.0,Other,Bus,Lucknow,Mumbai,2025-10-23,2025-12-10,2231.97,4,Completed,Card
+BK000671,Kavya Gupta,36.0,Female,Train,Agra,Lucknow,2025-07-10,2025-09-18,405.13,3,Completed,Card
+BK000672,Neha Rao,71.0,Female,Bus,Bhopal,Delhi,2025-02-15,2025-04-12,765.58,5,Confirmed,Cash
+BK000673,Aarav Joshi,10.0,Male,Bus,Delhi,Jaipur,2026-05-02,2026-05-16,1228.98,1,Completed,Cash
+BK000674,Rohan Joshi,35.0,Female,Bus,Mumbai,Ranchi,2025-02-19,2025-04-14,1954.16,1,Completed,UPI
+BK000675,Meera Patel,61.0,Male,Bus,Varanasi,Kolkata,2025-07-29,2025-08-06,462.26,2,Completed,Net Banking
+BK000676,Vihaan Joshi,53.0,Male,Train,Agra,Prayagraj,2025-09-17,2025-10-22,2536.99,1,Confirmed,UPI
+BK000677,Rohan Patel,37.0,Female,Train,Kolkata,Jaipur,2026-06-06,2026-06-29,1507.0,1,Cancelled,Net Banking
+BK000678,Meera Rao,53.0,Male,Train,Patna,Kolkata,2025-05-07,2025-07-04,2154.72,4,Completed,Wallet
+BK000679,Kavya Patel,70.0,Female,Train,Kolkata,Prayagraj,2025-11-08,2026-01-22,1469.06,2,Completed,Wallet
+BK000680,Arjun Khan,77.0,Male,Train,Bhopal,Lucknow,2025-08-30,2025-11-09,2326.13,1,Completed,Net Banking
+BK000681,Neha Das,22.0,Male,Train,Kanpur,Mumbai,2026-01-08,2026-02-09,3042.3,1,Completed,Net Banking
+BK000682,Neha Patel,58.0,Female,Train,Lucknow,Agra,2025-03-06,2025-03-08,2953.26,3,Completed,Cash
+BK000683,Kavya Gupta,73.0,Female,Train,Varanasi,Kanpur,2025-08-20,2025-09-04,1290.01,1,Completed,UPI
+BK000684,Aarav Verma,9.0,Female,Train,Patna,Kanpur,2026-04-17,2026-05-07,1656.29,1,Completed,Wallet
+BK000685,Diya Joshi,72.0,Male,Train,Bhopal,Kanpur,2025-01-29,2025-03-19,1382.54,4,Completed,Cash
+BK000686,Ananya Gupta,65.0,Female,Bus,Lucknow,Patna,2025-11-12,2025-12-12,1220.7,3,Cancelled,Cash
+BK000687,Aditi Verma,52.0,Male,Bus,Bhopal,Delhi,2025-08-25,2025-11-20,1387.52,4,Completed,UPI
+BK000688,Vihaan Joshi,42.0,Male,Train,Lucknow,Agra,2026-05-12,2026-07-27,1257.52,4,Completed,Card
+BK000689,Arjun Verma,48.0,Female,Bus,Prayagraj,Mumbai,2025-02-27,2025-03-25,1426.4,5,Completed,Cash
+BK000690,Diya Yadav,15.0,Male,Bus,Kanpur,Agra,2025-06-21,2025-06-28,2017.78,5,Completed,Wallet
+BK000691,Sana Sharma,6.0,Male,Bus,Prayagraj,Lucknow,2025-04-13,2025-05-01,1276.88,2,Completed,Wallet
+BK000692,Diya Yadav,9.0,Female,Bus,Agra,Mumbai,2025-05-29,2025-06-16,1738.35,3,Completed,Card
+BK000693,Diya Sharma,67.0,Female,Train,Mumbai,Ranchi,2025-02-19,2025-04-05,1838.18,4,Completed,UPI
+BK000694,Zoya Yadav,65.0,Female,Bus,Lucknow,Varanasi,2025-11-22,2026-02-08,1375.35,2,Completed,Net Banking
+BK000695,Aditi Das,34.0,,Bus,Prayagraj,Mumbai,2025-02-16,2025-03-02,1645.41,5,Completed,UPI
+BK000696,Vihaan Joshi,,Other,Bus,Prayagraj,Lucknow,2026-01-19,2026-04-03,668.93,5,Cancelled,Card
+BK000697,Ananya Khan,13.0,Male,Bus,Agra,Patna,2025-12-17,2026-03-13,999.37,3,Completed,Card
+BK000698,Kabir Mishra,41.0,Male,Train,Lucknow,Ranchi,2025-05-25,2025-05-28,1151.4,1,Cancelled,UPI
+BK000699,Ishaan Roy,66.0,Male,Bus,Agra,Lucknow,2025-04-15,2025-06-07,806.42,3,Confirmed,Cash
+BK000700,Kavya Khan,71.0,Female,Train,Agra,Mumbai,2025-07-07,2025-08-02,1681.89,4,Completed,Card
+BK000701,Aarav Joshi,59.0,,Train,Delhi,Varanasi,2026-03-13,2026-04-13,807.34,5,Completed,Card
+BK000702,Neha Das,71.0,Female,Train,Varanasi,Jaipur,2025-10-31,2025-12-31,702.23,2,Cancelled,Wallet
+BK000703,Rohan Singh,16.0,Female,Train,Bhopal,Kolkata,2025-09-22,2025-10-29,578.8,3,Completed,Wallet
+BK000704,Aditi Das,22.0,Male,Bus,Lucknow,Kolkata,2025-08-30,2025-11-02,2267.93,1,Completed,UPI
+BK000705,Rohan Roy,17.0,Male,Bus,Mumbai,Varanasi,2026-03-11,2026-05-09,658.8,4,Completed,UPI
+BK000706,Diya Roy,42.0,Male,Bus,Delhi,Patna,2025-02-04,2025-04-20,1495.18,1,Completed,Card
+BK000707,Kavya Mishra,67.0,Male,Bus,Agra,Ranchi,2025-03-19,2025-04-29,302.93,4,Completed,UPI
+BK000708,Neha Khan,46.0,Female,Bus,Bhopal,Mumbai,2026-04-25,2026-06-30,1223.12,2,Confirmed,Wallet
+BK000709,Arjun Patel,66.0,Male,Bus,Jaipur,Kolkata,2025-05-09,2025-06-25,1493.75,1,Completed,Card
+BK000710,Ananya Rao,59.0,Male,Train,Prayagraj,Mumbai,2025-07-08,2025-09-13,1611.74,2,Pending,UPI
+BK000711,Diya Singh,54.0,Male,Train,Kolkata,Agra,2025-07-09,2025-09-23,2139.43,2,Completed,Wallet
+BK000712,Zoya Mishra,62.0,Male,Train,Varanasi,Delhi,2026-05-25,2026-07-29,948.83,3,Confirmed,Wallet
+BK000713,Zoya Verma,56.0,Male,Train,Mumbai,Ranchi,2026-02-18,2026-03-25,1298.91,4,Completed,UPI
+BK000714,Zoya Rao,58.0,Female,Bus,Prayagraj,Delhi,2025-01-09,2025-02-14,1381.6,3,Completed,Net Banking
+BK000715,Zoya Verma,25.0,Male,Train,Patna,Prayagraj,2025-01-29,2025-04-04,640.93,5,Completed,Wallet
+BK000716,Aarav Rao,12.0,Male,Train,Prayagraj,Jaipur,2025-10-29,2025-11-28,1562.78,2,Pending,Wallet
+BK000717,Meera Singh,72.0,Female,Train,Jaipur,Delhi,2026-08-14,2026-10-21,904.32,1,Completed,Net Banking
+BK000718,Diya Joshi,13.0,Female,Bus,Delhi,Lucknow,2025-12-30,2026-03-24,1078.84,4,Completed,Net Banking
+BK000719,Sana Verma,24.0,Female,Train,Agra,Mumbai,2025-08-28,2025-11-19,761.93,2,Completed,Wallet
+BK000720,Kavya Rao,44.0,Male,Train,Delhi,Kolkata,2025-03-21,2025-06-08,438.45,1,Completed,UPI
+BK000721,Kavya Rao,11.0,Female,Train,Lucknow,Jaipur,2026-02-23,2026-04-25,2206.59,1,Completed,Wallet
+BK000722,Kabir Das,35.0,Male,Train,Kanpur,Prayagraj,2026-06-17,2026-07-28,2592.25,3,Completed,UPI
+BK000723,Aditi Sharma,5.0,Male,Train,Patna,Mumbai,2026-01-12,2026-04-03,720.08,1,Completed,Net Banking
+BK000724,Kabir Roy,77.0,Male,Train,Kolkata,Prayagraj,2026-08-13,2026-08-17,2191.61,3,Completed,Card
+BK000725,Ananya Verma,67.0,Female,Bus,Bhopal,Prayagraj,2026-09-20,2026-12-15,737.12,1,Completed,Net Banking
+BK000726,Vihaan Mishra,6.0,Female,Bus,Delhi,Varanasi,2025-11-25,2026-01-07,663.24,2,Pending,Wallet
+BK000727,Kavya Sharma,45.0,Male,Train,Varanasi,Patna,2026-07-30,2026-10-23,855.73,1,Pending,UPI
+BK000728,Aarav Singh,66.0,Male,Bus,Kolkata,Prayagraj,2026-08-25,2026-10-18,609.52,1,Completed,Net Banking
+BK000729,Kabir Sharma,79.0,Male,Train,Jaipur,Ranchi,2025-06-30,2025-07-21,1111.33,5,Cancelled,Wallet
+BK000730,Aditi Das,28.0,Male,Bus,Mumbai,Jaipur,2026-01-05,2026-02-08,1135.89,3,Completed,Cash
+BK000731,Neha Mishra,59.0,Male,Bus,Varanasi,Prayagraj,2026-01-10,2026-02-05,820.93,3,Confirmed,Net Banking
+BK000732,Rohan Roy,74.0,Male,Bus,Bhopal,Kolkata,2025-05-23,2025-05-31,551.2,5,Completed,Wallet
+BK000733,Zoya Singh,27.0,Female,Train,Varanasi,Prayagraj,2025-04-10,2025-05-24,1611.08,2,Completed,UPI
+BK000734,Vihaan Yadav,64.0,Male,Bus,Delhi,Mumbai,2026-05-18,2026-07-07,1503.27,4,Cancelled,Cash
+BK000735,Aditi Joshi,67.0,Female,Bus,Delhi,Jaipur,2026-07-17,2026-07-19,1419.19,4,Completed,Cash
+BK000736,Vihaan Yadav,66.0,Male,Train,Delhi,Lucknow,2025-05-16,2025-07-10,2745.65,5,Pending,UPI
+BK000737,Rohan Gupta,8.0,Male,Bus,Jaipur,Bhopal,2026-03-07,2026-05-03,1809.79,1,Completed,Wallet
+BK000738,Aditi Gupta,65.0,Male,Train,Lucknow,Prayagraj,2026-03-22,2026-06-04,2257.94,4,Completed,Cash
+BK000739,Aditi Das,70.0,Male,Bus,Ranchi,Prayagraj,2026-03-10,2026-05-01,1025.45,5,Completed,Cash
+BK000740,Arjun Sharma,34.0,Female,Train,Jaipur,Lucknow,2026-05-04,2026-05-27,2316.85,3,Cancelled,Wallet
+BK000741,Zoya Sharma,76.0,Female,Train,Bhopal,Varanasi,2026-01-05,2026-03-10,2294.83,2,Confirmed,Cash
+BK000742,Zoya Mishra,77.0,Female,Bus,Bhopal,Agra,2026-09-20,2026-10-14,1369.84,3,Completed,Cash
+BK000743,Vihaan Gupta,71.0,Male,Train,Lucknow,Delhi,2025-12-23,2026-02-01,2351.61,3,Completed,UPI
+BK000744,Kabir Sharma,36.0,Male,Train,Lucknow,Prayagraj,2026-01-05,2026-03-28,3084.62,5,Completed,Card
+BK000745,Aditi Patel,32.0,Male,Train,Ranchi,Kolkata,2026-08-30,2026-11-12,1028.92,4,Pending,Cash
+BK000746,Vihaan Roy,48.0,Female,Bus,Kolkata,Delhi,2025-10-14,2025-10-27,612.83,3,Cancelled,Card
+BK000747,Diya Patel,36.0,Female,Bus,Mumbai,Kanpur,2025-03-13,2025-04-17,904.41,3,Confirmed,Cash
+BK000748,Diya Das,52.0,Female,Train,Prayagraj,Jaipur,2026-07-07,2026-09-07,2827.78,3,Completed,Cash
+BK000749,Aarav Mishra,50.0,Female,Train,Kanpur,Agra,2025-07-21,2025-09-15,2799.49,4,Completed,Net Banking
+BK000750,Arjun Yadav,43.0,Female,Bus,Kolkata,Ranchi,2026-04-25,2026-06-18,593.74,5,Completed,UPI
+BK000751,Meera Khan,34.0,Female,Bus,Kolkata,Kanpur,2026-02-13,2026-04-06,1264.54,3,Completed,Card
+BK000752,Arjun Singh,41.0,Female,Bus,Patna,Prayagraj,2026-04-08,2026-04-25,1928.15,1,Completed,Net Banking
+BK000753,Ishaan Singh,33.0,Other,Bus,Kolkata,Lucknow,2025-08-25,2025-10-08,535.14,5,Completed,UPI
+BK000754,Aarav Mishra,27.0,Male,Bus,Ranchi,Lucknow,2025-04-14,2025-05-12,457.83,5,Pending,UPI
+BK000755,Rohan Gupta,73.0,Female,Bus,Agra,Lucknow,2025-06-10,2025-08-01,847.08,4,Pending,Net Banking
+BK000756,Neha Sharma,77.0,Male,Bus,Delhi,Agra,2025-02-17,2025-04-03,393.24,4,Completed,Card
+BK000757,Aditi Gupta,42.0,Female,Train,Mumbai,Kolkata,2025-07-05,2025-09-20,565.91,3,Completed,Net Banking
+BK000758,Rohan Joshi,8.0,Female,Train,Varanasi,Lucknow,2026-05-25,2026-06-12,1856.68,1,Completed,Net Banking
+BK000759,Arjun Yadav,52.0,Male,Bus,Patna,Ranchi,2025-04-04,2025-04-12,422.39,2,Completed,UPI
+BK000760,Ananya Verma,54.0,Male,Train,Varanasi,Bhopal,2026-09-15,2026-12-11,2057.1,3,Completed,Card
+BK000761,Ishaan Khan,71.0,Female,Bus,Ranchi,Varanasi,2025-11-07,2025-11-20,969.94,2,Completed,UPI
+BK000762,Ishaan Joshi,41.0,Female,Bus,Prayagraj,Lucknow,2026-02-03,2026-02-19,919.3,4,Completed,Wallet
+BK000763,Ananya Mishra,73.0,Other,Bus,Varanasi,Prayagraj,2025-09-21,2025-11-10,1159.46,2,Completed,UPI
+BK000764,Ishaan Patel,38.0,Male,Bus,Kolkata,Patna,2025-03-01,2025-03-13,789.54,1,Confirmed,Wallet
+BK000765,Diya Mishra,23.0,Male,Train,Prayagraj,Ranchi,2026-02-02,2026-03-07,425.83,3,Completed,Card
+BK000766,Kavya Gupta,62.0,Male,Train,Lucknow,Delhi,2026-02-23,2026-05-22,657.14,2,Confirmed,Net Banking
+BK000767,Rohan Patel,62.0,Male,Bus,Ranchi,Bhopal,2026-08-03,2026-08-12,884.46,1,Cancelled,Card
+BK000768,Meera Das,10.0,Male,Bus,Delhi,Lucknow,2026-07-13,2026-07-29,1017.45,3,Pending,Wallet
+BK000769,Neha Joshi,64.0,Female,Train,Agra,Varanasi,2026-06-13,2026-07-02,2362.62,5,Completed,Net Banking
+BK000770,Ishaan Gupta,54.0,Male,Train,Prayagraj,Mumbai,2025-12-14,2026-02-12,558.03,3,Completed,Cash
+BK000771,Arjun Das,46.0,Female,Train,Kanpur,Jaipur,2026-10-10,2026-11-18,2783.56,5,Completed,Wallet
+BK000772,Aditi Sharma,16.0,Male,Train,Prayagraj,Kanpur,2026-02-27,2026-04-24,1699.5,3,Completed,UPI
+BK000773,Aditi Khan,39.0,Female,Bus,Kanpur,Agra,2025-10-27,2025-11-01,1786.99,5,Completed,UPI
+BK000774,Arjun Khan,78.0,Female,Bus,Kanpur,Mumbai,2025-06-23,2025-08-23,1638.17,3,Completed,Wallet
+BK000775,Arjun Yadav,9.0,Female,Train,Kanpur,Bhopal,2025-11-18,2025-11-24,2194.29,4,Completed,UPI
+BK000776,Meera Patel,18.0,Male,Train,Agra,Jaipur,2026-10-06,2026-10-15,2233.74,1,Completed,Wallet
+BK000777,Ishaan Joshi,15.0,Female,Train,Varanasi,Kolkata,2026-06-04,2026-08-07,2240.97,4,Pending,Cash
+BK000778,Ananya Singh,23.0,Male,Bus,Prayagraj,Kolkata,2025-08-01,2025-10-07,1319.92,2,Completed,UPI
+BK000779,Vihaan Singh,33.0,Male,Bus,Ranchi,Kanpur,2026-09-30,2026-11-01,2140.64,3,Completed,Wallet
+BK000780,Rohan Joshi,16.0,Female,Bus,Prayagraj,Patna,2025-11-12,2026-02-05,1248.88,2,Completed,Net Banking
+BK000781,Zoya Sharma,50.0,Female,Bus,Bhopal,Varanasi,2025-03-09,2025-05-17,929.06,4,Completed,Card
+BK000782,Diya Rao,23.0,Male,Train,Patna,Kolkata,2025-10-21,2025-12-29,1234.59,2,Confirmed,UPI
+BK000783,Arjun Patel,23.0,Female,Bus,Delhi,Varanasi,2025-11-05,2025-11-16,1742.53,5,Cancelled,Net Banking
+BK000784,Ananya Joshi,16.0,Female,Train,Ranchi,Jaipur,2026-09-06,2026-10-21,1386.98,3,Pending,Wallet
+BK000785,Diya Sharma,49.0,Male,Bus,Patna,Lucknow,2026-06-02,2026-07-26,495.61,5,Completed,Net Banking
+BK000786,Vihaan Sharma,72.0,Male,Bus,Kolkata,Mumbai,2025-12-02,2026-02-19,1072.93,3,Cancelled,UPI
+BK000787,Kabir Yadav,48.0,Other,Bus,Jaipur,Bhopal,2025-03-28,2025-06-05,637.71,2,Confirmed,UPI
+BK000788,Rohan Patel,58.0,Male,Bus,Bhopal,Varanasi,2026-06-16,2026-09-02,937.0,1,Completed,Cash
+BK000789,Aarav Roy,50.0,Female,Bus,Delhi,Bhopal,2025-06-21,2025-09-06,1388.64,5,Completed,Cash
+BK000790,Aditi Joshi,47.0,Male,Train,Agra,Jaipur,2025-06-05,2025-06-08,705.08,3,Confirmed,Wallet
+BK000791,Aditi Khan,23.0,Female,Bus,Mumbai,Varanasi,2026-03-13,2026-06-10,1524.05,4,Completed,Cash
+BK000792,Aditi Verma,60.0,Male,Bus,Lucknow,Jaipur,2026-01-28,2026-03-15,1754.07,2,Completed,
+BK000793,Meera Das,60.0,Female,Bus,Delhi,Kolkata,2026-01-23,2026-03-14,738.56,3,Completed,Net Banking
+BK000794,Diya Joshi,,Male,Train,Patna,Varanasi,2025-11-16,2025-11-22,1433.01,3,Completed,Net Banking
+BK000795,Diya Patel,31.0,Female,Bus,Kolkata,Agra,2025-08-26,2025-08-27,875.17,1,Completed,
+BK000796,Sana Roy,31.0,Female,Bus,Bhopal,Delhi,2025-05-03,2025-05-20,478.56,5,Completed,Wallet
+BK000797,Vihaan Rao,18.0,Female,Train,Ranchi,Agra,2025-06-09,2025-07-03,730.46,1,Completed,Wallet
+BK000798,Vihaan Mishra,73.0,Male,Train,Varanasi,Kanpur,2026-04-10,2026-05-17,3006.33,5,Completed,UPI
+BK000799,Zoya Rao,19.0,Male,Train,Varanasi,Patna,2026-09-10,2026-12-05,1483.71,3,Completed,Card
+BK000800,Ananya Yadav,38.0,Female,Bus,Varanasi,Lucknow,2026-07-26,2026-08-10,1318.0,5,Completed,Card
+BK000801,Arjun Singh,20.0,Female,Bus,Lucknow,Prayagraj,2026-08-23,2026-08-25,542.78,2,Completed,Cash
+BK000802,Neha Das,73.0,Male,Train,Bhopal,Mumbai,2026-01-09,2026-03-19,2264.93,2,Confirmed,Net Banking
+BK000803,Vihaan Singh,68.0,Female,Train,Agra,Prayagraj,2026-05-12,2026-05-27,1487.49,2,Confirmed,UPI
+BK000804,Diya Mishra,46.0,Female,Bus,Varanasi,Patna,2026-06-14,2026-07-12,1788.47,5,Confirmed,Wallet
+BK000805,Zoya Rao,5.0,Other,Bus,Lucknow,Prayagraj,2025-09-02,2025-11-06,1050.73,4,Completed,Net Banking
+BK000806,Arjun Rao,28.0,Male,Bus,Bhopal,Delhi,2025-01-29,2025-03-20,1488.98,1,Completed,Net Banking
+BK000807,Kabir Gupta,70.0,Male,Bus,Ranchi,Kanpur,2026-10-07,2026-11-16,452.02,3,Cancelled,Card
+BK000808,Vihaan Das,9.0,Female,Bus,Delhi,Lucknow,2025-09-30,2025-10-30,518.77,1,Cancelled,Net Banking
+BK000809,Aditi Gupta,37.0,Male,Train,Ranchi,Patna,2025-09-27,2025-12-02,1194.07,2,Cancelled,Net Banking
+BK000810,Arjun Gupta,49.0,Male,Train,Mumbai,Varanasi,2026-09-14,2026-09-26,2568.35,4,Completed,Wallet
+BK000811,Vihaan Das,57.0,Female,Train,Kolkata,Prayagraj,2025-02-28,2025-05-22,1165.67,2,Completed,Cash
+BK000812,Sana Rao,37.0,Female,Train,Agra,Prayagraj,2025-04-28,2025-05-23,2247.47,2,Completed,Card
+BK000813,Aarav Verma,55.0,Male,Train,Jaipur,Bhopal,2025-09-26,2025-12-08,2740.43,2,Completed,Wallet
+BK000814,Ishaan Joshi,78.0,Female,Bus,Kanpur,Delhi,2025-08-29,2025-10-24,442.08,5,Completed,Cash
+BK000815,Meera Roy,73.0,Male,Bus,Kanpur,Agra,2026-01-03,2026-04-02,634.54,2,Confirmed,UPI
+BK000816,Ananya Das,74.0,Female,Bus,Kanpur,Jaipur,2025-03-23,2025-05-12,1696.19,5,Completed,Net Banking
+BK000817,Sana Das,78.0,Female,Bus,Prayagraj,Patna,2026-02-01,2026-03-27,1058.86,4,Completed,
+BK000818,Kabir Khan,63.0,Male,Bus,Ranchi,Lucknow,2026-03-03,2026-05-13,1853.49,4,Completed,Card
+BK000819,Arjun Rao,29.0,Male,Bus,Kanpur,Patna,2025-03-07,2025-04-28,1089.92,2,Completed,Wallet
+BK000820,Ananya Singh,32.0,Other,Train,Jaipur,Patna,2025-09-05,2025-09-28,1451.71,3,Completed,Cash
+BK000821,Meera Patel,47.0,Female,Bus,Patna,Varanasi,2025-04-25,2025-05-01,1339.15,2,Completed,Net Banking
+BK000822,Kavya Khan,46.0,Female,Bus,Ranchi,Prayagraj,2025-02-14,2025-04-30,968.78,2,Completed,Wallet
+BK000823,Sana Gupta,72.0,Female,Bus,Varanasi,Bhopal,2025-05-03,2025-05-17,724.71,1,Completed,UPI
+BK000824,Zoya Rao,9.0,Female,Bus,Patna,Varanasi,2025-06-11,2025-09-05,841.37,4,Completed,Cash
+BK000825,Vihaan Gupta,67.0,Female,Train,Kolkata,Delhi,2025-09-12,2025-10-14,964.99,2,Cancelled,UPI
+BK000826,Ananya Roy,59.0,Female,Bus,Bhopal,Agra,2025-09-20,2025-11-21,937.92,2,Completed,Wallet
+BK000827,Aditi Joshi,74.0,Male,Bus,Agra,Prayagraj,2026-07-25,2026-10-02,1659.42,1,Completed,Cash
+BK000828,Ananya Khan,11.0,Female,Bus,Patna,Kanpur,2025-02-13,2025-03-07,1749.44,5,Completed,Wallet
+BK000829,Meera Gupta,23.0,Female,Bus,Lucknow,Jaipur,2025-12-05,2025-12-29,932.93,3,Completed,Card
+BK000830,Diya Roy,7.0,Other,Train,Mumbai,Kolkata,2025-07-21,2025-10-17,1019.68,3,Completed,Wallet
+BK000831,Meera Roy,18.0,Male,Bus,Agra,Prayagraj,2026-04-16,2026-05-26,791.98,4,Completed,Net Banking
+BK000832,Zoya Patel,38.0,Female,Bus,Delhi,Jaipur,2025-09-25,2025-10-16,1816.11,1,Completed,Net Banking
+BK000833,Zoya Yadav,21.0,Female,Train,Kolkata,Ranchi,2025-05-21,2025-07-14,2306.12,1,Completed,Cash
+BK000834,Arjun Yadav,54.0,Male,Bus,Ranchi,Agra,2025-05-27,2025-05-31,2059.51,2,Completed,UPI
+BK000835,Zoya Sharma,11.0,Female,Train,Kolkata,Agra,2025-10-08,2025-11-02,1253.9,5,Completed,UPI
+BK000836,Neha Mishra,77.0,Other,Train,Ranchi,Mumbai,2025-11-14,2026-02-01,1848.73,4,Completed,UPI
+BK000837,Neha Das,54.0,Male,Bus,Delhi,Lucknow,2026-05-27,2026-05-29,1923.73,1,Completed,Cash
+BK000838,Zoya Das,59.0,Female,Bus,Lucknow,Prayagraj,2025-01-26,2025-04-26,692.9,1,Completed,Cash
+BK000839,Zoya Patel,77.0,Male,Bus,Ranchi,Lucknow,2025-11-23,2025-12-05,1837.43,1,Completed,Cash
+BK000840,Zoya Patel,68.0,Female,Bus,Ranchi,Delhi,2026-08-18,2026-10-21,836.06,2,Cancelled,Net Banking
+BK000841,Meera Das,55.0,Female,Bus,Kolkata,Patna,2026-07-17,2026-09-11,1058.27,4,Completed,UPI
+BK000842,Kavya Rao,49.0,Female,Train,Kanpur,Patna,2026-04-24,2026-05-27,2052.93,5,Completed,Card
+BK000843,Sana Singh,54.0,Female,Train,Agra,Kolkata,2026-05-12,2026-07-29,1714.91,1,Completed,Wallet
+BK000844,Neha Singh,25.0,Female,Bus,Lucknow,Mumbai,2025-09-01,2025-10-04,569.27,4,Completed,Wallet
+BK000845,Diya Yadav,57.0,Male,Bus,Bhopal,Agra,2026-09-14,2026-11-22,1525.16,1,Completed,Cash
+BK000846,Kabir Sharma,58.0,Male,Train,Delhi,Kanpur,2025-02-27,2025-03-22,2796.73,1,Completed,Net Banking
+BK000847,Neha Joshi,51.0,Male,Bus,Kanpur,Mumbai,2025-05-18,2025-07-20,1443.03,1,Pending,Card
+BK000848,Neha Roy,79.0,Female,Bus,Delhi,Ranchi,2026-07-02,2026-08-18,813.86,1,Cancelled,UPI
+BK000849,Aditi Rao,80.0,Male,Bus,Patna,Kolkata,2026-02-19,2026-03-29,556.95,1,Completed,Net Banking
+BK000850,Aarav Yadav,42.0,Male,Bus,Mumbai,Varanasi,2026-03-24,2026-05-07,622.45,3,Completed,Net Banking
+BK000851,Kavya Verma,15.0,Male,Bus,Mumbai,Prayagraj,2025-06-19,2025-08-29,1805.67,3,Completed,UPI
+BK000852,Kabir Mishra,41.0,Female,Train,Ranchi,Prayagraj,2025-08-13,2025-09-06,1912.62,3,Completed,UPI
+BK000853,Zoya Sharma,13.0,Male,Bus,Agra,Mumbai,2025-07-10,2025-09-29,1644.97,1,Completed,Wallet
+BK000854,Rohan Yadav,24.0,Female,Train,Bhopal,Varanasi,2025-05-07,2025-08-01,1799.74,3,Completed,Net Banking
+BK000855,Ishaan Patel,39.0,Male,Bus,Prayagraj,Lucknow,2025-02-18,2025-05-01,583.3,5,Completed,Net Banking
+BK000856,Ishaan Joshi,58.0,Male,Bus,Prayagraj,Patna,2026-07-27,2026-08-25,1446.95,1,Cancelled,Wallet
+BK000857,Arjun Joshi,59.0,Male,Bus,Kanpur,Patna,2025-02-01,2025-02-09,736.41,1,Completed,Card
+BK000858,,73.0,Female,Bus,Delhi,Bhopal,2026-04-13,2026-06-13,1022.28,3,Completed,Net Banking
+BK000859,Aarav Mishra,10.0,Male,Train,Mumbai,Agra,2025-07-04,2025-10-01,1540.81,5,Completed,UPI
+BK000860,Neha Gupta,47.0,Male,Train,Lucknow,Varanasi,2025-07-01,2025-07-15,2858.12,1,Cancelled,UPI
+BK000861,Neha Joshi,16.0,Female,Bus,Bhopal,Jaipur,2026-10-01,2026-12-06,595.33,4,Completed,Net Banking
+BK000862,Arjun Rao,71.0,Male,Train,Bhopal,Agra,2026-07-25,2026-08-10,1738.2,2,Completed,Card
+BK000863,Aditi Verma,8.0,Female,Bus,Agra,Mumbai,2025-02-18,2025-05-04,781.75,1,Completed,Card
+BK000864,Rohan Khan,12.0,Male,Bus,Bhopal,Ranchi,2025-06-27,2025-07-04,1221.32,2,Completed,Wallet
+BK000865,Kavya Singh,68.0,Male,Train,Delhi,Patna,2025-10-27,2025-12-08,1599.24,1,Completed,UPI
+BK000866,Vihaan Patel,66.0,Female,Bus,Ranchi,Jaipur,2026-02-08,2026-04-07,933.54,2,Pending,Net Banking
+BK000867,Zoya Gupta,55.0,Male,Bus,Bhopal,Lucknow,2025-10-05,2025-10-15,2069.01,5,Completed,UPI
+BK000868,Kavya Mishra,41.0,Female,Train,Bhopal,Ranchi,2025-12-14,2026-02-08,451.23,1,Completed,Card
+BK000869,Aditi Singh,29.0,Female,Train,Agra,Kolkata,2025-04-12,2025-05-11,725.84,5,Completed,Net Banking
+BK000870,Rohan Verma,51.0,Male,Train,Lucknow,Patna,2026-06-18,2026-06-19,1884.68,5,Completed,Net Banking
+BK000871,Kavya Gupta,62.0,Male,Bus,Agra,Delhi,2025-04-15,2025-06-26,1658.12,2,Completed,UPI
+BK000872,Neha Yadav,35.0,Male,Train,Kanpur,Agra,2026-09-17,2026-10-01,759.54,4,Completed,Wallet
+BK000873,Kabir Mishra,68.0,Female,Bus,Lucknow,Kanpur,2025-01-26,2025-04-21,718.62,5,Completed,UPI
+BK000874,Aarav Mishra,66.0,Female,Bus,Prayagraj,Varanasi,2025-09-16,2025-10-11,1151.25,1,Completed,Cash
+BK000875,Meera Patel,9.0,Female,Bus,Kolkata,Agra,2025-05-22,2025-06-22,1855.84,2,Completed,Wallet
+BK000876,Sana Singh,57.0,Female,Train,Varanasi,Prayagraj,2025-10-25,2025-11-16,1718.32,2,Completed,Card
+BK000877,Arjun Rao,32.0,Female,Train,Lucknow,Patna,2025-10-12,2025-12-07,1530.02,1,Completed,Wallet
+BK000878,Aditi Patel,66.0,Female,Bus,Delhi,Lucknow,2025-02-25,2025-03-10,1004.55,1,Completed,UPI
+BK000879,Aarav Mishra,27.0,Male,Bus,Mumbai,Varanasi,2025-10-12,2025-10-23,1124.98,1,Completed,Card
+BK000880,Meera Joshi,16.0,Female,Bus,Kolkata,Prayagraj,2026-08-16,2026-09-11,792.94,5,Completed,Wallet
+BK000881,Ananya Singh,65.0,Male,Train,Bhopal,Prayagraj,2026-06-18,2026-07-10,1751.17,1,Completed,UPI
+BK000882,Aditi Joshi,9.0,Male,Train,Jaipur,Mumbai,2026-05-10,2026-07-02,1540.8,2,Completed,Wallet
+BK000883,Sana Rao,11.0,Female,Train,Varanasi,Patna,2026-04-14,2026-05-15,2221.57,2,Completed,Net Banking
+BK000884,Kavya Roy,14.0,Male,Bus,Varanasi,Kanpur,2025-05-06,2025-06-20,1176.11,5,Completed,Net Banking
+BK000885,Diya Mishra,38.0,Male,Bus,Lucknow,Bhopal,2026-04-24,2026-05-07,827.4,2,Cancelled,Cash
+BK000886,Neha Joshi,64.0,Male,Bus,Kanpur,Bhopal,2025-08-31,2025-10-21,1282.14,1,Completed,Card
+BK000887,Neha Verma,56.0,Female,Bus,Delhi,Bhopal,2025-07-27,2025-10-18,683.14,1,Completed,UPI
+BK000888,Kavya Sharma,78.0,Male,Bus,Ranchi,Lucknow,2025-05-24,2025-05-29,981.07,2,Completed,Net Banking
+BK000889,Meera Roy,34.0,Male,Bus,Mumbai,Prayagraj,2025-09-01,2025-09-16,1228.04,2,Completed,Cash
+BK000890,Sana Gupta,13.0,Female,Train,Kolkata,Patna,2025-07-23,2025-08-11,2102.71,5,Completed,Net Banking
+BK000891,Kabir Roy,55.0,Male,Train,Lucknow,Ranchi,2025-12-05,2026-01-28,2409.53,5,Completed,Wallet
+BK000892,Sana Singh,69.0,Male,Bus,Lucknow,Agra,2026-05-27,2026-08-18,1031.31,3,Completed,Card
+BK000893,Kabir Singh,22.0,Male,Train,Jaipur,Mumbai,2025-09-22,2025-10-26,1337.74,4,Completed,Cash
+BK000894,Aditi Sharma,39.0,Female,Train,Varanasi,Patna,2026-03-04,2026-05-15,2060.28,3,Completed,Card
+BK000895,Zoya Patel,17.0,Male,Bus,Agra,Delhi,2025-12-28,2026-03-27,547.76,4,Completed,UPI
+BK000896,Kabir Singh,5.0,Female,Bus,Ranchi,Varanasi,2025-06-22,2025-09-20,2114.76,4,Confirmed,Wallet
+BK000897,Zoya Khan,46.0,Male,Bus,Prayagraj,Delhi,2026-01-31,2026-03-21,655.18,1,Confirmed,Card
+BK000898,Aarav Joshi,6.0,Male,Train,Bhopal,Prayagraj,2026-06-22,2026-08-03,857.46,4,Pending,Wallet
+BK000899,Kavya Das,32.0,Female,Train,Prayagraj,Ranchi,2025-05-05,2025-08-02,2207.7,4,Confirmed,Card
+BK000900,Zoya Gupta,24.0,Male,Bus,Bhopal,Kolkata,2025-10-15,2025-10-19,1520.99,1,Completed,Net Banking
+BK000901,Ishaan Mishra,64.0,Male,Train,Varanasi,Prayagraj,2026-07-20,2026-09-03,2153.36,1,Pending,Card
+BK000902,Ishaan Gupta,63.0,Male,Train,Kolkata,Ranchi,2025-06-06,2025-07-07,1536.81,3,Confirmed,Wallet
+BK000903,Diya Das,16.0,Female,Bus,Prayagraj,Delhi,2026-05-01,2026-07-09,784.06,2,Completed,UPI
+BK000904,Arjun Sharma,31.0,Male,Bus,Ranchi,Patna,2025-01-21,2025-04-16,1284.73,1,Cancelled,Card
+BK000905,Zoya Joshi,78.0,Male,Train,Mumbai,Patna,2025-03-27,2025-04-04,2490.75,4,Completed,Wallet
+BK000906,Diya Singh,72.0,Male,Bus,Ranchi,Delhi,2025-12-02,2026-01-17,823.51,4,Completed,Card
+BK000907,Diya Rao,71.0,Female,Train,Delhi,Varanasi,2025-09-11,2025-12-03,1978.74,4,Completed,Cash
+BK000908,Diya Sharma,49.0,Female,Bus,Kolkata,Varanasi,2025-02-16,2025-03-05,772.59,4,Completed,UPI
+BK000909,Aditi Singh,33.0,Male,Bus,Bhopal,Delhi,2026-01-07,2026-01-10,447.72,4,Completed,UPI
+BK000910,Ishaan Das,35.0,Female,Train,Kanpur,Ranchi,2026-01-21,2026-02-26,595.71,2,Cancelled,Wallet
+BK000911,Rohan Khan,18.0,Female,Bus,Patna,Jaipur,2025-02-17,2025-05-10,1283.69,3,Completed,Card
+BK000912,Kabir Yadav,70.0,Female,Train,Delhi,Ranchi,2025-11-16,2025-12-16,719.3,3,Completed,Card
+BK000913,Meera Das,14.0,Female,Train,Prayagraj,Mumbai,2025-12-26,2026-01-19,1722.19,2,Confirmed,Net Banking
+BK000914,Arjun Patel,40.0,Female,Bus,Ranchi,Kanpur,2025-05-08,2025-05-18,1407.93,3,Completed,Card
+BK000915,Arjun Rao,18.0,Male,Bus,Lucknow,Kanpur,2025-04-30,2025-05-27,907.09,4,Completed,Wallet
+BK000916,Kabir Das,14.0,Female,Train,Jaipur,Lucknow,2025-07-05,2025-09-09,3008.67,5,Confirmed,Net Banking
+BK000917,Ishaan Das,67.0,Female,Train,Lucknow,Patna,2026-08-14,2026-08-25,712.06,1,Completed,Net Banking
+BK000918,Vihaan Joshi,41.0,Female,Bus,Agra,Bhopal,2025-01-19,2025-03-12,504.88,2,Completed,Card
+BK000919,Arjun Mishra,23.0,Male,Bus,Varanasi,Prayagraj,2025-04-17,2025-07-04,488.16,1,Completed,Cash
+BK000920,Vihaan Rao,18.0,Female,Bus,Kolkata,Varanasi,2026-03-27,2026-05-28,442.33,4,Completed,Wallet
+BK000921,Kavya Patel,17.0,Male,Train,Jaipur,Bhopal,2026-06-19,2026-09-13,1877.21,1,Completed,Wallet
+BK000922,Neha Khan,15.0,Female,Bus,Agra,Kolkata,2026-03-22,2026-04-29,1319.72,1,Completed,UPI
+BK000923,Zoya Das,65.0,Female,Bus,Kolkata,Kanpur,2025-08-19,2025-09-28,1175.1,5,Completed,Cash
+BK000924,Rohan Verma,78.0,Male,Train,Varanasi,Ranchi,2025-02-03,2025-04-25,2712.49,4,Completed,Net Banking
+BK000925,Kabir Mishra,43.0,Male,Bus,Jaipur,Lucknow,2026-04-19,2026-05-12,392.18,3,Confirmed,Wallet
+BK000926,Aarav Mishra,38.0,Male,Bus,Ranchi,Delhi,2025-08-16,2025-09-06,1124.54,4,Cancelled,Wallet
+BK000927,Vihaan Sharma,64.0,Male,Train,Kolkata,Jaipur,2025-02-06,2025-03-18,922.03,2,Completed,Wallet
+BK000928,Arjun Khan,11.0,Other,Train,Jaipur,Patna,2025-07-23,2025-07-27,2013.2,2,Cancelled,Net Banking
+BK000929,Arjun Patel,32.0,Male,Bus,Mumbai,Agra,2026-09-29,2026-11-17,908.28,5,Completed,Card
+BK000930,Sana Khan,37.0,Male,Train,Varanasi,Patna,2025-06-19,2025-08-26,662.1,2,Confirmed,Wallet
+BK000931,Neha Verma,24.0,Male,Bus,Delhi,Agra,2025-01-09,2025-04-08,585.83,4,Completed,Card
+BK000932,Kabir Das,46.0,Female,Train,Jaipur,Patna,2026-10-10,2026-11-06,975.84,1,Completed,Wallet
+BK000933,Vihaan Patel,5.0,Female,Train,Varanasi,Kolkata,2025-02-21,2025-03-11,2553.85,2,Completed,UPI
+BK000934,Aarav Joshi,64.0,Male,Train,Delhi,Prayagraj,2026-02-02,2026-03-28,916.56,1,Completed,Cash
+BK000935,Arjun Verma,16.0,Female,Train,Bhopal,Patna,2026-02-18,2026-03-09,2060.03,3,Completed,UPI
+BK000936,Aarav Rao,25.0,Male,Bus,Delhi,Bhopal,2025-05-12,2025-06-13,1122.39,3,Completed,Cash
+BK000937,Diya Mishra,10.0,Male,Bus,Mumbai,Bhopal,2025-06-10,2025-06-18,587.01,3,Confirmed,Net Banking
+BK000938,Ananya Gupta,36.0,Male,Bus,Mumbai,Kanpur,2025-05-23,2025-07-06,1915.47,1,Confirmed,Card
+BK000939,Aditi Sharma,58.0,Male,Bus,Jaipur,Ranchi,2025-05-30,2025-08-12,777.59,5,Cancelled,Card
+BK000940,Aarav Gupta,40.0,Male,Bus,Jaipur,Bhopal,2025-05-15,2025-06-07,1022.6,1,Completed,Net Banking
+BK000941,Neha Khan,54.0,Female,Bus,Varanasi,Kanpur,2026-03-26,2026-05-19,1384.33,1,Pending,Net Banking
+BK000942,Aditi Roy,60.0,Male,Train,Kolkata,Prayagraj,2026-08-06,2026-08-29,1592.07,4,Completed,Cash
+BK000943,Rohan Das,70.0,Female,Bus,Lucknow,Kanpur,2025-08-09,2025-10-26,938.38,2,Completed,Wallet
+BK000944,Arjun Sharma,65.0,Other,Bus,Prayagraj,Delhi,2026-05-11,2026-06-21,611.55,3,Completed,Net Banking
+BK000945,Vihaan Rao,21.0,Male,Bus,Patna,Jaipur,2026-02-13,2026-04-05,457.71,4,Completed,UPI
+BK000946,Kabir Mishra,59.0,Male,Train,Jaipur,Bhopal,2025-05-14,2025-07-26,2989.21,2,Completed,Card
+BK000947,Aditi Sharma,30.0,Female,Bus,Varanasi,Ranchi,2025-07-24,2025-10-15,1847.34,3,Completed,Cash
+BK000948,Meera Verma,79.0,Male,Bus,Patna,Varanasi,2026-03-29,2026-05-09,2256.24,2,Cancelled,UPI
+BK000949,Kabir Mishra,70.0,Male,Bus,Agra,Kolkata,2025-06-11,2025-08-02,985.89,2,Pending,UPI
+BK000950,Aarav Das,18.0,Female,Bus,Lucknow,Patna,2025-01-19,2025-02-01,994.75,4,Completed,Net Banking
+BK000951,Neha Patel,6.0,Male,Train,Mumbai,Bhopal,2026-05-09,2026-07-14,2452.14,5,Completed,Wallet
+BK000952,Diya Singh,48.0,Male,Train,Prayagraj,Agra,2026-07-05,2026-07-13,1088.51,3,Confirmed,Wallet
+BK000953,Aditi Gupta,67.0,Male,Bus,Varanasi,Delhi,2026-02-22,2026-04-09,853.22,3,Completed,Cash
+BK000954,Neha Rao,51.0,Male,Bus,Patna,Delhi,2026-03-30,2026-04-03,1433.71,4,Completed,UPI
+BK000955,Ishaan Verma,51.0,Male,Train,Patna,Delhi,2025-08-06,2025-10-01,1671.94,1,Cancelled,UPI
+BK000956,Aarav Roy,50.0,Male,Train,Jaipur,Lucknow,2025-04-26,2025-05-22,1742.01,5,Cancelled,Card
+BK000957,Kavya Singh,26.0,Male,Bus,Agra,Mumbai,2025-03-31,2025-05-26,792.61,4,Cancelled,Wallet
+BK000958,Neha Gupta,14.0,Male,Bus,Lucknow,Prayagraj,2025-09-09,2025-10-05,1133.91,1,Pending,Card
+BK000959,Meera Singh,52.0,Female,Bus,Agra,Kolkata,2026-08-03,2026-08-18,1179.81,2,Completed,Cash
+BK000960,Arjun Gupta,77.0,Female,Train,Prayagraj,Patna,2025-02-19,2025-04-11,1872.18,5,Completed,Wallet
+BK000961,Meera Roy,26.0,Female,Train,Delhi,Varanasi,2025-08-01,2025-09-20,1808.28,3,Completed,Card
+BK000962,Neha Sharma,75.0,Female,Bus,Prayagraj,Kolkata,2025-06-15,2025-07-24,887.01,4,Completed,Cash
+BK000963,Vihaan Roy,15.0,Male,Bus,Lucknow,Mumbai,2026-02-20,2026-04-10,607.95,4,Cancelled,Cash
+BK000964,Aarav Sharma,,Male,Bus,Kolkata,Kanpur,2025-06-09,2025-09-06,1753.73,2,Completed,Cash
+BK000965,Aditi Rao,40.0,Female,Train,Jaipur,Ranchi,2026-08-20,2026-11-16,2103.08,5,Completed,Card
+BK000966,Kabir Das,21.0,Female,Train,Kanpur,Prayagraj,2026-04-15,2026-07-11,807.78,3,Completed,Cash
+BK000967,Aarav Sharma,70.0,Female,Bus,Prayagraj,Kanpur,2026-09-19,2026-12-14,555.57,1,Confirmed,Net Banking
+BK000968,Aditi Gupta,53.0,Female,Train,Kolkata,Ranchi,2026-03-15,2026-03-17,862.32,4,Completed,Card
+BK000969,Sana Patel,55.0,Female,Train,Mumbai,Kanpur,2026-02-19,2026-03-31,736.7,2,Confirmed,Cash
+BK000970,Aarav Joshi,15.0,Male,Train,Delhi,Patna,2025-04-27,2025-05-04,1263.74,4,Completed,Cash
+BK000971,Sana Rao,14.0,Male,Bus,Lucknow,Delhi,2025-01-08,2025-03-09,886.77,1,Confirmed,Card
+BK000972,Meera Verma,16.0,Male,Bus,Agra,Mumbai,2025-11-15,2026-01-14,950.35,3,Completed,Net Banking
+BK000973,Kavya Joshi,66.0,Other,Bus,Ranchi,Jaipur,2025-10-31,2025-12-01,1825.96,2,Completed,Net Banking
+BK000974,Meera Sharma,53.0,Other,Bus,Agra,Delhi,2025-05-02,2025-07-05,837.3,2,Completed,Wallet
+BK000975,Ananya Roy,28.0,Male,Bus,Mumbai,Kanpur,2026-10-02,2026-12-29,1268.62,1,Cancelled,Card
+BK000976,Meera Yadav,69.0,Female,Bus,Delhi,Varanasi,2026-01-22,2026-02-01,1496.63,4,Completed,
+BK000977,Kabir Roy,80.0,Male,Bus,Bhopal,Patna,2026-08-25,2026-10-29,1295.05,4,Completed,UPI
+BK000978,Kabir Khan,75.0,Female,Bus,Delhi,Kolkata,2026-01-31,2026-02-13,1038.29,1,Completed,Card
+BK000979,Zoya Rao,6.0,Female,Train,Lucknow,Ranchi,2025-03-05,2025-03-13,1932.41,1,Completed,UPI
+BK000980,Meera Joshi,16.0,Female,Bus,Bhopal,Delhi,2025-07-17,2025-09-25,360.9,3,Completed,Net Banking
+BK000981,Diya Verma,33.0,Female,Bus,Kolkata,Jaipur,2026-01-04,2026-03-14,981.31,2,Completed,Cash
+BK000982,Ananya Singh,64.0,Other,Train,Varanasi,Kanpur,2025-12-01,2025-12-12,2490.61,3,Completed,Cash
+BK000983,Rohan Khan,20.0,Male,Train,Bhopal,Varanasi,2025-01-21,2025-02-10,2415.49,3,Pending,Net Banking
+BK000984,Zoya Verma,59.0,Female,Bus,Delhi,Mumbai,2026-04-08,2026-05-13,949.52,2,Pending,Cash
+BK000985,Meera Joshi,61.0,Female,Train,Kolkata,Kanpur,2025-09-03,2025-10-28,2285.35,1,Cancelled,UPI
+BK000986,Kabir Roy,74.0,Male,Bus,Mumbai,Delhi,2026-01-27,2026-04-09,795.32,2,Pending,Net Banking
+BK000987,Aditi Joshi,62.0,Female,Train,Kanpur,Prayagraj,2026-03-02,2026-04-07,1280.38,1,Completed,Card
+BK000988,Meera Mishra,16.0,Male,Train,Ranchi,Lucknow,2026-03-11,2026-04-09,1948.86,4,Pending,Wallet
+BK000989,Aditi Singh,46.0,Female,Bus,Ranchi,Lucknow,2025-05-25,2025-07-14,362.42,4,Completed,Cash
+BK000990,Vihaan Khan,14.0,Male,Train,Lucknow,Varanasi,2026-08-14,2026-10-05,1266.96,1,Cancelled,Net Banking
+BK000991,Zoya Gupta,79.0,Male,Bus,Varanasi,Patna,2025-06-09,2025-07-13,589.88,3,Completed,Net Banking
+BK000992,Meera Singh,19.0,Male,Train,Patna,Ranchi,2026-02-06,2026-03-31,1617.53,4,Completed,UPI
+BK000993,Meera Patel,13.0,Female,Bus,Jaipur,Lucknow,2025-06-06,2025-07-02,1254.57,3,Completed,Cash
+BK000994,Diya Rao,45.0,Male,Train,Prayagraj,Kanpur,2025-11-25,2026-02-19,3123.97,3,Confirmed,Net Banking
+BK000995,Aarav Mishra,12.0,Male,Bus,Varanasi,Kanpur,2025-05-07,2025-05-31,400.07,2,Completed,Net Banking
+BK000996,Diya Das,38.0,Male,Train,Ranchi,Kolkata,2025-11-17,2026-02-10,1461.76,1,Cancelled,Cash
+BK000997,Aarav Singh,66.0,Female,Train,Jaipur,Varanasi,2025-10-31,2025-11-28,748.44,5,Confirmed,UPI
+BK000998,Meera Joshi,39.0,Male,Bus,Patna,Prayagraj,2025-12-14,2025-12-22,1041.74,2,Completed,Card
+BK000999,Ishaan Joshi,39.0,Female,Bus,Lucknow,Kanpur,2025-01-26,2025-03-13,292.91,3,Completed,Card
+BK001000,Neha Rao,52.0,Female,Train,Lucknow,Kolkata,2025-06-27,2025-08-21,2433.96,5,Cancelled,Card
+BK001001,Ishaan Patel,17.0,Female,Bus,Ranchi,Mumbai,2025-12-30,2026-01-24,1190.82,2,Completed,UPI
+BK001002,Rohan Yadav,31.0,Female,Bus,Patna,Bhopal,2025-03-27,2025-06-18,628.18,3,Cancelled,Wallet
+BK001003,Zoya Das,48.0,Male,Bus,Prayagraj,Lucknow,2026-02-04,2026-02-14,908.26,2,Confirmed,Wallet
+BK001004,Rohan Das,65.0,Female,Train,Patna,Kanpur,2026-05-10,2026-05-11,1244.46,3,Pending,
+BK001005,Ananya Patel,48.0,Female,Bus,Varanasi,Delhi,2026-09-03,2026-10-12,926.56,4,Completed,Card
+BK001006,Meera Rao,69.0,Female,Bus,Agra,Patna,2025-01-20,2025-02-16,1747.68,3,Completed,Cash
+BK001007,Ananya Patel,45.0,Male,Train,Varanasi,Delhi,2026-03-07,2026-03-21,1439.04,4,Completed,UPI
+BK001008,Vihaan Das,54.0,Male,Train,Lucknow,Bhopal,2025-01-09,2025-02-03,2016.54,4,Pending,Wallet
+BK001009,Ananya Gupta,8.0,Male,Bus,Mumbai,Kanpur,2026-02-04,2026-02-19,770.52,2,Completed,Cash
+BK001010,Meera Roy,48.0,Male,Bus,Patna,Kanpur,2026-05-21,2026-08-09,1194.66,4,Completed,Card
+BK001011,Diya Singh,20.0,Female,Bus,Lucknow,Delhi,2025-01-09,2025-02-15,972.97,2,Completed,Card
+BK001012,Ishaan Gupta,42.0,Male,Bus,Delhi,Ranchi,2025-09-13,2025-12-08,1450.56,4,Pending,Wallet
+BK001013,Meera Singh,16.0,Male,Bus,Patna,Bhopal,2025-08-29,2025-11-11,665.22,4,Completed,Net Banking
+BK001014,Neha Patel,43.0,Male,Train,Jaipur,Bhopal,2025-02-24,2025-04-12,757.02,5,Pending,Card
+BK001015,Kabir Roy,27.0,Male,Train,Lucknow,Agra,2026-03-05,2026-04-10,2776.91,4,Cancelled,Card
+BK001016,Aditi Sharma,19.0,Female,Train,Bhopal,Delhi,2025-07-02,2025-09-15,3141.64,5,Completed,Wallet
+BK001017,Kavya Sharma,66.0,Female,Train,Agra,Delhi,2026-07-14,2026-07-26,1054.52,4,Completed,Net Banking
+BK001018,Ananya Yadav,28.0,Male,Bus,Kanpur,Delhi,2026-09-22,2026-10-22,681.7,1,Completed,Wallet
+BK001019,Ishaan Das,27.0,Male,Train,Prayagraj,Lucknow,2026-04-16,2026-06-13,1298.29,3,Completed,Card
+BK001020,Aditi Gupta,34.0,Female,Train,Patna,Delhi,2026-05-18,2026-05-27,2071.95,4,Cancelled,Card
+BK001021,Ishaan Singh,35.0,Male,Bus,Bhopal,Delhi,2026-09-08,2026-09-13,1768.78,1,Completed,Card
+BK001022,Rohan Khan,14.0,Male,Bus,Varanasi,Jaipur,2026-04-18,2026-05-27,752.01,1,Confirmed,UPI
+BK001023,Ishaan Verma,7.0,Male,Bus,Lucknow,Kolkata,2026-07-01,2026-08-24,1176.56,4,Completed,Cash
+BK001024,Zoya Verma,47.0,Male,Train,Agra,Mumbai,2026-06-30,2026-08-31,1476.01,5,Confirmed,Cash
+BK001025,Meera Singh,50.0,Male,Train,Jaipur,Varanasi,2025-12-07,2025-12-09,1280.66,3,Completed,Cash
+BK001026,Ishaan Yadav,70.0,Male,Train,Patna,Jaipur,2025-08-30,2025-10-22,660.38,3,Confirmed,Card
+BK001027,Neha Joshi,27.0,Male,Bus,Lucknow,Ranchi,2025-06-26,2025-08-29,1180.5,2,Confirmed,Wallet
+BK001028,Arjun Gupta,70.0,Female,Bus,Varanasi,Mumbai,2026-07-25,2026-08-18,625.13,4,Completed,Net Banking
+BK001029,Aarav Mishra,20.0,Female,Bus,Kanpur,Lucknow,2025-05-22,2025-07-14,1173.93,3,Confirmed,Cash
+BK001030,Aditi Roy,57.0,Female,Train,Patna,Delhi,2025-02-02,2025-02-14,926.89,5,Completed,Cash
+BK001031,Neha Verma,35.0,Male,Bus,Kolkata,Bhopal,2026-08-12,2026-10-08,1170.62,5,Completed,Card
+BK001032,Ananya Sharma,69.0,Male,Bus,Ranchi,Bhopal,2025-06-09,2025-06-23,1685.65,3,Completed,Net Banking
+BK001033,Kabir Das,65.0,Female,Bus,Kanpur,Varanasi,2025-02-18,2025-05-18,1530.46,4,Completed,Card
+BK001034,Kabir Khan,24.0,Male,Bus,Patna,Ranchi,2025-09-26,2025-11-29,592.13,4,Completed,Wallet
+BK001035,Rohan Sharma,79.0,Female,Train,Patna,Ranchi,2026-02-16,2026-03-07,1645.02,5,Completed,Net Banking
+BK001036,Arjun Gupta,22.0,Female,Bus,Delhi,Lucknow,2025-02-10,2025-03-02,1776.54,2,Completed,UPI
+BK001037,Sana Joshi,24.0,Male,Bus,Agra,Prayagraj,2026-10-11,2026-10-14,608.7,3,Completed,Net Banking
+BK001038,Zoya Mishra,34.0,Male,Bus,Mumbai,Patna,2026-04-03,2026-06-04,893.23,2,Completed,Wallet
+BK001039,Aditi Roy,34.0,Male,Bus,Varanasi,Mumbai,2026-05-28,2026-07-21,1216.74,5,Completed,Wallet
+BK001040,Meera Patel,69.0,Female,Bus,Varanasi,Ranchi,2026-01-16,2026-01-26,1458.1,3,Confirmed,Net Banking
+BK001041,Meera Gupta,7.0,Female,Bus,Ranchi,Jaipur,2025-02-16,2025-05-03,1380.45,5,Completed,Cash
+BK001042,Sana Das,63.0,Male,Bus,Kolkata,Prayagraj,2025-06-27,2025-09-08,388.35,1,Confirmed,Net Banking
+BK001043,Sana Mishra,55.0,Female,Bus,Ranchi,Prayagraj,2025-05-27,2025-06-01,660.2,3,Completed,Net Banking
+BK001044,Kavya Rao,50.0,Male,Train,Jaipur,Prayagraj,2025-02-10,2025-03-15,1765.48,4,Completed,Cash
+BK001045,Ishaan Joshi,68.0,Male,Train,Mumbai,Delhi,2026-04-03,2026-06-23,1232.11,2,Completed,Net Banking
+BK001046,Aditi Yadav,9.0,Male,Bus,Kolkata,Ranchi,2025-12-18,2026-02-04,853.37,1,Confirmed,Card
+BK001047,Ananya Yadav,80.0,Female,Train,Kanpur,Varanasi,2026-07-02,2026-09-07,578.31,2,Completed,Card
+BK001048,Kabir Verma,73.0,Female,Bus,Varanasi,Mumbai,2025-10-11,2025-10-13,1879.43,5,Cancelled,Cash
+BK001049,Ishaan Khan,73.0,Female,Bus,Jaipur,Delhi,2025-04-16,2025-06-24,861.08,5,Pending,Wallet
+BK001050,Vihaan Roy,21.0,Male,Bus,Lucknow,Kolkata,2026-08-27,2026-11-08,1172.68,2,Completed,Wallet
+BK001051,Ananya Joshi,69.0,Female,Bus,Lucknow,Kanpur,2025-04-12,2025-06-05,839.12,3,Completed,Cash
+BK001052,Aditi Joshi,48.0,Female,Bus,Lucknow,Jaipur,2025-11-26,2026-01-03,682.76,1,Confirmed,Cash
+BK001053,Aarav Mishra,70.0,Male,Bus,Jaipur,Agra,2025-01-13,2025-03-23,1104.66,3,Completed,UPI
+BK001054,Ishaan Gupta,21.0,Male,Train,Varanasi,Jaipur,2025-11-10,2026-01-22,2875.53,4,Completed,Cash
+BK001055,Aarav Gupta,40.0,Male,Train,Bhopal,Kanpur,2025-07-19,2025-09-01,1022.6,3,Cancelled,Wallet
+BK001056,Aarav Gupta,27.0,Female,Bus,Patna,Lucknow,2026-05-12,2026-06-17,712.8,3,Cancelled,Cash
+BK001057,Zoya Sharma,45.0,Female,Bus,Lucknow,Patna,2025-06-04,2025-07-24,1351.88,4,Cancelled,Card
+BK001058,Vihaan Joshi,13.0,Male,Bus,Mumbai,Jaipur,2026-04-05,2026-05-07,1151.09,3,Completed,Cash
+BK001059,Aditi Gupta,34.0,Female,Bus,Kanpur,Delhi,2026-04-20,2026-05-24,1066.63,4,Completed,Wallet
+BK001060,Kabir Roy,68.0,Male,Bus,Prayagraj,Kanpur,2025-02-05,2025-02-19,663.25,2,Completed,Wallet
+BK001061,Kavya Das,41.0,Female,Bus,Varanasi,Lucknow,2026-07-15,2026-09-03,1534.62,5,Completed,Cash
+BK001062,Kabir Roy,63.0,Female,Train,Kolkata,Varanasi,2026-08-10,2026-09-25,706.72,2,Confirmed,Net Banking
+BK001063,Zoya Das,18.0,Female,Train,Bhopal,Kanpur,2025-10-30,2025-12-17,1077.6,2,Completed,UPI
+BK001064,Meera Gupta,5.0,Male,Train,Bhopal,Kolkata,2025-02-27,2025-05-02,897.89,5,Cancelled,Wallet
+BK001065,Arjun Khan,53.0,Female,Bus,Patna,Kolkata,2025-03-21,2025-04-24,993.81,3,Cancelled,Net Banking
+BK001066,Ananya Patel,22.0,Female,Bus,Patna,Agra,2025-07-03,2025-07-22,979.18,5,Completed,UPI
+BK001067,Ishaan Das,29.0,Female,Bus,Varanasi,Kolkata,2026-08-07,2026-08-13,770.55,2,Cancelled,Wallet
+BK001068,Sana Verma,70.0,Female,Train,Jaipur,Ranchi,2025-03-22,2025-05-17,2853.97,1,Cancelled,Net Banking
+BK001069,Sana Sharma,64.0,Female,Bus,Prayagraj,Jaipur,2026-08-10,2026-09-13,1036.16,1,Confirmed,Card
+BK001070,Rohan Mishra,15.0,Female,Train,Bhopal,Kanpur,2025-08-07,2025-09-09,1168.94,2,Completed,UPI
+BK001071,Ananya Sharma,75.0,Male,Train,Ranchi,Prayagraj,2025-01-07,2025-04-04,2051.81,1,Completed,Cash
+BK001072,Ishaan Verma,19.0,Male,Train,Jaipur,Delhi,2026-04-29,2026-07-03,668.07,2,Pending,Card
+BK001073,Kavya Joshi,49.0,Male,Bus,Prayagraj,Bhopal,2026-07-18,2026-09-05,698.03,5,Confirmed,Cash
+BK001074,Vihaan Roy,74.0,Other,Bus,Prayagraj,Agra,2026-01-14,2026-03-20,866.63,4,Completed,UPI
+BK001075,Vihaan Sharma,55.0,Female,Bus,Ranchi,Prayagraj,2025-10-21,2025-12-11,1822.42,5,Completed,UPI
+BK001076,Diya Sharma,7.0,Female,Bus,Ranchi,Prayagraj,2025-01-13,2025-01-19,1446.84,3,Completed,Cash
+BK001077,Arjun Roy,12.0,Male,Train,Kolkata,Patna,2026-04-06,2026-05-06,2301.57,3,Completed,Card
+BK001078,Ishaan Das,66.0,Female,Bus,Kanpur,Jaipur,2026-02-15,2026-04-28,725.25,2,Completed,Net Banking
+BK001079,Rohan Gupta,67.0,Female,Bus,Kolkata,Bhopal,2025-02-10,2025-03-21,837.23,4,Confirmed,Wallet
+BK001080,Vihaan Sharma,70.0,Female,Train,Bhopal,Agra,2026-09-27,2026-11-01,1148.62,5,Completed,UPI
+BK001081,Diya Singh,21.0,Male,Train,Prayagraj,Kolkata,2026-04-02,2026-04-23,2527.23,1,Completed,Cash
+BK001082,Vihaan Mishra,30.0,Other,Train,Lucknow,Kanpur,2026-02-05,2026-02-11,3212.43,4,Completed,Net Banking
+BK001083,Arjun Roy,7.0,Male,Train,Varanasi,Kolkata,2025-07-01,2025-07-15,3347.18,2,Pending,Net Banking
+BK001084,Aditi Roy,58.0,Male,Bus,Varanasi,Mumbai,2025-10-04,2025-11-08,659.56,5,Cancelled,Wallet
+BK001085,Aarav Patel,59.0,Male,Train,Lucknow,Prayagraj,2025-10-25,2026-01-15,2714.04,3,Completed,Net Banking
+BK001086,Sana Yadav,55.0,Female,Bus,Kolkata,Ranchi,2025-09-06,2025-10-02,1142.0,4,Completed,Net Banking
+BK001087,Aditi Roy,43.0,Female,Bus,Patna,Ranchi,2026-09-05,2026-10-04,906.39,5,Cancelled,UPI
+BK001088,Vihaan Verma,53.0,Male,Train,Prayagraj,Agra,2025-05-10,2025-07-02,1712.65,1,Completed,Card
+BK001089,Zoya Yadav,27.0,Male,Bus,Jaipur,Patna,2025-09-27,2025-11-24,818.28,5,Completed,Cash
+BK001090,Ananya Sharma,44.0,Female,Train,Lucknow,Varanasi,2025-01-23,2025-02-26,648.28,2,Pending,Card
+BK001091,Rohan Patel,51.0,Male,Bus,Mumbai,Agra,2025-08-18,2025-09-27,939.32,3,Cancelled,Cash
+BK001092,Diya Sharma,9.0,Female,Bus,Kolkata,Ranchi,2025-04-21,2025-07-16,675.41,5,Completed,Wallet
+BK001093,Diya Rao,75.0,Male,Train,Varanasi,Delhi,2026-03-23,2026-03-26,1010.1,4,Completed,Card
+BK001094,Ananya Joshi,78.0,Female,Train,Lucknow,Mumbai,2025-12-23,2026-02-10,2038.84,1,Completed,Wallet
+BK001095,Arjun Singh,40.0,Female,Train,Ranchi,Prayagraj,2025-06-11,2025-09-03,1558.74,3,Confirmed,Card
+BK001096,Meera Mishra,15.0,Other,Bus,Ranchi,Agra,2025-09-15,2025-10-10,375.79,3,Completed,Wallet
+BK001097,Ishaan Sharma,26.0,Female,Bus,Ranchi,Kolkata,2026-02-05,2026-03-04,975.74,1,Confirmed,Cash
+BK001098,Vihaan Gupta,49.0,Female,Bus,Prayagraj,Ranchi,2025-01-16,2025-03-30,643.83,3,Completed,Net Banking
+BK001099,Sana Roy,37.0,Female,Bus,Prayagraj,Agra,2026-05-21,2026-06-03,675.91,5,Completed,Net Banking
+BK001100,Sana Yadav,58.0,Female,Bus,Kanpur,Agra,2025-09-07,2025-10-25,1293.42,2,Completed,Wallet
+BK001101,Ananya Khan,46.0,Male,Bus,Mumbai,Bhopal,2026-01-10,2026-03-24,690.77,3,Completed,Wallet
+BK001102,Arjun Rao,57.0,Male,Bus,Delhi,Bhopal,2025-04-13,2025-06-20,1608.74,5,Cancelled,Net Banking
+BK001103,Ishaan Rao,21.0,Male,Bus,Kolkata,Patna,2025-11-25,2026-01-17,1301.08,3,Cancelled,Net Banking
+BK001104,Arjun Khan,13.0,Male,Bus,Jaipur,Delhi,2025-12-14,2025-12-27,650.29,1,Completed,Wallet
+BK001105,Zoya Yadav,13.0,Male,Bus,Mumbai,Ranchi,2025-10-18,2025-11-01,1184.35,5,Completed,UPI
+BK001106,Vihaan Yadav,64.0,Male,Bus,Delhi,Bhopal,2026-03-23,2026-06-06,824.98,5,Cancelled,Wallet
+BK001107,Sana Yadav,33.0,Male,Train,Agra,Varanasi,2026-08-02,2026-09-12,1894.67,3,Confirmed,UPI
+BK001108,Sana Singh,19.0,Female,Bus,Kolkata,Ranchi,2026-06-09,2026-06-14,1401.87,5,Completed,Cash
+BK001109,Aditi Sharma,64.0,Male,Train,Bhopal,Kanpur,2026-07-14,2026-09-12,3286.43,2,Completed,UPI
+BK001110,Ishaan Verma,30.0,Male,Train,Ranchi,Kolkata,2025-10-09,2025-12-26,2740.55,1,Confirmed,UPI
+BK001111,Rohan Singh,71.0,Male,Bus,Lucknow,Jaipur,2025-04-25,2025-07-03,1040.45,1,Completed,Cash
+BK001112,Arjun Khan,12.0,Female,Bus,Kanpur,Agra,2025-01-11,2025-02-04,1048.09,2,Cancelled,Net Banking
+BK001113,Meera Sharma,16.0,Female,Train,Varanasi,Kanpur,2026-04-22,2026-06-15,1824.28,1,Completed,Net Banking
+BK001114,Kabir Das,11.0,Male,Train,Agra,Jaipur,2025-02-12,2025-05-01,1141.26,3,Completed,Card
+BK001115,Vihaan Khan,53.0,Male,Train,Prayagraj,Agra,2026-06-27,2026-07-06,1754.39,5,Completed,UPI
+BK001116,Zoya Yadav,43.0,Female,Bus,Bhopal,Ranchi,2025-12-18,2026-01-21,991.7,2,Completed,UPI
+BK001117,Ishaan Yadav,38.0,Male,Bus,Kolkata,Lucknow,2025-12-27,2026-03-19,633.39,4,Completed,UPI
+BK001118,Zoya Sharma,7.0,Female,Bus,Varanasi,Mumbai,2025-04-23,2025-05-30,2022.31,3,Completed,Cash
+BK001119,Arjun Yadav,49.0,Other,Bus,Ranchi,Delhi,2025-01-04,2025-03-10,1207.6,5,Confirmed,Net Banking
+BK001120,Zoya Patel,13.0,Female,Bus,Kolkata,Patna,2025-03-22,2025-05-15,729.51,4,Completed,Cash
+BK001121,Ishaan Yadav,18.0,Female,Bus,Delhi,Jaipur,2025-11-14,2025-12-24,1251.75,5,Completed,
+BK001122,Rohan Rao,43.0,Female,Train,Prayagraj,Kolkata,2025-06-13,2025-08-02,735.45,4,Completed,Cash
+BK001123,Arjun Mishra,11.0,Female,Bus,Bhopal,Jaipur,2026-02-11,2026-04-06,1270.34,2,Completed,Wallet
+BK001124,Diya Joshi,66.0,Male,Bus,Prayagraj,Varanasi,2025-12-14,2025-12-23,1743.04,4,Completed,Wallet
+BK001125,Zoya Verma,25.0,Male,Bus,Jaipur,Kanpur,2025-06-05,2025-08-11,874.18,3,Cancelled,Card
+BK001126,Sana Yadav,48.0,Female,Train,Kanpur,Prayagraj,2025-02-05,2025-05-02,2210.94,1,Pending,Cash
+BK001127,Meera Khan,43.0,Male,Bus,Mumbai,Agra,2025-03-24,2025-05-23,1029.04,4,Completed,Net Banking
+BK001128,Kavya Mishra,66.0,Male,Train,Ranchi,Lucknow,2026-04-25,2026-07-10,2600.63,3,Cancelled,Card
+BK001129,Meera Mishra,50.0,Female,Train,Varanasi,Mumbai,2025-12-05,2025-12-28,750.04,5,Confirmed,UPI
+BK001130,Meera Khan,42.0,Female,Train,Varanasi,Lucknow,2025-10-27,2025-10-31,2925.82,3,Confirmed,UPI
+BK001131,Kavya Patel,63.0,Female,Bus,Prayagraj,Kanpur,2025-06-07,2025-06-30,685.72,4,Completed,Card
+BK001132,Ananya Yadav,38.0,Female,Train,Patna,Kolkata,2025-02-22,2025-04-13,1413.99,5,Completed,Card
+BK001133,Zoya Sharma,67.0,Female,Train,Jaipur,Agra,2025-10-27,2025-11-19,1535.72,5,Completed,Net Banking
+BK001134,Aditi Das,7.0,Male,Bus,Lucknow,Varanasi,2025-07-16,2025-07-20,2088.83,3,Cancelled,Wallet
+BK001135,Vihaan Khan,33.0,Female,Train,Prayagraj,Bhopal,2025-08-23,2025-09-23,1018.66,2,Completed,Wallet
+BK001136,Ishaan Sharma,16.0,Male,Train,Bhopal,Lucknow,2026-09-05,2026-09-14,1532.34,1,Completed,Wallet
+BK001137,Vihaan Rao,52.0,Other,Bus,Kolkata,Kanpur,2026-07-25,2026-09-17,717.22,3,Cancelled,Wallet
+BK001138,Aarav Gupta,59.0,Male,Train,Jaipur,Varanasi,2026-06-08,2026-07-21,2820.61,4,Completed,Card
+BK001139,Zoya Rao,50.0,Female,Bus,Agra,Delhi,2025-10-07,2025-12-22,1255.18,3,Cancelled,UPI
+BK001140,Aditi Yadav,14.0,Male,Bus,Lucknow,Patna,2025-09-24,2025-10-21,1679.52,2,Cancelled,Card
+BK001141,Ishaan Sharma,51.0,Female,Bus,Varanasi,Delhi,2026-07-08,2026-08-27,1766.39,2,Completed,Wallet
+BK001142,Aarav Yadav,62.0,Female,Train,Kolkata,Prayagraj,2025-08-02,2025-08-27,686.73,4,Completed,Card
+BK001143,Aarav Joshi,58.0,Other,Train,Kanpur,Prayagraj,2025-03-29,2025-06-08,1053.74,4,Completed,UPI
+BK001144,Rohan Joshi,75.0,Female,Train,Kanpur,Patna,2026-07-22,2026-10-01,1467.22,5,Completed,Wallet
+BK001145,Kavya Mishra,69.0,Male,Bus,Kolkata,Agra,2026-07-01,2026-09-22,875.23,1,Completed,Card
+BK001146,Aditi Singh,44.0,Female,Bus,Varanasi,Prayagraj,2025-07-08,2025-07-27,1914.86,2,Completed,Net Banking
+BK001147,Neha Gupta,30.0,Male,Train,Kolkata,Mumbai,2026-09-09,2026-12-05,1681.05,1,Completed,UPI
+BK001148,Ananya Sharma,72.0,Male,Bus,Mumbai,Bhopal,2025-11-17,2026-01-14,1123.29,4,Completed,Net Banking
+BK001149,Arjun Das,,Male,Train,Jaipur,Bhopal,2025-12-02,2026-01-30,827.17,3,Completed,Card
+BK001150,Aditi Patel,9.0,Male,Train,Mumbai,Bhopal,2025-03-06,2025-04-05,949.06,5,Completed,Cash
+BK001151,Vihaan Rao,23.0,Female,Train,Kanpur,Jaipur,2026-02-20,2026-05-13,699.77,4,Completed,Cash
+BK001152,Kavya Joshi,45.0,Female,Bus,Delhi,Jaipur,2025-11-15,2025-12-03,1272.76,3,Completed,UPI
+BK001153,Rohan Rao,53.0,Female,Bus,Varanasi,Agra,2025-10-31,2026-01-17,1513.06,3,Completed,Net Banking
+BK001154,Kavya Das,33.0,Male,Bus,Bhopal,Ranchi,2026-06-14,2026-08-09,1028.3,4,Cancelled,Wallet
+BK001155,Meera Patel,54.0,Female,Train,Varanasi,Prayagraj,2026-07-27,2026-08-18,1940.79,5,Completed,Card
+BK001156,Arjun Joshi,6.0,Female,Train,Mumbai,Ranchi,2025-09-07,2025-11-22,2404.69,4,Completed,Wallet
+BK001157,Kabir Khan,62.0,Male,Bus,Patna,Delhi,2026-04-26,2026-07-03,1530.31,1,Completed,Wallet
+BK001158,Aditi Patel,57.0,Other,Bus,Patna,Mumbai,2025-10-11,2025-12-14,1298.63,4,Confirmed,Wallet
+BK001159,Meera Verma,45.0,Other,Train,Lucknow,Varanasi,2026-03-26,2026-06-24,2043.65,3,Completed,Wallet
+BK001160,Ananya Patel,78.0,Male,Bus,Prayagraj,Ranchi,2025-10-13,2025-11-03,754.15,5,Completed,Cash
+BK001161,Arjun Rao,65.0,Female,Train,Prayagraj,Patna,2025-06-14,2025-08-31,507.26,2,Completed,Net Banking
+BK001162,,19.0,Female,Train,Kanpur,Patna,2025-03-11,2025-05-17,1047.4,4,Completed,Net Banking
+BK001163,Kabir Khan,61.0,Male,Train,Lucknow,Varanasi,2025-11-03,2025-12-13,1427.51,5,Pending,UPI
+BK001164,Rohan Mishra,40.0,Female,Train,Mumbai,Varanasi,2025-03-02,2025-05-31,2671.55,3,Confirmed,Cash
+BK001165,Meera Roy,54.0,Female,Bus,Mumbai,Kolkata,2025-02-02,2025-04-01,1795.2,1,Confirmed,Card
+BK001166,Rohan Khan,13.0,Female,Bus,Kolkata,Jaipur,2025-04-05,2025-06-03,388.73,1,Pending,Cash
+BK001167,Ishaan Patel,15.0,Male,Train,Kanpur,Ranchi,2025-03-21,2025-04-13,632.13,2,Completed,Cash
+BK001168,Neha Joshi,12.0,Male,Bus,Mumbai,Kanpur,2025-08-19,2025-09-08,1410.09,5,Confirmed,Card
+BK001169,Aarav Singh,38.0,Female,Train,Mumbai,Prayagraj,2026-07-11,2026-09-28,1155.92,2,Pending,UPI
+BK001170,Kavya Mishra,38.0,Female,Bus,Lucknow,Agra,2025-04-28,2025-06-11,993.15,2,Cancelled,Net Banking
+BK001171,Zoya Verma,47.0,Female,Bus,Jaipur,Patna,2025-07-26,2025-10-09,1600.59,3,Completed,Cash
+BK001172,Kabir Joshi,50.0,Male,Bus,Bhopal,Patna,2026-02-20,2026-03-26,1801.72,1,Completed,Net Banking
+BK001173,Zoya Joshi,33.0,Female,Train,Delhi,Kanpur,2026-01-15,2026-04-02,1537.78,4,Completed,UPI
+BK001174,Ishaan Mishra,50.0,Male,Train,Prayagraj,Ranchi,2026-02-20,2026-03-31,656.1,1,Completed,UPI
+BK001175,Neha Verma,26.0,Male,Bus,Kanpur,Prayagraj,2025-09-15,2025-09-17,1088.11,4,Completed,Net Banking
+BK001176,Neha Singh,38.0,Male,Train,Kolkata,Prayagraj,2026-01-03,2026-03-10,2153.7,3,Confirmed,Net Banking
+BK001177,Diya Roy,66.0,Female,Bus,Patna,Delhi,2025-03-07,2025-05-06,732.3,5,Cancelled,Cash
+BK001178,Rohan Verma,56.0,Female,Bus,Jaipur,Patna,2025-03-06,2025-05-19,1167.95,5,Confirmed,Card
+BK001179,Vihaan Mishra,18.0,Female,Bus,Delhi,Jaipur,2025-09-27,2025-11-30,1475.22,4,Completed,Wallet
+BK001180,Meera Singh,48.0,Male,Bus,Kolkata,Ranchi,2025-09-17,2025-11-29,910.67,3,Pending,Cash
+BK001181,Ananya Patel,70.0,Female,Bus,Patna,Varanasi,2025-09-23,2025-11-08,394.36,2,Confirmed,Wallet
+BK001182,Ishaan Das,31.0,Female,Train,Patna,Ranchi,2026-08-15,2026-10-21,1308.79,1,Completed,Card
+BK001183,Vihaan Sharma,62.0,,Bus,Delhi,Jaipur,2026-07-24,2026-10-04,1207.22,3,Completed,Net Banking
+BK001184,Aditi Verma,60.0,Male,Train,Agra,Delhi,2025-03-22,2025-06-02,2041.76,5,Completed,Card
+BK001185,Kabir Das,72.0,Other,Bus,Varanasi,Kanpur,2026-09-24,2026-11-22,556.14,4,Completed,Card
+BK001186,Vihaan Joshi,40.0,Female,Train,Kolkata,Patna,2025-03-28,2025-05-18,2589.97,5,Completed,Card
+BK001187,Ananya Yadav,43.0,Male,Train,Delhi,Jaipur,2025-01-18,2025-04-08,1434.47,2,Cancelled,Cash
+BK001188,Ishaan Das,51.0,Male,Bus,Agra,Bhopal,2025-12-31,2026-01-04,516.69,4,Cancelled,Card
+BK001189,Ishaan Rao,43.0,Female,Bus,Agra,Kolkata,2025-12-14,2026-01-28,1781.43,1,Cancelled,Net Banking
+BK001190,Neha Khan,25.0,Male,Bus,Kanpur,Delhi,2025-06-16,2025-07-11,1589.8,5,Cancelled,UPI
+BK001191,Zoya Khan,30.0,Female,Bus,Ranchi,Patna,2026-08-12,2026-09-27,1787.77,3,Cancelled,Card
+BK001192,Meera Yadav,63.0,Female,Train,Kolkata,Varanasi,2025-05-11,2025-05-30,701.56,4,Completed,Card
+BK001193,Kavya Verma,45.0,Male,Bus,Varanasi,Mumbai,2026-01-17,2026-03-17,2170.02,3,Cancelled,Card
+BK001194,Aditi Singh,38.0,Male,Bus,Ranchi,Bhopal,2026-10-07,2026-12-28,1717.02,4,Pending,Wallet
+BK001195,Rohan Patel,31.0,Male,Bus,Kolkata,Prayagraj,2026-04-23,2026-07-07,1895.89,2,Confirmed,Net Banking
+BK001196,Ananya Yadav,40.0,Male,Train,Ranchi,Delhi,2026-05-24,2026-06-16,444.89,2,Pending,UPI
+BK001197,Ananya Sharma,68.0,Female,Bus,Varanasi,Kolkata,2026-07-27,2026-09-04,419.12,4,Completed,Wallet
+BK001198,Aarav Mishra,27.0,Male,Bus,Ranchi,Delhi,2026-06-16,2026-07-31,390.16,2,Completed,UPI
+BK001199,Rohan Gupta,27.0,Female,Train,Bhopal,Agra,2026-09-23,2026-11-22,2172.75,1,Completed,Card
+BK001200,Sana Joshi,55.0,Female,Train,Varanasi,Agra,2025-01-17,2025-02-22,1116.71,4,Completed,Card
+BK000475,Rohan Roy,41.0,Male,Bus,Varanasi,Delhi,2026-06-27,2026-07-09,1004.25,4,Completed,Net Banking
+BK000274,Kabir Roy,56.0,Female,Bus,Ranchi,Varanasi,2025-01-17,2025-02-20,1214.2,2,Cancelled,Net Banking
+BK000005,Ananya Sharma,22.0,Male,Bus,Patna,Lucknow,2026-05-24,2026-07-26,1149.03,2,Cancelled,UPI
+BK000460,Aditi Joshi,49.0,Male,Train,Jaipur,Varanasi,2025-01-31,2025-03-20,1101.25,4,Pending,UPI
+BK000786,Vihaan Sharma,72.0,Male,Bus,Kolkata,Mumbai,2025-12-02,2026-02-19,1072.93,3,Cancelled,UPI
+BK000393,Rohan Rao,31.0,Female,Bus,Mumbai,Lucknow,2026-02-28,2026-03-05,1722.43,1,Completed,Net Banking
+BK000744,Kabir Sharma,36.0,Male,Train,Lucknow,Prayagraj,2026-01-05,2026-03-28,3084.62,5,Completed,Card
+BK000446,Diya Roy,77.0,Other,Train,Ranchi,Delhi,2026-05-09,2026-07-13,1840.02,1,Completed,Card
